@@ -2,7 +2,7 @@
 Author: Vincent Young
 Date: 2022-11-17 02:29:30
 LastEditors: Vincent Young
-LastEditTime: 2022-11-17 03:24:20
+LastEditTime: 2022-11-17 03:42:02
 FilePath: /ASN-China/scripts/ChinaASN.py
 Telegram: https://t.me/missuo
 
@@ -15,9 +15,9 @@ import time
 def initFile():
     localTime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
     with open("ASN.China.List", "w") as asnFile:
-        asnFile.write("// ASN Information in China. \n")
-        asnFile.write("// Last updated: " + localTime + "\n")
-        asnFile.write("// Made by Vincent, All rights reserved." + "\n\n")
+        asnFile.write("// ASN Information in China. (https://github.com/missuo/ASN-China) \n")
+        asnFile.write("// Last Updated: UTC" + localTime + "\n")
+        asnFile.write("// Made by Vincent, All rights reserved. " + "\n\n")
 
 def saveLatestASN():
     url = "https://bgp.he.net/country/CN"
@@ -33,7 +33,7 @@ def saveLatestASN():
         asnName = asn.xpath('td[2]')[0].text
         if asnName != None:
             asnInfo = "IP-ASN,{} // {}".format(asnNumber, asnName)
-            with open("ASN.China.List", "a") as asnFile:
+            with open("ASN.China.list", "a") as asnFile:
                 asnFile.write(asnInfo)
                 asnFile.write("\n")
 
