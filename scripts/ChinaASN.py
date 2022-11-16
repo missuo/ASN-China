@@ -2,7 +2,7 @@
 Author: Vincent Young
 Date: 2022-11-17 02:29:30
 LastEditors: Vincent Young
-LastEditTime: 2022-11-17 03:42:02
+LastEditTime: 2022-11-17 03:44:18
 FilePath: /ASN-China/scripts/ChinaASN.py
 Telegram: https://t.me/missuo
 
@@ -14,7 +14,7 @@ import time
 
 def initFile():
     localTime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    with open("ASN.China.List", "w") as asnFile:
+    with open("ASN.China.list", "w") as asnFile:
         asnFile.write("// ASN Information in China. (https://github.com/missuo/ASN-China) \n")
         asnFile.write("// Last Updated: UTC" + localTime + "\n")
         asnFile.write("// Made by Vincent, All rights reserved. " + "\n\n")
