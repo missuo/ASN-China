@@ -2,7 +2,7 @@
  * @Author: Vincent Young
  * @Date: 2022-11-17 02:07:33
  * @LastEditors: Vincent Young
- * @LastEditTime: 2022-11-17 03:32:10
+ * @LastEditTime: 2022-11-17 03:33:16
  * @FilePath: /ASN-China/README.md
  * @Telegram: https://t.me/missuo
  * 
@@ -38,7 +38,7 @@ RULE-SET, https://raw.githubusercontent.com/missuo/ASN-China/main/ASN.China.list
 ### IP Information
 - [cbuijs/ipasn](https://github.com/cbuijs/ipasn)
 
-### License
+## License
 MIT License
 
 Copyright (c) 2022 Vincent Young
