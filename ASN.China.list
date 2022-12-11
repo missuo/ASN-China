@@ -1,10 +1,10 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2022-12-10 16:20:29
+// Last Updated: UTC 2022-12-11 16:20:01
 // Made by Vincent, All rights reserved. 
 
-IP-ASN,24429 // Zhejiang Taobao Network Co.,Ltd
-IP-ASN,140731 // TOHU Public Internet
 IP-ASN,132203 // Tencent Building, Kejizhongyi Avenue
+IP-ASN,140731 // TOHU Public Internet
+IP-ASN,24429 // Zhejiang Taobao Network Co.,Ltd
 IP-ASN,45102 // Alibaba (US) Technology Co., Ltd.
 IP-ASN,4134 // China Telecom Backbone
 IP-ASN,4809 // China Telecom Next Generation Carrier Network
@@ -12,12 +12,12 @@ IP-ASN,131477 // Shanghai Huajuan Information Technology Co., Ltd.
 IP-ASN,55967 // Beijing Baidu Netcom Science and Technology Co., Ltd.
 IP-ASN,4837 // China Unicom Backbone
 IP-ASN,139057 // Baishan Cloud
-IP-ASN,209650 // Wu Zhiyuan
 IP-ASN,139742 // Peddie Institute Co., Ltd
 IP-ASN,4808 // China Unicom Beijing Province Network
 IP-ASN,4847 // China Networks Inter-Exchange
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,17621 // China Unicom Shanghai network
+IP-ASN,209650 // Wu Zhiyuan
 IP-ASN,4538 // China Education and Research Network Center
 IP-ASN,4812 // China Telecom (Group)
 IP-ASN,63631 // Guangdong Cloudbase Technology Co., Ltd.
@@ -41,10 +41,10 @@ IP-ASN,4811 // China Telecom (Group)
 IP-ASN,24138 // China TieTong Telecommunications Corporation
 IP-ASN,55990 // Huawei Cloud Service data center
 IP-ASN,24490 // Trans-Eurasia Information Network (TEIN2) - SG
-IP-ASN,206628 // Tianyu-Zhu
 IP-ASN,17623 // China Unicom Shenzen network
 IP-ASN,9384 // MIKU NETWORK LIMITED
 IP-ASN,24133 // 21vianet(China) Inc.
+IP-ASN,206628 // Tianyu-Zhu
 IP-ASN,149513 // 91440300MA5DH1CC86
 IP-ASN,58466 // CHINANET Guangdong province network
 IP-ASN,23911 // China Next Generation Internet Beijing IX
@@ -457,6 +457,7 @@ IP-ASN,150145 // China Telecom
 IP-ASN,149979 // China Telecom
 IP-ASN,149837 // China Telecom
 IP-ASN,149648 // Fuzhou Lefeng Networks Technology Co., Ltd.
+IP-ASN,149475 // Nanjing Tiankai Information Technology Co.Ltd.
 IP-ASN,149178 // China Telecom
 IP-ASN,148969 // China Telecom
 IP-ASN,147038 // China Telecom
@@ -704,7 +705,6 @@ IP-ASN,150184 // Chen Chi
 IP-ASN,150141 // Wang Jiacheng
 IP-ASN,149795 // Zhijie Jin
 IP-ASN,149506 // YousaFan LTD
-IP-ASN,149475 // Nanjing Tiankai Information Technology Co.Ltd.
 IP-ASN,149292 // Shanghai YanFu Technology Co Ltd
 IP-ASN,149163 // Yichang Shuangsen Network Technology Ltd
 IP-ASN,146958 // Kakawan Human Resources Co Ltd
