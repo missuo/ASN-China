@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/missuo/ASN-China/main/ASN.China.list, tag=Chin
 - [cbuijs/ipasn](https://github.com/cbuijs/ipasn)
 
 ## Author's ASN
-> AS206729
+**[AS206729](https://bgp.he.net/AS206729)**
 
 The ASN name has been officially changed in the Jan 20, 2022 UTC [Commit](https://github.com/missuo/ASN-China/commit/4345acd8e146c99d56792977d88ed1d6417c9e22).
 
