@@ -23,6 +23,13 @@ ASN and IP list in China library.
 RULE-SET, https://raw.githubusercontent.com/missuo/ASN-China/main/ASN.China.list, Direct
 ```
 
+### Quantumult X
+```
+[filter_remote]
+# China ASN List
+https://raw.githubusercontent.com/missuo/ASN-China/main/ASN.China.list, tag=ChinaASN, force-policy=direct, update-interval=86400, opt-parser=true, enabled=true
+```
+
 
 ## Data Source
 ### ASN Information
