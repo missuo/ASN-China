@@ -38,6 +38,10 @@ https://raw.githubusercontent.com/missuo/ASN-China/main/ASN.China.list, tag=Chin
 ### IP Information
 - [cbuijs/ipasn](https://github.com/cbuijs/ipasn)
 
+## Author's ASN
+> AS206729
+The ASN name has been officially changed in the Jan 20, 2022 UTC [Commit](https://github.com/missuo/ASN-China/commit/4345acd8e146c99d56792977d88ed1d6417c9e22).
+
 ## Author
 
 **ASN-China** © [Vincent Young](https://github.com/missuo), Released under the [MIT](./LICENSE) License.<br>
