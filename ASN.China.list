@@ -1,10 +1,10 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2023-01-25 16:20:24
+// Last Updated: UTC 2023-01-26 16:19:24
 // Made by Vincent, All rights reserved. 
 
-IP-ASN,140731 // TOHU Public Internet
-IP-ASN,132203 // Tencent Building, Kejizhongyi Avenue
 IP-ASN,24429 // Zhejiang Taobao Network Co.,Ltd
+IP-ASN,132203 // Tencent Building, Kejizhongyi Avenue
+IP-ASN,140731 // TOHU Public Internet
 IP-ASN,45102 // Alibaba (US) Technology Co., Ltd.
 IP-ASN,4134 // China Telecom Backbone
 IP-ASN,4809 // China Telecom Next Generation Carrier Network
@@ -66,14 +66,14 @@ IP-ASN,38283 // CHINANET SiChuan Telecom Internet Data Center
 IP-ASN,17428 // 21Vianet.Co.,Ltd
 IP-ASN,9809 // SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
 IP-ASN,58461 // China Telecom HangZhou IDC
-IP-ASN,56041 // China Mobile communications corporation
 IP-ASN,44421 // Yifu Yu
-IP-ASN,139138 // Gopay Information Technology Co.,Ltd
 IP-ASN,137718 // Beijing Volcano Engine Technology Co., Ltd.
+IP-ASN,56041 // China Mobile communications corporation
 IP-ASN,42962 // CoreLink Network
 IP-ASN,24489 // Trans-Eurasia Information Network (TEIN2) - North
 IP-ASN,209218 // Yang Qi
 IP-ASN,17622 // China Unicom Guangzhou network
+IP-ASN,139138 // Gopay Information Technology Co.,Ltd
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,9394 // China TieTong Telecommunications Corporation
 IP-ASN,63646 // Beijing Xiaoju Science and Technology Co., Ltd.
@@ -157,7 +157,6 @@ IP-ASN,23771 // SXBCTV ,Internet Service Provider,
 IP-ASN,210025 // Chen Qian
 IP-ASN,18257 // ChangZhou Bitcomm Software Technology Co., Limited
 IP-ASN,18245 // CNNIC
-IP-ASN,18243 // 5th Floor, Builidng 9, No.690 Bi Bo Road, Shanghai, China
 IP-ASN,18118 // CITIC Networks Management Co.,Ltd.
 IP-ASN,17781 // XINHUA NEWS AGENCY
 IP-ASN,17775 // shanghai science and technology network communication limited company
@@ -258,6 +257,7 @@ IP-ASN,24134 // CNLink Networks Ltd.
 IP-ASN,23910 // China Next Generation Internet CERNET2
 IP-ASN,23852 // 17/FL, International Bank Center,
 IP-ASN,209306 // Jin Shaohai
+IP-ASN,18243 // 5th Floor, Builidng 9, No.690 Bi Bo Road, Shanghai, China
 IP-ASN,18241 // State Power Information Net
 IP-ASN,18239 // NO.11 Xi San Huan Zhong Road,Beijing
 IP-ASN,17969 // ChongQing Broadcast & TV Transfer Network Co. Ltd
@@ -720,7 +720,6 @@ IP-ASN,146753 // kgzxnet
 IP-ASN,142642 // Atonal System
 IP-ASN,142634 // Wut Exchange RS
 IP-ASN,142586 // Dotnet Ltd
-IP-ASN,142582 // NNET-BACKBONE
 IP-ASN,142554 // hongmicloud.com
 IP-ASN,142551 // Azurite27 Network
 IP-ASN,142549 // Magnetic Discovery Education and Research Network
