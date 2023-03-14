@@ -1,9 +1,9 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2023-03-13 16:21:16
+// Last Updated: UTC 2023-03-14 16:26:20
 // Made by Vincent, All rights reserved. 
 
-IP-ASN,132203 // Tencent Building, Kejizhongyi Avenue
 IP-ASN,24429 // Zhejiang Taobao Network Co.,Ltd
+IP-ASN,132203 // Tencent Building, Kejizhongyi Avenue
 IP-ASN,45102 // Alibaba (US) Technology Co., Ltd.
 IP-ASN,4134 // China Telecom Backbone
 IP-ASN,4809 // China Telecom Next Generation Carrier Network
@@ -35,8 +35,8 @@ IP-ASN,146834 // SiChuan XunYou Network Technologe Limit, co
 IP-ASN,9384 // MIKU NETWORK LIMITED
 IP-ASN,37963 // Hangzhou Alibaba Advertising Co.,Ltd.
 IP-ASN,10111 // Zeofast Network
-IP-ASN,23724 // IDC, China Telecommunications Corporation
 IP-ASN,45090 // Shenzhen Tencent Computer Systems Company Limited
+IP-ASN,23724 // IDC, China Telecommunications Corporation
 IP-ASN,4811 // China Telecom (Group)
 IP-ASN,149513 // 91440300MA5DH1CC86
 IP-ASN,137753 // Beijing Jingdong Shangke Information Technology Co. Ltd.
@@ -167,9 +167,9 @@ IP-ASN,17775 // shanghai science and technology network communication limited co
 IP-ASN,17442 // Internet Service Provider in China
 IP-ASN,141425 // China Mobile Group Guangdong communications corporation
 IP-ASN,139721 // HeFei
-IP-ASN,138545 // Zero Cirrus Cloud Computing (Shanghai) Co., Ltd.
 IP-ASN,135629 // Ningxia West Cloud Data Technology Co.Ltd.
 IP-ASN,135061 // China Unicom Guangdong IP network
+IP-ASN,134761 // CHINANET NINGXIA province ZHONGWEI IDC network
 IP-ASN,133952 // Zhengzhou longling technology ltd.
 IP-ASN,133846 // IMLONGHAO
 IP-ASN,133465 // Duke Kunshan University
@@ -290,6 +290,7 @@ IP-ASN,139136 // ZHEJIANG PROVINCE NEW-TYPE INTERNET EXCHANGE POINT CO.,LTD.
 IP-ASN,139110 // Lenovo Mobile Communication Technology (Beijing) Ltd
 IP-ASN,139061 // Societe Generale (China) Limited
 IP-ASN,139018 // Henan Luoyang IDC
+IP-ASN,138545 // Zero Cirrus Cloud Computing (Shanghai) Co., Ltd.
 IP-ASN,138371 // CERNET2 regional IX at Ocean University of China
 IP-ASN,138029 // Shen Zhen Hu Lian Xian Feng Technology Co., Limited
 IP-ASN,137806 // WMGS Consulting (Shenzhen) Co.Ltd
@@ -310,7 +311,7 @@ IP-ASN,136160 // Beijing Shijihulian Yuntong Network Technology Co., Ltd.
 IP-ASN,135363 // Beijing Dunhuang Heguang Information Technology Co.,Lt.
 IP-ASN,134810 // China Mobile Group JiLin communications corporation
 IP-ASN,134773 // CHINANET Guangdong province Guangzhou MAN network
-IP-ASN,134761 // CHINANET NINGXIA province ZHONGWEI IDC network
+IP-ASN,134770 // CHINANET Jiangsu province Suzhou taihu IDC network
 IP-ASN,134760 // Shijiazhuang IDC network, CHINANET Hebei province
 IP-ASN,134756 // CHINANET Nanjing Jishan IDC network
 IP-ASN,134542 // China Unicom IP network
@@ -560,7 +561,6 @@ IP-ASN,135089 // China Telecom
 IP-ASN,135006 // VERI2
 IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
 IP-ASN,134771 // WENZHOU, ZHEJIANG Province, P.R.China.
-IP-ASN,134770 // CHINANET Jiangsu province Suzhou taihu IDC network
 IP-ASN,134769 // ChinaNet Jiangsu Changzhou Liyang IDC network
 IP-ASN,134768 // CHINANET SHAANXI province Cloud Base network
 IP-ASN,134766 // CHINANET Yunnan province IDC2 network
