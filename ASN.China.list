@@ -1,9 +1,9 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2023-04-24 16:18:29
+// Last Updated: UTC 2023-04-25 16:18:15
 // Made by Vincent, All rights reserved. 
 
-IP-ASN,132203 // Tencent Building, Kejizhongyi Avenue
 IP-ASN,24429 // Zhejiang Taobao Network Co.,Ltd
+IP-ASN,132203 // Tencent Building, Kejizhongyi Avenue
 IP-ASN,4134 // China Telecom Backbone
 IP-ASN,45102 // Alibaba (US) Technology Co., Ltd.
 IP-ASN,4809 // China Telecom Next Generation Carrier Network
@@ -31,10 +31,10 @@ IP-ASN,7497 // Computer Network Information Center
 IP-ASN,9929 // China Netcom Backbone
 IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 IP-ASN,212793 // Xiwei Ye
-IP-ASN,9384 // MIKU NETWORK LIMITED
 IP-ASN,24413 // 263 Shanghai Communications Ltd.
 IP-ASN,146834 // SiChuan XunYou Network Technologe Limit, co
 IP-ASN,10111 // Zeofast Network
+IP-ASN,9384 // MIKU NETWORK LIMITED
 IP-ASN,45090 // Shenzhen Tencent Computer Systems Company Limited
 IP-ASN,37963 // Hangzhou Alibaba Advertising Co.,Ltd.
 IP-ASN,23724 // IDC, China Telecommunications Corporation
@@ -46,8 +46,8 @@ IP-ASN,55990 // Huawei Cloud Service data center
 IP-ASN,24490 // Trans-Eurasia Information Network (TEIN2) - SG
 IP-ASN,24138 // China TieTong Telecommunications Corporation
 IP-ASN,23911 // China Next Generation Internet Beijing IX
-IP-ASN,206628 // Tianyu-Zhu
 IP-ASN,23848 // Shenzhen Ping An Communication Technology Co.,Ltd
+IP-ASN,206628 // Tianyu-Zhu
 IP-ASN,24133 // 21vianet(China) Inc.
 IP-ASN,59045 // Guangzhou navigation information technology co., LTD
 IP-ASN,58466 // CHINANET Guangdong province network
@@ -165,6 +165,7 @@ IP-ASN,18118 // CITIC Networks Management Co.,Ltd.
 IP-ASN,17781 // XINHUA NEWS AGENCY
 IP-ASN,17775 // shanghai science and technology network communication limited company
 IP-ASN,17442 // Internet Service Provider in China
+IP-ASN,139888 // Tang Zhuo
 IP-ASN,139743 // Shen Zhen Shi Fang Technology Co., Limited
 IP-ASN,139721 // HeFei
 IP-ASN,135629 // Ningxia West Cloud Data Technology Co.Ltd.
@@ -208,7 +209,7 @@ IP-ASN,59009 // QingDao WangXin Telcom Corp. Limited
 IP-ASN,58862 // Microsoft (China) Co., Ltd.
 IP-ASN,58854 // Kaopu Cloud
 IP-ASN,58541 // China Telecom Xiangtan
-IP-ASN,58540 // Jinan,250000
+IP-ASN,58540 // China Telecom Zhuzhou
 IP-ASN,58448 // CONAC (China Organizational Name Administration Center)
 IP-ASN,56047 // China Mobile communications corporation
 IP-ASN,56044 // China Mobile communications corporation
@@ -273,7 +274,6 @@ IP-ASN,140500 // Henan Anyun Network Technology Co., Ltd.
 IP-ASN,140330 // CHINATELECOM Fujian province Xiamen 5G network
 IP-ASN,140292 // CHINATELECOM Jiangsu province Suzhou 5G network
 IP-ASN,140061 // Qinghai Telecom
-IP-ASN,139888 // Tang Zhuo
 IP-ASN,139774 // CERNET Center
 IP-ASN,139189 // Beijing Yu Jia Heng Tong Communications and Information Co., Ltd.
 IP-ASN,139182 // ABC Life Insurance Co., Ltd
@@ -427,6 +427,7 @@ IP-ASN,24353 // CERNET2 IX at Xi'an Jiaotong University
 IP-ASN,24352 // CERNET2 IX at Tianjin University
 IP-ASN,24350 // CERNET2 IX at Beijing University of Posts and Telecommunications
 IP-ASN,24349 // CERNET2 IX at Peking University
+IP-ASN,24144 // Wuhan LSHIY Network Technology Co., Ltd.
 IP-ASN,24141 // Shanghai DMT Information Network cor.,LTD.
 IP-ASN,23851 // CHONGQING CNC BROADBAND NETWORKS CO.,LTD
 IP-ASN,23842 // Shenzhen Information and Network Center
@@ -634,7 +635,6 @@ IP-ASN,24351 // CERNET2 IX at Beijing University of Aeronautics and Astronautics
 IP-ASN,24302 // CRIS-CERNET
 IP-ASN,24239 // TWD2 Education and Research Network
 IP-ASN,24150 // 1 TianXianQiao BinHe Road,Chengdu,SiChuan
-IP-ASN,24144 // Wuhan LSHIY Network Technology Co., Ltd.
 IP-ASN,213115 // Aoi kato
 IP-ASN,213069 // PANYUAN HUANG
 IP-ASN,212164 // Jiaxian He
@@ -733,7 +733,6 @@ IP-ASN,149795 // Zhijie Jin
 IP-ASN,149506 // YousaFan LTD
 IP-ASN,149292 // Shanghai YanFu Technology Co Ltd
 IP-ASN,149163 // Yichang Shuangsen Network Technology Ltd
-IP-ASN,146958 // Kakawan Human Resources Co Ltd
 IP-ASN,146753 // kgzxnet
 IP-ASN,142642 // Atonal System
 IP-ASN,142634 // Wut Exchange RS
@@ -747,10 +746,8 @@ IP-ASN,142418 // TaterLi Education And Research Network
 IP-ASN,142284 // Koala Network
 IP-ASN,142280 // NaiveTomcat Education and Research Experimental Network Backbone
 IP-ASN,142164 // GoldDoge Computer Technologies & Networks Information Center
-IP-ASN,142158 // Neko LLC
 IP-ASN,142112 // Star Horizon Tech Inc
 IP-ASN,142048 // vscloud.cc
-IP-ASN,142031 // Nanjing Echofa Precision Mould Manufacturing Co., Ltd.
 IP-ASN,141694 // Otaku Limited
 IP-ASN,141445 // Phoenix Network
 IP-ASN,141429 // Agatha Network
