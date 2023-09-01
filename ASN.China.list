@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2023-08-31 16:04:44
+// Last Updated: UTC 2023-09-01 16:04:36
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -46,10 +46,10 @@ IP-ASN,24133 // 21vianet(China) Inc.
 IP-ASN,55990 // Huawei Cloud Service data center
 IP-ASN,24490 // Trans-Eurasia Information Network (TEIN2) - SG
 IP-ASN,24138 // China TieTong Telecommunications Corporation
+IP-ASN,23911 // China Next Generation Internet Beijing IX
 IP-ASN,17623 // China Unicom Shenzen network
 IP-ASN,59045 // Guangzhou navigation information technology co., LTD
 IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
-IP-ASN,23911 // China Next Generation Internet Beijing IX
 IP-ASN,137718 // Beijing Volcano Engine Technology Co., Ltd.
 IP-ASN,58466 // CHINANET Guangdong province network
 IP-ASN,56046 // China Mobile communications corporation
@@ -60,16 +60,16 @@ IP-ASN,24151 // China Internet Network Infomation Center
 IP-ASN,23848 // Shenzhen Ping An Communication Technology Co.,Ltd
 IP-ASN,10212 // China Enterprise ICT Solutions Limited
 IP-ASN,59019 // Beijing Kingsoft Cloud Internet Technology Co., Ltd
+IP-ASN,56041 // China Mobile communications corporation
 IP-ASN,38283 // CHINANET SiChuan Telecom Internet Data Center
 IP-ASN,17428 // 21Vianet.Co.,Ltd
 IP-ASN,136958 // China Unicom Guangdong IP network
+IP-ASN,136173 // Quanzhou Yuntun Network Technology Co., Ltd.
 IP-ASN,9809 // SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
-IP-ASN,56041 // China Mobile communications corporation
 IP-ASN,9394 // China TieTong Telecommunications Corporation
 IP-ASN,55992 // Beijing Qihu Technology Company Limited
 IP-ASN,24489 // Trans-Eurasia Information Network (TEIN2) - North
 IP-ASN,139138 // Gopay Information Technology Co.,Ltd
-IP-ASN,136173 // Quanzhou Yuntun Network Technology Co., Ltd.
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,63646 // Beijing Xiaoju Science and Technology Co., Ltd.
 IP-ASN,59078 // Yunify Technologies Inc.
@@ -109,6 +109,7 @@ IP-ASN,38057 // Dell (China) Co.,Ltd
 IP-ASN,24547 // Hebei Mobile Communication Company Limited
 IP-ASN,24427 // Freecomm Corporation
 IP-ASN,24424 // Beijing Gu Xiang Information Technology Co.,Ltd.
+IP-ASN,23853 // Shanghai Data Solution Co., Ltd.
 IP-ASN,23844 // Beijing Guanghuan Xinwang Digital
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,206628 // Tianyu-Zhu
@@ -158,9 +159,8 @@ IP-ASN,24430 // Jia No.8, North Lishi Road, Xicheng Dist.Beijing, China
 IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
 IP-ASN,24147 // BEIJING CBD TELECOM CO,.LTD
 IP-ASN,24139 // Huashu media&Network Limited
-IP-ASN,23853 // Shanghai Data Solution Co., Ltd.
 IP-ASN,23771 // SXBCTV ,Internet Service Provider,
-IP-ASN,216458 // Hardcore Communication Co., Limited
+IP-ASN,209218 // Yang Qi
 IP-ASN,18257 // ChangZhou Bitcomm Software Technology Co., Limited
 IP-ASN,18245 // CNNIC
 IP-ASN,18118 // CITIC Networks Management Co.,Ltd.
@@ -243,11 +243,11 @@ IP-ASN,24137 // KuanggongLu, Pingdingshan, Henan, China
 IP-ASN,24134 // CNLink Networks Ltd.
 IP-ASN,23910 // China Next Generation Internet CERNET2
 IP-ASN,23852 // 17/FL, International Bank Center,
+IP-ASN,216458 // Hardcore Communication Co., Limited
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,212371 // Huizhou HuiGu CloudTech Co., Ltd.
 IP-ASN,211843 // Nanjing Tiankai Information Technology Co.Ltd.
 IP-ASN,209306 // Jin Shaohai
-IP-ASN,209218 // Yang Qi
 IP-ASN,18241 // State Power Information Net
 IP-ASN,18239 // NO.11 Xi San Huan Zhong Road,Beijing
 IP-ASN,17969 // ChongQing Broadcast & TV Transfer Network Co. Ltd
@@ -398,7 +398,6 @@ IP-ASN,38364 // RM 1706,Block A,Ocean Express,No.66
 IP-ASN,38363 // Floor 9,Hua Sheng Building No.1 Lane 519 Ao Men Road,Shanghai
 IP-ASN,38357 // BEIJING DATA-express tech CO.,ltd
 IP-ASN,38346 // HangTian Info Network Ltd.
-IP-ASN,38339 // CNISP-Union Technology (Beijing) Co., Ltd
 IP-ASN,38272 // China Education and Research Network (CERNET)
 IP-ASN,38019 // tianjin Mobile Communication Company Limited
 IP-ASN,37970 // Floor 9,Hua Sheng Building No.1 Lane 519 Ao Men Road,Shanghai
@@ -447,6 +446,7 @@ IP-ASN,17490 // 3/F,Yi Qing Building,Hua Jing Xin Cheng,Guangzhou
 IP-ASN,151640 // Bengbu Qingye Technology
 IP-ASN,151493 // Beijing Kouding Technology Co Ltd.
 IP-ASN,151313 // Pacific Insurance Technology Co., Ltd
+IP-ASN,151311 // Shenzhen Humeng Technology Co., Ltd
 IP-ASN,150400 // Shenzhen Qiaolian Network Technology Co., Ltd.
 IP-ASN,150374 // Jiang Men Shi Tian Da Cloud Co. Ltd
 IP-ASN,150166 // The New Development Bank
