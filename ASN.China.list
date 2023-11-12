@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2023-11-11 16:04:23
+// Last Updated: UTC 2023-11-12 16:04:37
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -24,9 +24,9 @@ IP-ASN,4812 // China Telecom (Group)
 IP-ASN,56048 // China Mobile Communicaitons Corporation
 IP-ASN,133865 // Beijing IQIYI Science & Technology Co., Ltd.
 IP-ASN,24400 // Shanghai Mobile Communications Co.,Ltd.
+IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
 IP-ASN,131477 // Shanghai Huajuan Information Technology Co., Ltd.
 IP-ASN,7497 // Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)
-IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
 IP-ASN,10111 // Zeofast Network
 IP-ASN,56040 // China Mobile communications corporation
 IP-ASN,146834 // SiChuan XunYou Network Technologe Limit, co
@@ -62,10 +62,10 @@ IP-ASN,206628 // Tianyu-Zhu
 IP-ASN,136958 // China Unicom Guangdong IP network
 IP-ASN,10212 // China Enterprise ICT Solutions Limited
 IP-ASN,59019 // Beijing Kingsoft Cloud Internet Technology Co., Ltd
-IP-ASN,24409 // China Internet Network Infomation Center
 IP-ASN,17623 // China Unicom Shenzen network
 IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
 IP-ASN,55992 // Beijing Qihu Technology Company Limited
+IP-ASN,24409 // China Internet Network Infomation Center
 IP-ASN,24406 // China Internet Network Infomation Center
 IP-ASN,139138 // Gopay Information Technology Co.,Ltd
 IP-ASN,133219 // NewMedia Express Pte Ltd
@@ -441,7 +441,6 @@ IP-ASN,208830 // ifanr Inc.
 IP-ASN,205651 // Hao Qiao
 IP-ASN,203691 // Li Ma
 IP-ASN,203236 // Mingyang Shen
-IP-ASN,199436 // BangLong Yang
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,18244 // Stateline Internet Data Center Co., Ltd. Shanghai
 IP-ASN,18242 // Chengdu Information Harbor Co., Ltd
@@ -460,6 +459,7 @@ IP-ASN,150166 // The New Development Bank
 IP-ASN,150145 // China Telecom
 IP-ASN,149979 // China Telecom
 IP-ASN,149837 // China Telecom
+IP-ASN,149793 // Xin Yang Bai Xing Network Tecnology Co., Ltd
 IP-ASN,149648 // Fuzhou Lefeng Networks Technology Co., Ltd.
 IP-ASN,149475 // Nanjing Tiankai Information Technology Co.Ltd.
 IP-ASN,149178 // China Telecom
@@ -664,7 +664,6 @@ IP-ASN,211992 // Wei Tang
 IP-ASN,211980 // Ding Yu
 IP-ASN,211571 // Xin Zhao
 IP-ASN,211481 // JINGQUAN LI
-IP-ASN,211293 // Xie Jinshao
 IP-ASN,210934 // YAO PEI
 IP-ASN,210903 // Chengde TsingYao Network Technology Service Co., Ltd.
 IP-ASN,210872 // Cui, Jiacheng
@@ -739,6 +738,7 @@ IP-ASN,199932 // Tianle Shi
 IP-ASN,199832 // QUN LIN
 IP-ASN,199691 // Zhile Gong
 IP-ASN,199684 // Shangren Lu
+IP-ASN,199436 // BangLong Yang
 IP-ASN,199392 // SHIZHENG NIE
 IP-ASN,199310 // XIN BING XIAN
 IP-ASN,199307 // HE LI
@@ -793,6 +793,7 @@ IP-ASN,141445 // Phoenix Network
 IP-ASN,141429 // Agatha Network
 IP-ASN,141025 // Shenyang MAN, Liaoning, China Telecom
 IP-ASN,140936 // SUNNET Global Network
+IP-ASN,140913 // Hentai Network Lab
 IP-ASN,140863 // CHINATELECOM Jiangxi province Fuzhou 5G network
 IP-ASN,140862 // CHINATELECOM Jiangxi province Jian 5G network
 IP-ASN,140861 // CHINATELECOM Jiangxi province Ganzhou 5G network
