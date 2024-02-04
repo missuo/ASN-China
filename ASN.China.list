@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2024-02-03 16:05:33
+// Last Updated: UTC 2024-02-04 16:04:22
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -14,11 +14,11 @@ IP-ASN,139742 // Peddie Institute Co., Ltd
 IP-ASN,4808 // China Unicom Beijing Province Network
 IP-ASN,4847 // China Networks Inter-Exchange
 IP-ASN,17621 // China Unicom Shanghai network
-IP-ASN,10111 // Zeofast Network
 IP-ASN,4538 // China Education and Research Network Center
 IP-ASN,9808 // China Mobile Communications Group Co., Ltd.
-IP-ASN,4812 // China Telecom (Group)
 IP-ASN,209650 // Wu Zhiyuan
+IP-ASN,4812 // China Telecom (Group)
+IP-ASN,10111 // Zeofast Network
 IP-ASN,63631 // Guangdong Cloudbase Technology Co., Ltd.
 IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,56048 // China Mobile Communicaitons Corporation
@@ -37,6 +37,7 @@ IP-ASN,23724 // IDC, China Telecommunications Corporation
 IP-ASN,137753 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,45090 // Shenzhen Tencent Computer Systems Company Limited
 IP-ASN,37963 // Hangzhou Alibaba Advertising Co.,Ltd.
+IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
 IP-ASN,152320 // Goalnow Network Technology Co Limited
 IP-ASN,55990 // Huawei Cloud Service data center
 IP-ASN,4811 // China Telecom (Group)
@@ -68,7 +69,6 @@ IP-ASN,44421 // Yifu Yu
 IP-ASN,24489 // Trans-Eurasia Information Network (TEIN2) - North
 IP-ASN,24409 // China Internet Network Infomation Center
 IP-ASN,24406 // China Internet Network Infomation Center
-IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
 IP-ASN,136173 // Quanzhou Yuntun Network Technology Co., Ltd.
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,59078 // Yunify Technologies Inc.
@@ -93,6 +93,7 @@ IP-ASN,45062 // NetEase Building No.16 Ke Yun Road,
 IP-ASN,37965 // Pacnet Business Solutions LTD
 IP-ASN,24444 // Shandong Mobile Communication Company Limited
 IP-ASN,23650 // AS Number for CHINANET jiangsu province backbone
+IP-ASN,212793 // Xiwei Ye
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,17428 // 21Vianet.Co.,Ltd
 IP-ASN,140726 // UNICOM AnHui province network
@@ -117,12 +118,10 @@ IP-ASN,24133 // 21vianet(China) Inc.
 IP-ASN,23853 // Shanghai Data Solution Co., Ltd.
 IP-ASN,23844 // Beijing Guanghuan Xinwang Digital
 IP-ASN,23771 // SXBCTV ,Internet Service Provider,
-IP-ASN,212793 // Xiwei Ye
 IP-ASN,17969 // ChongQing Broadcast & TV Transfer Network Co. Ltd
 IP-ASN,17964 // Beijing Dian-Xin-Tong Network Technologies Co., Ltd.
 IP-ASN,17816 // China Unicom IP network China169 Guangdong province
 IP-ASN,141425 // China Mobile Group Guangdong communications corporation
-IP-ASN,139888 // Tang Zhuo
 IP-ASN,139721 // HeFei
 IP-ASN,138950 // Jiangsu Wuxi International IDC network
 IP-ASN,138538 // VPSOR-GLOBAL
@@ -176,6 +175,7 @@ IP-ASN,17781 // XINHUA NEWS AGENCY
 IP-ASN,17775 // shanghai science and technology network communication limited company
 IP-ASN,151193 // Shandong Deju Information Technology Co Ltd
 IP-ASN,140895 // China Mobile Group AnHui communications corporation
+IP-ASN,139888 // Tang Zhuo
 IP-ASN,139148 // China UnionPay Co., Ltd
 IP-ASN,138545 // Zero Cirrus Cloud Computing (Shanghai) Co., Ltd.
 IP-ASN,136198 // CHINANET Guangdong province Yuexi MAN network
@@ -634,6 +634,7 @@ IP-ASN,49904 // Xiaodong Qi
 IP-ASN,49575 // Dong Ran Yang
 IP-ASN,45576 // Tsinghua University
 IP-ASN,45275 // BII Group Holding Ltd.
+IP-ASN,44446 // Yuan Xue
 IP-ASN,41979 // Hangzhou CloudZone Network Technology Co.,Ltd
 IP-ASN,39753 // Kai Liu
 IP-ASN,38587 // CERNET Internet Data Center
@@ -684,6 +685,7 @@ IP-ASN,209686 // Xingyu Guo
 IP-ASN,209661 // SIQI WANG
 IP-ASN,209645 // Jixian Zeng
 IP-ASN,209556 // Benli Zhong
+IP-ASN,209484 // Jinan Xiangyun Tianhai Information Technology Co., Ltd
 IP-ASN,209300 // Wende Tan
 IP-ASN,209261 // Qiao Jiang
 IP-ASN,209083 // Jiahui Qiu
@@ -712,6 +714,7 @@ IP-ASN,204214 // CHEN ZAO RONG
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,203888 // Yu Li
 IP-ASN,203804 // Pengyuan Fan
+IP-ASN,203664 // LAN XING trading as "Haikou Meilan Lanxing Electronic Technology Trading House"
 IP-ASN,203655 // zhiwensun
 IP-ASN,203083 // Yuxin Zhang
 IP-ASN,202256 // Dongyu Zhang
