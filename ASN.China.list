@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2024-02-06 16:04:31
+// Last Updated: UTC 2024-02-07 16:05:04
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -16,9 +16,9 @@ IP-ASN,4847 // China Networks Inter-Exchange
 IP-ASN,17621 // China Unicom Shanghai network
 IP-ASN,4538 // China Education and Research Network Center
 IP-ASN,209650 // Wu Zhiyuan
-IP-ASN,9808 // China Mobile Communications Group Co., Ltd.
-IP-ASN,10111 // Zeofast Network
 IP-ASN,63631 // Guangdong Cloudbase Technology Co., Ltd.
+IP-ASN,10111 // Zeofast Network
+IP-ASN,9808 // China Mobile Communications Group Co., Ltd.
 IP-ASN,4812 // China Telecom (Group)
 IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,56048 // China Mobile Communicaitons Corporation
@@ -56,12 +56,11 @@ IP-ASN,23911 // China Next Generation Internet Beijing IX
 IP-ASN,10212 // China Enterprise ICT Solutions Limited
 IP-ASN,59019 // Beijing Kingsoft Cloud Internet Technology Co., Ltd
 IP-ASN,58466 // CHINANET Guangdong province network
+IP-ASN,44421 // Yifu Yu
 IP-ASN,38283 // CHINANET SiChuan Telecom Internet Data Center
 IP-ASN,136958 // China Unicom Guangdong IP network
-IP-ASN,44421 // Yifu Yu
 IP-ASN,23848 // Shenzhen Ping An Communication Technology Co.,Ltd
 IP-ASN,17623 // China Unicom Shenzen network
-IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
 IP-ASN,9809 // SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
 IP-ASN,58461 // China Telecom HangZhou IDC
 IP-ASN,56041 // China Mobile communications corporation
@@ -69,6 +68,7 @@ IP-ASN,55992 // Beijing Qihu Technology Company Limited
 IP-ASN,24489 // Trans-Eurasia Information Network (TEIN2) - North
 IP-ASN,24409 // China Internet Network Infomation Center
 IP-ASN,24406 // China Internet Network Infomation Center
+IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
 IP-ASN,136173 // Quanzhou Yuntun Network Technology Co., Ltd.
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,59078 // Yunify Technologies Inc.
@@ -750,7 +750,6 @@ IP-ASN,199310 // XIN BING XIAN
 IP-ASN,199307 // HE LI
 IP-ASN,199068 // XiaoYin Shi
 IP-ASN,198764 // Rui Li
-IP-ASN,198516 // Yi Huang
 IP-ASN,198266 // Yunrui Gu
 IP-ASN,198025 // Yucheng Zhu
 IP-ASN,197866 // Jinqiang Zhang
