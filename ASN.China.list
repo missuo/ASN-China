@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2024-02-12 16:05:01
+// Last Updated: UTC 2024-02-13 16:05:13
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -16,8 +16,8 @@ IP-ASN,4847 // China Networks Inter-Exchange
 IP-ASN,17621 // China Unicom Shanghai network
 IP-ASN,10111 // Zeofast Network
 IP-ASN,4538 // China Education and Research Network Center
-IP-ASN,63631 // Guangdong Cloudbase Technology Co., Ltd.
 IP-ASN,209650 // Wu Zhiyuan
+IP-ASN,63631 // Guangdong Cloudbase Technology Co., Ltd.
 IP-ASN,9808 // China Mobile Communications Group Co., Ltd.
 IP-ASN,4812 // China Telecom (Group)
 IP-ASN,4842 // Tianhai InfoTech
@@ -56,9 +56,9 @@ IP-ASN,24151 // China Internet Network Infomation Center
 IP-ASN,10212 // China Enterprise ICT Solutions Limited
 IP-ASN,59019 // Beijing Kingsoft Cloud Internet Technology Co., Ltd
 IP-ASN,58466 // CHINANET Guangdong province network
-IP-ASN,44421 // Yifu Yu
 IP-ASN,38283 // CHINANET SiChuan Telecom Internet Data Center
 IP-ASN,136958 // China Unicom Guangdong IP network
+IP-ASN,44421 // Yifu Yu
 IP-ASN,23848 // Shenzhen Ping An Communication Technology Co.,Ltd
 IP-ASN,17623 // China Unicom Shenzen network
 IP-ASN,9809 // SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
@@ -209,7 +209,6 @@ IP-ASN,63580 // China Novartis Institutes for Bio-Medical Research Co., Ltd.
 IP-ASN,59077 // Shanghai UCloud Information Technology Company Limited
 IP-ASN,59073 // Bank of China Limited
 IP-ASN,59068 // Shanghai Pudong Development Bank Co.,Ltd.
-IP-ASN,59067 // Microsoft Mobile Alliance Internet Services Co., Ltd
 IP-ASN,59065 // PayPal Network Information Services (Shanghai) Co., Ltd.
 IP-ASN,59049 // Wal-mart (China) Investment Co., Ltd.
 IP-ASN,59043 // Guangzhou LanDong Information technology co., LTD
@@ -284,6 +283,7 @@ IP-ASN,142611 // Shanghai Tujuan Information Technology Co., Ltd.
 IP-ASN,140979 // China Unicom Shanghai FuTe IDC network
 IP-ASN,140716 // UNICOM JiangSu WuXi IDC network
 IP-ASN,140330 // CHINATELECOM Fujian province Xiamen 5G network
+IP-ASN,140317 // CHINATELECOM Guangdong province Shaoguan 5G network
 IP-ASN,140292 // CHINATELECOM Jiangsu province Suzhou 5G network
 IP-ASN,140061 // Qinghai Telecom
 IP-ASN,139774 // CERNET Center
@@ -370,6 +370,7 @@ IP-ASN,63539 // Cloud Union (HuBei) Network Technology Co., Ltd
 IP-ASN,63538 // Shanghai Hengyi Network Technology Co.,Ltd
 IP-ASN,59089 // NO.18 Building University of Technology
 IP-ASN,59080 // Beijing Shiwei border Technology Co., Ltd
+IP-ASN,59067 // Microsoft Mobile Alliance Internet Services Co., Ltd
 IP-ASN,59057 // Jishi Media Co ., Ltd.
 IP-ASN,59048 // Bei Jing Cloud Times Technology Co.,Ltd
 IP-ASN,59034 // BeiJing Wish Network Technology CO.,LTD.
@@ -511,7 +512,6 @@ IP-ASN,140553 // CHINATELECOM XINJIANG province Shengji 5G network
 IP-ASN,140527 // China Telecom
 IP-ASN,140485 // CHINATELECOM ZHEJIANG province HANGZHOU 5GC network
 IP-ASN,140345 // CHINATELECOM Yunnan province Shengji 5G network
-IP-ASN,140317 // CHINATELECOM Guangdong province Shaoguan 5G network
 IP-ASN,140279 // CHINATELECOM SiChuan province Nanchong 5G network
 IP-ASN,140278 // CHINATELECOM SiChuan province Mianyang 5G network
 IP-ASN,140276 // CHINATELECOM SiChuan province Luzhou 5G network
