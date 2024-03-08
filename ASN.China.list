@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2024-03-07 16:04:21
+// Last Updated: UTC 2024-03-08 16:04:27
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -13,8 +13,8 @@ IP-ASN,4837 // China Unicom Backbone
 IP-ASN,4808 // China Unicom Beijing Province Network
 IP-ASN,139742 // Peddie Institute Co., Ltd
 IP-ASN,4847 // China Networks Inter-Exchange
-IP-ASN,10111 // Zeofast Network
 IP-ASN,4842 // Tianhai InfoTech
+IP-ASN,10111 // Zeofast Network
 IP-ASN,209650 // Wu Zhiyuan
 IP-ASN,4538 // China Education and Research Network Center
 IP-ASN,17621 // China Unicom Shanghai network
@@ -178,6 +178,7 @@ IP-ASN,136195 // China Telecom Dehong
 IP-ASN,135629 // Ningxia West Cloud Data Technology Co.Ltd.
 IP-ASN,135061 // China Unicom Guangdong IP network
 IP-ASN,134542 // China Unicom IP network
+IP-ASN,133465 // Duke Kunshan University
 IP-ASN,132525 // HeiLongJiang Mobile Communication Company Limited
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,9939 // DYXNET of Shenzhen Communication Co., Ltd.
@@ -246,6 +247,7 @@ IP-ASN,38027 // Information Center, Ministry of Sci and Tech
 IP-ASN,38019 // tianjin Mobile Communication Company Limited
 IP-ASN,37942 // 3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,
 IP-ASN,24369 // CERNET2 IX at Northeast University
+IP-ASN,24364 // CERNET2 IX at Shanghai Jiaotong University
 IP-ASN,24361 // CERNET2 IX at Southeast University
 IP-ASN,24348 // CERNET2 IX at Tsinghua University
 IP-ASN,24147 // BEIJING CBD TELECOM CO,.LTD
@@ -328,7 +330,6 @@ IP-ASN,134417 // Nanjing
 IP-ASN,133952 // Zhengzhou longling technology ltd.
 IP-ASN,133774 // China Telecom Fujian Fuzhou IDC
 IP-ASN,133475 // New York University ASN
-IP-ASN,133465 // Duke Kunshan University
 IP-ASN,133194 // Connections Hub Technology (Shanghai) Ltd. Company
 IP-ASN,133111 // CERNET New Technology Co., Ltd
 IP-ASN,131578 // Beijing Foreign Studies University
@@ -425,7 +426,6 @@ IP-ASN,24376 // Yahoo China Datacenter
 IP-ASN,24371 // CERNET2 IX at Jilin University
 IP-ASN,24370 // CERNET2 IX at Dalian University of Technology
 IP-ASN,24367 // CERNET2 IX at Zhejiang University
-IP-ASN,24364 // CERNET2 IX at Shanghai Jiaotong University
 IP-ASN,24363 // CERNET2 IX at Shandong University
 IP-ASN,24362 // CERNET2 IX at University of Science and Technology of China
 IP-ASN,24358 // CERNET2 IX at Huazhong University of Science and Technology
@@ -447,7 +447,6 @@ IP-ASN,211051 // Dazhong Technology Network Studio of Tieling County
 IP-ASN,209574 // Xiao Tan
 IP-ASN,208830 // ifanr Inc.
 IP-ASN,203691 // Li Ma
-IP-ASN,203236 // Mingyang Shen
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,18245 // CNNIC
 IP-ASN,18244 // Stateline Internet Data Center Co., Ltd. Shanghai
@@ -718,6 +717,7 @@ IP-ASN,203888 // Yu Li
 IP-ASN,203804 // Pengyuan Fan
 IP-ASN,203664 // LAN XING trading as "Haikou Meilan Lanxing Electronic Technology Trading House"
 IP-ASN,203655 // zhiwensun
+IP-ASN,203236 // Mingyang Shen
 IP-ASN,203083 // Yuxin Zhang
 IP-ASN,202256 // Dongyu Zhang
 IP-ASN,200959 // Yaoxuan Chen
