@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2024-05-08 16:04:31
+// Last Updated: UTC 2024-05-09 16:04:39
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -65,12 +65,12 @@ IP-ASN,17623 // China Unicom Shenzen network
 IP-ASN,9809 // SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
 IP-ASN,58461 // China Telecom HangZhou IDC
 IP-ASN,56041 // China Mobile communications corporation
+IP-ASN,24409 // China Internet Network Infomation Center
 IP-ASN,56006 // Shanghai Pudong Development Bank Co.,Ltd.
 IP-ASN,55992 // Beijing Qihu Technology Company Limited
 IP-ASN,45110 // Beijing Tian Wei Xin Tong technology corp. limited.
 IP-ASN,45062 // NetEase Building No.16 Ke Yun Road,
 IP-ASN,24489 // Trans-Eurasia Information Network (TEIN2) - North
-IP-ASN,24409 // China Internet Network Infomation Center
 IP-ASN,24406 // China Internet Network Infomation Center
 IP-ASN,17622 // China Unicom Guangzhou network
 IP-ASN,139138 // Gopay Information Technology Co.,Ltd
@@ -88,6 +88,7 @@ IP-ASN,55966 // Post Savings Bank of China Tower A, No.3
 IP-ASN,42962 // CoreLink Network
 IP-ASN,23650 // AS Number for CHINANET jiangsu province backbone
 IP-ASN,140726 // UNICOM AnHui province network
+IP-ASN,139888 // Tang Zhuo
 IP-ASN,138421 // China Unicom
 IP-ASN,137758 // Industrial and Commercial Bank of China Limited,ICBC
 IP-ASN,9394 // China TieTong Telecommunications Corporation
@@ -112,7 +113,6 @@ IP-ASN,212237 // Changgong Zhang
 IP-ASN,17969 // ChongQing Broadcast & TV Transfer Network Co. Ltd
 IP-ASN,17816 // China Unicom IP network China169 Guangdong province
 IP-ASN,17428 // 21Vianet.Co.,Ltd
-IP-ASN,139888 // Tang Zhuo
 IP-ASN,139721 // HeFei
 IP-ASN,138950 // Jiangsu Wuxi International IDC network
 IP-ASN,137801 // AIPO Cloud (Guizhou) Technology Co., Ltd.
@@ -157,7 +157,6 @@ IP-ASN,17775 // shanghai science and technology network communication limited co
 IP-ASN,17429 // BEIJING GEHUA CATV NETWORK CO.LTD
 IP-ASN,141425 // China Mobile Group Guangdong communications corporation
 IP-ASN,139148 // China UnionPay Co., Ltd
-IP-ASN,138545 // Zero Cirrus Cloud Computing (Shanghai) Co., Ltd.
 IP-ASN,138538 // VPSOR-GLOBAL
 IP-ASN,136237 // Shuangyu Communication Technology co.,Ltd.
 IP-ASN,136198 // CHINANET Guangdong province Yuexi MAN network
@@ -166,6 +165,7 @@ IP-ASN,136180 // Beijing Tiantexin Tech. Co., Ltd.
 IP-ASN,135629 // Ningxia West Cloud Data Technology Co.Ltd.
 IP-ASN,135061 // China Unicom Guangdong IP network
 IP-ASN,134542 // China Unicom IP network
+IP-ASN,134417 // Nanjing
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,9939 // DYXNET of Shenzhen Communication Co., Ltd.
 IP-ASN,9811 // Development & Research Center of State Council Net.
@@ -247,6 +247,7 @@ IP-ASN,139154 // Big Data Center Of Shandong Province
 IP-ASN,139136 // ZHEJIANG PROVINCE NEW-TYPE INTERNET EXCHANGE POINT CO.,LTD.
 IP-ASN,139110 // Lenovo Mobile Communication Technology (Beijing) Ltd
 IP-ASN,139099 // Zhejiang Geely Holding Group
+IP-ASN,138545 // Zero Cirrus Cloud Computing (Shanghai) Co., Ltd.
 IP-ASN,137806 // WMGS Consulting (Shenzhen) Co.Ltd
 IP-ASN,137798 // 5/F, Zhujiang Yide Building, 362 Dongfeng Middle Road, Yuexiu District,
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
@@ -259,7 +260,6 @@ IP-ASN,134761 // CHINANET NINGXIA province ZHONGWEI IDC network
 IP-ASN,134760 // Shijiazhuang IDC network, CHINANET Hebei province
 IP-ASN,134756 // CHINANET Nanjing Jishan IDC network
 IP-ASN,134420 // Chongqing Telecom
-IP-ASN,134417 // Nanjing
 IP-ASN,133774 // China Telecom Fujian Fuzhou IDC
 IP-ASN,133194 // Connections Hub Technology (Shanghai) Ltd. Company
 IP-ASN,133111 // CERNET New Technology Co., Ltd
@@ -286,7 +286,7 @@ IP-ASN,63603 // GSS China
 IP-ASN,63593 // Guangdong HeyTap Technology Co., Ltd.
 IP-ASN,59065 // PayPal Network Information Services (Shanghai) Co., Ltd.
 IP-ASN,59043 // Guangzhou LanDong Information technology co., LTD
-IP-ASN,59037 // Hangzhou ZhiYu Network Technology Co.,Ltd.
+IP-ASN,59037 // Zhejiang Ruili Information Technology Co., Ltd
 IP-ASN,59034 // BeiJing Wish Network Technology CO.,LTD.
 IP-ASN,58852 // Guizhou provincial radio and television information Network Inc
 IP-ASN,58777 // ChinaTelecom Cybersecurity Tech
@@ -669,6 +669,7 @@ IP-ASN,215315 // LIZI LUO
 IP-ASN,215105 // Jingqiu Xu
 IP-ASN,215056 // LIU Yijie
 IP-ASN,215007 // BOZHAN LIANG
+IP-ASN,214963 // Puhe You
 IP-ASN,213069 // PANYUAN HUANG
 IP-ASN,212690 // Enyu Li
 IP-ASN,212623 // Fan Zhong
