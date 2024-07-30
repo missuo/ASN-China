@@ -9,7 +9,7 @@
  * Copyright © 2022 by Vincent, All Rights Reserved. 
 -->
 # ASN-China
-ASN and IP list in China library.
+Real-time updated Chinese ASN and IP database.
 
 ## Features
 - Automatic daily updates
