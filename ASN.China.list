@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2024-09-16 16:04:59
+// Last Updated: UTC 2024-09-17 16:04:58
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -18,8 +18,8 @@ IP-ASN,209650 // Wu Zhiyuan
 IP-ASN,17621 // China Unicom Shanghai network
 IP-ASN,63631 // Guangdong Cloudbase Technology Co., Ltd.
 IP-ASN,4842 // Tianhai InfoTech
-IP-ASN,4538 // China Education and Research Network Center
 IP-ASN,4812 // China Telecom (Group)
+IP-ASN,4538 // China Education and Research Network Center
 IP-ASN,9808 // China Mobile Communications Group Co., Ltd.
 IP-ASN,133865 // Beijing IQIYI Science & Technology Co., Ltd.
 IP-ASN,56048 // China Mobile Communicaitons Corporation
@@ -48,10 +48,10 @@ IP-ASN,56046 // China Mobile communications corporation
 IP-ASN,137718 // Beijing Volcano Engine Technology Co., Ltd.
 IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
 IP-ASN,24138 // China TieTong Telecommunications Corporation
-IP-ASN,24490 // Trans-Eurasia Information Network (TEIN2) - SG
 IP-ASN,24151 // China Internet Network Infomation Center
 IP-ASN,152320 // Goalnow Network Technology Co Limited
 IP-ASN,58466 // CHINANET Guangdong province network
+IP-ASN,24490 // Trans-Eurasia Information Network (TEIN2) - SG
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,10212 // China Enterprise ICT Solutions Limited
 IP-ASN,59019 // Beijing Kingsoft Cloud Internet Technology Co., Ltd
@@ -61,10 +61,10 @@ IP-ASN,23911 // China Next Generation Internet Beijing IX
 IP-ASN,23848 // Shenzhen Ping An Communication Technology Co.,Ltd
 IP-ASN,136958 // China Unicom Guangdong IP network
 IP-ASN,59045 // Guangzhou navigation information technology co., LTD
+IP-ASN,44421 // Yifu Yu
 IP-ASN,24489 // Trans-Eurasia Information Network (TEIN2) - North
 IP-ASN,9814 // Beijing FibrLINK Networks Co.,Ltd.
 IP-ASN,58461 // China Telecom HangZhou IDC
-IP-ASN,44421 // Yifu Yu
 IP-ASN,24409 // China Internet Network Infomation Center
 IP-ASN,17623 // China Unicom Shenzen network
 IP-ASN,150173 // PoloCloud Computing (Hong Kong) Limited
@@ -177,6 +177,7 @@ IP-ASN,7653 // Morgan Stanley Management Service (Shanghai) Limited
 IP-ASN,7641 // China Broadcasting TV Net
 IP-ASN,7609 // Morgan Stanley Management Service (Shanghai) Limited
 IP-ASN,63701 // Jishi Media Co ., Ltd.
+IP-ASN,63689 // Esun Technology(Shanghai) Co.,Ltd
 IP-ASN,63673 // Shenzhen Ping An Communication Technology Co.,Ltd
 IP-ASN,63634 // China Payment & Clearing Network Co., Ltd.
 IP-ASN,63615 // GE (China) Co.,Ltd
@@ -276,7 +277,6 @@ IP-ASN,63727 // Huawei
 IP-ASN,63722 // Hodo Telecom Co,Ltd.
 IP-ASN,63718 // Hangzhou YouYun Technology Co., Ltd.
 IP-ASN,63695 // WeiYi Network Technology Co., Ltd
-IP-ASN,63689 // Esun Technology(Shanghai) Co.,Ltd
 IP-ASN,63603 // GSS China
 IP-ASN,59065 // PayPal Network Information Services (Shanghai) Co., Ltd.
 IP-ASN,59043 // Guangzhou LanDong Information technology co., LTD
@@ -548,6 +548,7 @@ IP-ASN,205610 // Huanjie Zhu
 IP-ASN,203236 // Mingyang Shen
 IP-ASN,199436 // BangLong Yang
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
+IP-ASN,199310 // XIN BING XIAN
 IP-ASN,18257 // ChangZhou Bitcomm Software Technology Co., Limited
 IP-ASN,18244 // Stateline Internet Data Center Co., Ltd. Shanghai
 IP-ASN,18242 // Chengdu Information Harbor Co., Ltd
@@ -767,7 +768,6 @@ IP-ASN,200021 // Tianhong Peng
 IP-ASN,199932 // Tianle Shi
 IP-ASN,199832 // QUN LIN
 IP-ASN,199392 // SHIZHENG NIE
-IP-ASN,199310 // XIN BING XIAN
 IP-ASN,199307 // HE LI
 IP-ASN,199304 // Bingwu Zhang
 IP-ASN,198516 // Yi Huang
@@ -818,6 +818,7 @@ IP-ASN,150323 // Huang Xinnian
 IP-ASN,150184 // Chen Chi
 IP-ASN,150141 // Wang Jiacheng
 IP-ASN,149795 // Zhijie Jin
+IP-ASN,149510 // Feng Libo
 IP-ASN,149292 // Shanghai YanFu Technology Co Ltd
 IP-ASN,149163 // Yichang Shuangsen Network Technology Ltd
 IP-ASN,142642 // Atonal System
@@ -1018,9 +1019,11 @@ IP-ASN,137835 // Nathaniel Chan Jie Le
 IP-ASN,137799 // China Guangfa Bank
 IP-ASN,137795 // Hangzhou Sulian Information Technology Co.,ltd
 IP-ASN,137726 // China Petroleum & Chemical Corporation
+IP-ASN,137436 // Cong Pengbo
 IP-ASN,137402 // CHINATELECOM Hubei province Shiyan 5G network
 IP-ASN,137401 // CHINATELECOM Hubei province Huangshi 5G network
 IP-ASN,137256 // CatIO Network
+IP-ASN,136725 // Chen Jitong
 IP-ASN,136591 // MxxCloud LLC
 IP-ASN,136535 // Yang Mengqi
 IP-ASN,135646 // Luginbash AS
