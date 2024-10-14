@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2024-10-13 16:04:41
+// Last Updated: UTC 2024-10-14 16:05:28
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -9,7 +9,7 @@ IP-ASN,4134 // CHINANET BACKBONE
 IP-ASN,45102 // Alibaba (US) Technology Co., Ltd.
 IP-ASN,55967 // Beijing Baidu Netcom Science and Technology Co., Ltd.
 IP-ASN,4809 // CHINATELECOM CORE WAN CN2
-IP-ASN,4837 // China Unicom Backbone
+IP-ASN,4837 // CHINA UNICOM China169 Backbone
 IP-ASN,4808 // China Unicom Beijing Province Network
 IP-ASN,139742 // Peddie Institute Co., Ltd
 IP-ASN,10111 // Zeofast Network
@@ -150,6 +150,7 @@ IP-ASN,141425 // China Mobile Communications Corporation
 IP-ASN,139888 // Time Network
 IP-ASN,139148 // China UnionPay Co., Ltd
 IP-ASN,137801 // AIPO Cloud (Guizhou) Technology Co., Ltd.
+IP-ASN,137758 // Industrial and Commercial Bank of China Limited,ICBC
 IP-ASN,137746 // China Internet Network Information Center
 IP-ASN,136198 // CHINANET GUANGDONG YUEXI MAN
 IP-ASN,136195 // CHINATELECOM QINGDAO CLOUDBASE
@@ -246,7 +247,6 @@ IP-ASN,138545 // Zero Cirrus Cloud Computing (Shanghai) Co., Ltd.
 IP-ASN,137806 // WMGS Consulting (Shenzhen) Co.Ltd
 IP-ASN,137798 // 5/F, Zhujiang Yide Building, 362 Dongfeng Middle Road, Yuexiu District,
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
-IP-ASN,137758 // Industrial and Commercial Bank of China Limited,ICBC
 IP-ASN,137715 // GTJA Securities
 IP-ASN,137702 // CHINATELECOM JIANGSU NANJING IDC
 IP-ASN,137697 // CHINATELECOM JIANGSU YANGZHOU IDC
@@ -671,7 +671,6 @@ IP-ASN,24302 // China Education and Research Network (CERNET)
 IP-ASN,24239 // TWD2 Education and Research Network
 IP-ASN,24144 // Wuhan LSHIY Network Technology Co., Ltd.
 IP-ASN,23910 // China Next Generation Internet CERNET2
-IP-ASN,216405 // Zheng Chao
 IP-ASN,216373 // Xin Xu
 IP-ASN,216342 // JIANYU SHAO
 IP-ASN,216305 // Cong Zhang
