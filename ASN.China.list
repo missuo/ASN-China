@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2024-10-22 16:05:09
+// Last Updated: UTC 2024-10-23 16:05:42
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -15,10 +15,10 @@ IP-ASN,139742 // Peddie Institute Co., Ltd
 IP-ASN,10111 // Zeofast Network
 IP-ASN,4847 // China Networks Inter-Exchange
 IP-ASN,209650 // Wu Zhiyuan
-IP-ASN,17621 // China Unicom Shanghai network
 IP-ASN,63631 // Guangdong Cloudbase Technology Co., Ltd.
-IP-ASN,4538 // China Education and Research Network Center
+IP-ASN,17621 // China Unicom Shanghai network
 IP-ASN,4842 // Tianhai InfoTech
+IP-ASN,4538 // China Education and Research Network Center
 IP-ASN,4812 // CHINANET SH AP
 IP-ASN,9808 // China Mobile
 IP-ASN,133865 // Beijing IQIYI Science & Technology Co., Ltd.
@@ -32,8 +32,8 @@ IP-ASN,7497 // CNIC-CAS
 IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
 IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 IP-ASN,9929 // CHINA UNICOM Industrial Internet Backbone
-IP-ASN,146788 // China Broadcasting Network Co., Ltd
 IP-ASN,56040 // China Mobile Communications Corporation
+IP-ASN,146788 // China Broadcasting Network Co., Ltd
 IP-ASN,137753 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,24413 // 263 Shanghai Communications Ltd.
 IP-ASN,23724 // CHINANET IDC BJ AP
@@ -50,9 +50,9 @@ IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
 IP-ASN,24490 // Trans-Eurasia Information Network (TEIN2) - SG
 IP-ASN,58466 // CT GUANGZHOU IDC
 IP-ASN,24138 // China TieTong Telecommunications Corporation
+IP-ASN,10212 // China Enterprise ICT Solutions Limited
 IP-ASN,24151 // China Internet Network Infomation Center
 IP-ASN,152320 // Goalnow Network Technology Co Limited
-IP-ASN,10212 // China Enterprise ICT Solutions Limited
 IP-ASN,59045 // Guangzhou navigation information technology co., LTD
 IP-ASN,59019 // Beijing Kingsoft Cloud Internet Technology Co., Ltd
 IP-ASN,38365 // Beijing Baidu Netcom Science and Technology Co., Ltd.
@@ -91,7 +91,6 @@ IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,17622 // China Unicom Guangzhou network
 IP-ASN,140726 // China Unicom
 IP-ASN,138421 // China Unicom
-IP-ASN,137758 // Industrial and Commercial Bank of China Limited,ICBC
 IP-ASN,137735 // China Construction Bank
 IP-ASN,136237 // Shanghai Shuangyu Communication Technology co.,Ltd.
 IP-ASN,134773 // CHINANET GUANGDONG GUANGZHOU MAN
@@ -115,6 +114,7 @@ IP-ASN,139721 // CHINATELECOM ANHUI HEFEI MAN
 IP-ASN,138950 // CHINATELECOM JIANGSU WUXI INTERNATIONAL IDC
 IP-ASN,138538 // Ningbo Nanbian Tuoluo Xinxi Jishu Co., Ltd
 IP-ASN,137801 // AIPO Cloud (Guizhou) Technology Co., Ltd.
+IP-ASN,137758 // Industrial and Commercial Bank of China Limited,ICBC
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,133119 // China Unicom IP network
 IP-ASN,9818 // Internet Finance Laboratory
@@ -214,7 +214,7 @@ IP-ASN,37942 // 3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,
 IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
 IP-ASN,24147 // BEIJING CBD TELECOM CO,.LTD
 IP-ASN,23852 // 17/FL, International Bank Center,
-IP-ASN,209294 // Fan Zhang
+IP-ASN,209306 // Jin Shaohai
 IP-ASN,205651 // Hao Qiao
 IP-ASN,199310 // XIN BING XIAN
 IP-ASN,18239 // NO.11 Xi San Huan Zhong Road,Beijing
@@ -223,12 +223,14 @@ IP-ASN,17969 // ChongQing Broadcast & TV Transfer Network Co. Ltd
 IP-ASN,17799 // CHINATELECOM LN AP
 IP-ASN,17739 // Shanghai Telecom Haplink Network Co Ltd (Haplink)
 IP-ASN,17430 // 5F Greatwall Bldg., A38 Xueyuan Road Haidian District,Beijing
+IP-ASN,152911 // SY ICT
 IP-ASN,152711 // Suike Information Technology SiChuan Co., Ltd
 IP-ASN,151313 // Pacific Insurance Technology Co., Ltd
 IP-ASN,151193 // Shandong Deju Information Technology Co Ltd
 IP-ASN,148981 // CHINANET HUBEI SHIYAN IDC
 IP-ASN,146814 // Hong Kong University of Science and Technology, Dongchung Town,
 IP-ASN,146812 // Deutsche Bank (China) Co., Ltd. Shanghai Branch
+IP-ASN,146782 // University Of Chinese Academy Of Social Sciences
 IP-ASN,140979 // China Unicom
 IP-ASN,140895 // China Mobile Communications Corporation
 IP-ASN,140716 // China Unicom
@@ -245,6 +247,7 @@ IP-ASN,139099 // Zhejiang Geely Holding Group
 IP-ASN,138545 // Zero Cirrus Cloud Computing (Shanghai) Co., Ltd.
 IP-ASN,137806 // WMGS Consulting (Shenzhen) Co.Ltd
 IP-ASN,137798 // 5/F, Zhujiang Yide Building, 362 Dongfeng Middle Road, Yuexiu District,
+IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137715 // GTJA Securities
 IP-ASN,137702 // CHINATELECOM JIANGSU NANJING IDC
 IP-ASN,137697 // CHINATELECOM JIANGSU YANGZHOU IDC
@@ -307,6 +310,7 @@ IP-ASN,37937 // China eGovNet Information Center
 IP-ASN,24547 // China Mobile
 IP-ASN,24369 // CERNET2 IX at Northeast University
 IP-ASN,24361 // CERNET2 IX at Southeast University
+IP-ASN,24349 // CERNET2 IX at Peking University
 IP-ASN,24348 // CERNET2 IX at Tsinghua University
 IP-ASN,24143 // Qingdao Cable TV Network Center
 IP-ASN,24141 // Shanghai DMT Information Network cor.,LTD.
@@ -315,14 +319,13 @@ IP-ASN,23842 // Shenzhen Information and Network Center
 IP-ASN,23839 // 76 # Oil Street of LiaoHe Oilfield, PanJin, LiaoNing
 IP-ASN,212371 // Huizhou HuiGu CloudTech Co., Ltd.
 IP-ASN,210041 // Licheng MAO
-IP-ASN,209306 // Jin Shaohai
+IP-ASN,209294 // Fan Zhang
 IP-ASN,209218 // Yang Qi
 IP-ASN,199436 // BangLong Yang
 IP-ASN,18245 // CNNIC
 IP-ASN,17897 // CHINATELECOM HLJ AP
 IP-ASN,17776 // China Enterprise ICT Solutions Limited
 IP-ASN,17633 // CHINATELECOM SD AP
-IP-ASN,152911 // SY ICT
 IP-ASN,152186 // Mintel Holding Limited
 IP-ASN,152120 // China Unicom
 IP-ASN,152092 // Henan Angran Cloud Computing Technology Co. Ltd
@@ -341,7 +344,6 @@ IP-ASN,146842 // ChinaDataCom Corporation Limited
 IP-ASN,146822 // CHINANET XINFU
 IP-ASN,146817 // Hubei Feixun Network Co., Ltd
 IP-ASN,146787 // Hengyang Jiangwan Network Technology Co., Ltd.
-IP-ASN,146782 // University Of Chinese Academy Of Social Sciences
 IP-ASN,146771 // CCB Fintech Co., Ltd.
 IP-ASN,146758 // ShangHai Sensetime Technology Development Co., Ltd.
 IP-ASN,146746 // TaiKang Insurance Group CO.,LTD.,Wuhan Operating Center
@@ -390,7 +392,6 @@ IP-ASN,138371 // China Education and Research Network (CERNET)
 IP-ASN,138169 // ASEAN INTERNATIONAL INFORMATION GARDEN IDC
 IP-ASN,137794 // Dahe tianchi (Beijing) network co. LTD
 IP-ASN,137788 // Shanxi Beacon Cloudscape
-IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137785 // CACloud Services (Shanghai) Co., Ltd.
 IP-ASN,137767 // Shanghai General Motor Corporation Limited
 IP-ASN,137764 // Beijing Youkai Technology Co.Ltd
@@ -538,11 +539,11 @@ IP-ASN,24355 // CERNET2 IX at University of Electronic Science and Technology of
 IP-ASN,24353 // CERNET2 IX at Xi'an Jiaotong University
 IP-ASN,24352 // CERNET2 IX at Tianjin University
 IP-ASN,24350 // CERNET2 IX at Beijing University of Posts and Telecommunications
-IP-ASN,24349 // CERNET2 IX at Peking University
 IP-ASN,24150 // 1 TianXianQiao BinHe Road,Chengdu,SiChuan
 IP-ASN,24137 // KuanggongLu, Pingdingshan, Henan, China
 IP-ASN,24134 // CNLink Networks Ltd.
 IP-ASN,23841 // 6/F, No.3 Huatian Road, New Technology Industry Area
+IP-ASN,23611 // CHINANET GANSU JIUQUAN MAN
 IP-ASN,214934 // Chen Qu
 IP-ASN,214704 // Xin Zhao
 IP-ASN,211051 // Dazhong Technology Network Studio of Tieling County
@@ -608,7 +609,6 @@ IP-ASN,137784 // CACloud Services (Shanghai) Co., Ltd.
 IP-ASN,137782 // STATE GRID SHANGHAI MUNICIPAL ELECTRIC POWER COMPANY
 IP-ASN,137778 // Nangjing sichongzou kemao Ltd.
 IP-ASN,137751 // Xi'an Qianxi Network Technology Co. Ltd.
-IP-ASN,137749 // NANJING FUTURE NETWORK INDUSTRY INNOVATION Co,.LTD
 IP-ASN,137747 // Beijing Chijun Network Advisory Service Co,Ltd
 IP-ASN,137719 // Qingdao Weidong Big Data Technology Co., Ltd
 IP-ASN,137710 // Net God Information Technology (Beijing) Co., Ltd.
@@ -702,6 +702,7 @@ IP-ASN,214613 // YANG MAN
 IP-ASN,214610 // YangXu Liao
 IP-ASN,214203 // Nanning Huifa Technology Co., Ltd.
 IP-ASN,214040 // RUNNAN WEN
+IP-ASN,214001 // Shibo Cui
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,212690 // Enyu Li
 IP-ASN,212532 // XIAO YANG WEN RUI
@@ -766,6 +767,7 @@ IP-ASN,199392 // SHIZHENG NIE
 IP-ASN,199307 // HE LI
 IP-ASN,199304 // Bingwu Zhang
 IP-ASN,198527 // Haolin Li
+IP-ASN,198516 // Yi Huang
 IP-ASN,198304 // Pinjia Zhao
 IP-ASN,198266 // Yunrui Gu
 IP-ASN,197626 // XU ZIYAO
@@ -3387,6 +3389,7 @@ IP-ASN,144182 // China Education and Research Network (CERNET)
 IP-ASN,144181 // China Education and Research Network (CERNET)
 IP-ASN,144180 // China Education and Research Network (CERNET)
 IP-ASN,144179 // China Education and Research Network (CERNET)
+IP-ASN,144178 // China Education and Research Network (CERNET)
 IP-ASN,144177 // China Education and Research Network (CERNET)
 IP-ASN,144176 // China Education and Research Network (CERNET)
 IP-ASN,144175 // China Education and Research Network (CERNET)
@@ -3565,15 +3568,19 @@ IP-ASN,144003 // China Education and Research Network (CERNET)
 IP-ASN,144002 // China Education and Research Network (CERNET)
 IP-ASN,144001 // China Education and Research Network (CERNET)
 IP-ASN,144000 // China Education and Research Network (CERNET)
+IP-ASN,143999 // China Education and Research Network (CERNET)
 IP-ASN,143998 // China Education and Research Network (CERNET)
 IP-ASN,143997 // China Education and Research Network (CERNET)
 IP-ASN,143996 // China Education and Research Network (CERNET)
+IP-ASN,143995 // China Education and Research Network (CERNET)
+IP-ASN,143994 // China Education and Research Network (CERNET)
 IP-ASN,143993 // China Education and Research Network (CERNET)
 IP-ASN,143992 // China Education and Research Network (CERNET)
 IP-ASN,143991 // China Education and Research Network (CERNET)
 IP-ASN,143990 // China Education and Research Network (CERNET)
 IP-ASN,143989 // China Education and Research Network (CERNET)
 IP-ASN,143988 // China Education and Research Network (CERNET)
+IP-ASN,143987 // China Education and Research Network (CERNET)
 IP-ASN,143986 // China Education and Research Network (CERNET)
 IP-ASN,143985 // China Education and Research Network (CERNET)
 IP-ASN,143984 // China Education and Research Network (CERNET)
@@ -3581,9 +3588,13 @@ IP-ASN,143983 // China Education and Research Network (CERNET)
 IP-ASN,143982 // China Education and Research Network (CERNET)
 IP-ASN,143981 // China Education and Research Network (CERNET)
 IP-ASN,143980 // China Education and Research Network (CERNET)
+IP-ASN,143979 // China Education and Research Network (CERNET)
 IP-ASN,143978 // China Education and Research Network (CERNET)
 IP-ASN,143977 // China Education and Research Network (CERNET)
+IP-ASN,143976 // China Education and Research Network (CERNET)
+IP-ASN,143975 // China Education and Research Network (CERNET)
 IP-ASN,143974 // China Education and Research Network (CERNET)
+IP-ASN,143973 // China Education and Research Network (CERNET)
 IP-ASN,143972 // China Education and Research Network (CERNET)
 IP-ASN,143971 // China Education and Research Network (CERNET)
 IP-ASN,143970 // China Education and Research Network (CERNET)
@@ -3599,8 +3610,10 @@ IP-ASN,143961 // China Education and Research Network (CERNET)
 IP-ASN,143960 // China Education and Research Network (CERNET)
 IP-ASN,143959 // China Education and Research Network (CERNET)
 IP-ASN,143958 // China Education and Research Network (CERNET)
+IP-ASN,143957 // China Education and Research Network (CERNET)
 IP-ASN,143956 // China Education and Research Network (CERNET)
 IP-ASN,143955 // China Education and Research Network (CERNET)
+IP-ASN,143954 // China Education and Research Network (CERNET)
 IP-ASN,143953 // China Education and Research Network (CERNET)
 IP-ASN,143952 // China Education and Research Network (CERNET)
 IP-ASN,143951 // China Education and Research Network (CERNET)
@@ -3616,9 +3629,11 @@ IP-ASN,143942 // China Education and Research Network (CERNET)
 IP-ASN,143941 // China Education and Research Network (CERNET)
 IP-ASN,143940 // China Education and Research Network (CERNET)
 IP-ASN,143939 // China Education and Research Network (CERNET)
+IP-ASN,143938 // China Education and Research Network (CERNET)
 IP-ASN,143937 // China Education and Research Network (CERNET)
 IP-ASN,143936 // China Education and Research Network (CERNET)
 IP-ASN,143935 // China Education and Research Network (CERNET)
+IP-ASN,143934 // China Education and Research Network (CERNET)
 IP-ASN,143933 // China Education and Research Network (CERNET)
 IP-ASN,143932 // China Education and Research Network (CERNET)
 IP-ASN,143931 // China Education and Research Network (CERNET)
@@ -3630,12 +3645,16 @@ IP-ASN,143926 // China Education and Research Network (CERNET)
 IP-ASN,143925 // China Education and Research Network (CERNET)
 IP-ASN,143924 // China Education and Research Network (CERNET)
 IP-ASN,143923 // China Education and Research Network (CERNET)
+IP-ASN,143922 // China Education and Research Network (CERNET)
 IP-ASN,143921 // China Education and Research Network (CERNET)
+IP-ASN,143920 // China Education and Research Network (CERNET)
 IP-ASN,143919 // China Education and Research Network (CERNET)
 IP-ASN,143918 // China Education and Research Network (CERNET)
+IP-ASN,143917 // China Education and Research Network (CERNET)
 IP-ASN,143916 // China Education and Research Network (CERNET)
 IP-ASN,143915 // China Education and Research Network (CERNET)
 IP-ASN,143914 // China Education and Research Network (CERNET)
+IP-ASN,143913 // China Education and Research Network (CERNET)
 IP-ASN,143912 // China Education and Research Network (CERNET)
 IP-ASN,143911 // China Education and Research Network (CERNET)
 IP-ASN,143910 // China Education and Research Network (CERNET)
@@ -3644,14 +3663,21 @@ IP-ASN,143908 // China Education and Research Network (CERNET)
 IP-ASN,143907 // China Education and Research Network (CERNET)
 IP-ASN,143906 // China Education and Research Network (CERNET)
 IP-ASN,143905 // China Education and Research Network (CERNET)
+IP-ASN,143904 // China Education and Research Network (CERNET)
 IP-ASN,143903 // China Education and Research Network (CERNET)
 IP-ASN,143902 // China Education and Research Network (CERNET)
+IP-ASN,143901 // China Education and Research Network (CERNET)
 IP-ASN,143900 // China Education and Research Network (CERNET)
 IP-ASN,143899 // China Education and Research Network (CERNET)
 IP-ASN,143898 // China Education and Research Network (CERNET)
+IP-ASN,143897 // China Education and Research Network (CERNET)
+IP-ASN,143896 // China Education and Research Network (CERNET)
+IP-ASN,143895 // China Education and Research Network (CERNET)
 IP-ASN,143894 // China Education and Research Network (CERNET)
 IP-ASN,143893 // China Education and Research Network (CERNET)
 IP-ASN,143892 // China Education and Research Network (CERNET)
+IP-ASN,143891 // China Education and Research Network (CERNET)
+IP-ASN,143890 // China Education and Research Network (CERNET)
 IP-ASN,143889 // China Education and Research Network (CERNET)
 IP-ASN,143888 // China Education and Research Network (CERNET)
 IP-ASN,143887 // China Education and Research Network (CERNET)
@@ -3666,6 +3692,8 @@ IP-ASN,143879 // China Education and Research Network (CERNET)
 IP-ASN,143878 // China Education and Research Network (CERNET)
 IP-ASN,143877 // China Education and Research Network (CERNET)
 IP-ASN,143876 // China Education and Research Network (CERNET)
+IP-ASN,143875 // China Education and Research Network (CERNET)
+IP-ASN,143874 // China Education and Research Network (CERNET)
 IP-ASN,143873 // China Education and Research Network (CERNET)
 IP-ASN,143872 // China Education and Research Network (CERNET)
 IP-ASN,143871 // China Education and Research Network (CERNET)
@@ -3675,6 +3703,7 @@ IP-ASN,143868 // China Education and Research Network (CERNET)
 IP-ASN,143867 // China Education and Research Network (CERNET)
 IP-ASN,143866 // China Education and Research Network (CERNET)
 IP-ASN,143865 // China Education and Research Network (CERNET)
+IP-ASN,143864 // China Education and Research Network (CERNET)
 IP-ASN,143863 // China Education and Research Network (CERNET)
 IP-ASN,143862 // China Education and Research Network (CERNET)
 IP-ASN,143861 // China Education and Research Network (CERNET)
@@ -3684,40 +3713,55 @@ IP-ASN,143858 // China Education and Research Network (CERNET)
 IP-ASN,143857 // China Education and Research Network (CERNET)
 IP-ASN,143856 // China Education and Research Network (CERNET)
 IP-ASN,143855 // China Education and Research Network (CERNET)
+IP-ASN,143854 // China Education and Research Network (CERNET)
 IP-ASN,143853 // China Education and Research Network (CERNET)
 IP-ASN,143852 // China Education and Research Network (CERNET)
 IP-ASN,143851 // China Education and Research Network (CERNET)
 IP-ASN,143850 // China Education and Research Network (CERNET)
 IP-ASN,143849 // China Education and Research Network (CERNET)
+IP-ASN,143848 // China Education and Research Network (CERNET)
 IP-ASN,143847 // China Education and Research Network (CERNET)
 IP-ASN,143846 // China Education and Research Network (CERNET)
 IP-ASN,143845 // China Education and Research Network (CERNET)
 IP-ASN,143844 // China Education and Research Network (CERNET)
+IP-ASN,143843 // China Education and Research Network (CERNET)
+IP-ASN,143842 // China Education and Research Network (CERNET)
 IP-ASN,143841 // China Education and Research Network (CERNET)
 IP-ASN,143840 // China Education and Research Network (CERNET)
 IP-ASN,143839 // China Education and Research Network (CERNET)
+IP-ASN,143838 // China Education and Research Network (CERNET)
 IP-ASN,143837 // China Education and Research Network (CERNET)
+IP-ASN,143836 // China Education and Research Network (CERNET)
+IP-ASN,143835 // China Education and Research Network (CERNET)
+IP-ASN,143834 // China Education and Research Network (CERNET)
 IP-ASN,143833 // China Education and Research Network (CERNET)
+IP-ASN,143832 // China Education and Research Network (CERNET)
 IP-ASN,143831 // China Education and Research Network (CERNET)
 IP-ASN,143830 // China Education and Research Network (CERNET)
 IP-ASN,143829 // China Education and Research Network (CERNET)
+IP-ASN,143828 // China Education and Research Network (CERNET)
 IP-ASN,143827 // China Education and Research Network (CERNET)
 IP-ASN,143826 // China Education and Research Network (CERNET)
+IP-ASN,143825 // China Education and Research Network (CERNET)
 IP-ASN,143824 // China Education and Research Network (CERNET)
 IP-ASN,143823 // China Education and Research Network (CERNET)
 IP-ASN,143822 // China Education and Research Network (CERNET)
 IP-ASN,143821 // China Education and Research Network (CERNET)
 IP-ASN,143820 // China Education and Research Network (CERNET)
+IP-ASN,143819 // China Education and Research Network (CERNET)
 IP-ASN,143818 // China Education and Research Network (CERNET)
 IP-ASN,143817 // China Education and Research Network (CERNET)
 IP-ASN,143816 // China Education and Research Network (CERNET)
+IP-ASN,143815 // China Education and Research Network (CERNET)
 IP-ASN,143814 // China Education and Research Network (CERNET)
 IP-ASN,143813 // China Education and Research Network (CERNET)
 IP-ASN,143812 // China Education and Research Network (CERNET)
 IP-ASN,143811 // China Education and Research Network (CERNET)
 IP-ASN,143810 // China Education and Research Network (CERNET)
 IP-ASN,143809 // China Education and Research Network (CERNET)
+IP-ASN,143808 // China Education and Research Network (CERNET)
 IP-ASN,143807 // China Education and Research Network (CERNET)
+IP-ASN,143806 // China Education and Research Network (CERNET)
 IP-ASN,143805 // China Education and Research Network (CERNET)
 IP-ASN,143804 // China Education and Research Network (CERNET)
 IP-ASN,143803 // China Education and Research Network (CERNET)
@@ -3735,6 +3779,7 @@ IP-ASN,143792 // China Education and Research Network (CERNET)
 IP-ASN,143791 // China Education and Research Network (CERNET)
 IP-ASN,143790 // China Education and Research Network (CERNET)
 IP-ASN,143789 // China Education and Research Network (CERNET)
+IP-ASN,143788 // China Education and Research Network (CERNET)
 IP-ASN,143787 // China Education and Research Network (CERNET)
 IP-ASN,143786 // China Education and Research Network (CERNET)
 IP-ASN,143785 // China Education and Research Network (CERNET)
@@ -3746,6 +3791,7 @@ IP-ASN,143780 // China Education and Research Network (CERNET)
 IP-ASN,143779 // China Education and Research Network (CERNET)
 IP-ASN,143778 // China Education and Research Network (CERNET)
 IP-ASN,143777 // China Education and Research Network (CERNET)
+IP-ASN,143776 // China Education and Research Network (CERNET)
 IP-ASN,143775 // China Education and Research Network (CERNET)
 IP-ASN,143774 // China Education and Research Network (CERNET)
 IP-ASN,143773 // China Education and Research Network (CERNET)
@@ -3756,6 +3802,7 @@ IP-ASN,143769 // China Education and Research Network (CERNET)
 IP-ASN,143768 // China Education and Research Network (CERNET)
 IP-ASN,143767 // China Education and Research Network (CERNET)
 IP-ASN,143766 // China Education and Research Network (CERNET)
+IP-ASN,143765 // China Education and Research Network (CERNET)
 IP-ASN,143764 // China Education and Research Network (CERNET)
 IP-ASN,143763 // China Education and Research Network (CERNET)
 IP-ASN,143762 // China Education and Research Network (CERNET)
@@ -3765,10 +3812,12 @@ IP-ASN,143759 // China Education and Research Network (CERNET)
 IP-ASN,143758 // China Education and Research Network (CERNET)
 IP-ASN,143757 // China Education and Research Network (CERNET)
 IP-ASN,143756 // China Education and Research Network (CERNET)
+IP-ASN,143755 // China Education and Research Network (CERNET)
 IP-ASN,143754 // China Education and Research Network (CERNET)
 IP-ASN,143753 // China Education and Research Network (CERNET)
 IP-ASN,143752 // China Education and Research Network (CERNET)
 IP-ASN,143751 // China Education and Research Network (CERNET)
+IP-ASN,143750 // China Education and Research Network (CERNET)
 IP-ASN,143749 // China Education and Research Network (CERNET)
 IP-ASN,143748 // China Education and Research Network (CERNET)
 IP-ASN,143747 // China Education and Research Network (CERNET)
@@ -3780,15 +3829,19 @@ IP-ASN,143742 // China Education and Research Network (CERNET)
 IP-ASN,143741 // China Education and Research Network (CERNET)
 IP-ASN,143740 // China Education and Research Network (CERNET)
 IP-ASN,143739 // China Education and Research Network (CERNET)
+IP-ASN,143738 // China Education and Research Network (CERNET)
 IP-ASN,143737 // China Education and Research Network (CERNET)
 IP-ASN,143736 // China Education and Research Network (CERNET)
 IP-ASN,143735 // China Education and Research Network (CERNET)
 IP-ASN,143734 // China Education and Research Network (CERNET)
 IP-ASN,143733 // China Education and Research Network (CERNET)
+IP-ASN,143732 // China Education and Research Network (CERNET)
 IP-ASN,143731 // China Education and Research Network (CERNET)
 IP-ASN,143730 // China Education and Research Network (CERNET)
 IP-ASN,143729 // China Education and Research Network (CERNET)
+IP-ASN,143728 // China Education and Research Network (CERNET)
 IP-ASN,143727 // China Education and Research Network (CERNET)
+IP-ASN,143726 // China Education and Research Network (CERNET)
 IP-ASN,143725 // China Education and Research Network (CERNET)
 IP-ASN,143724 // China Education and Research Network (CERNET)
 IP-ASN,143723 // China Education and Research Network (CERNET)
@@ -3800,12 +3853,15 @@ IP-ASN,143718 // China Education and Research Network (CERNET)
 IP-ASN,143717 // China Education and Research Network (CERNET)
 IP-ASN,143716 // China Education and Research Network (CERNET)
 IP-ASN,143715 // China Education and Research Network (CERNET)
+IP-ASN,143714 // China Education and Research Network (CERNET)
 IP-ASN,143713 // China Education and Research Network (CERNET)
 IP-ASN,143712 // China Education and Research Network (CERNET)
 IP-ASN,143711 // China Education and Research Network (CERNET)
+IP-ASN,143710 // China Education and Research Network (CERNET)
 IP-ASN,143709 // China Education and Research Network (CERNET)
 IP-ASN,143708 // China Education and Research Network (CERNET)
 IP-ASN,143707 // China Education and Research Network (CERNET)
+IP-ASN,143706 // China Education and Research Network (CERNET)
 IP-ASN,143705 // China Education and Research Network (CERNET)
 IP-ASN,143704 // China Education and Research Network (CERNET)
 IP-ASN,143703 // China Education and Research Network (CERNET)
@@ -4525,8 +4581,10 @@ IP-ASN,142990 // China Education and Research Network (CERNET)
 IP-ASN,142989 // China Education and Research Network (CERNET)
 IP-ASN,142988 // China Education and Research Network (CERNET)
 IP-ASN,142987 // China Education and Research Network (CERNET)
+IP-ASN,142986 // China Education and Research Network (CERNET)
 IP-ASN,142985 // China Education and Research Network (CERNET)
 IP-ASN,142984 // China Education and Research Network (CERNET)
+IP-ASN,142983 // China Education and Research Network (CERNET)
 IP-ASN,142982 // China Education and Research Network (CERNET)
 IP-ASN,142981 // China Education and Research Network (CERNET)
 IP-ASN,142980 // China Education and Research Network (CERNET)
@@ -4542,8 +4600,12 @@ IP-ASN,142971 // China Education and Research Network (CERNET)
 IP-ASN,142970 // China Education and Research Network (CERNET)
 IP-ASN,142969 // China Education and Research Network (CERNET)
 IP-ASN,142968 // China Education and Research Network (CERNET)
+IP-ASN,142967 // China Education and Research Network (CERNET)
+IP-ASN,142966 // China Education and Research Network (CERNET)
+IP-ASN,142965 // China Education and Research Network (CERNET)
 IP-ASN,142964 // China Education and Research Network (CERNET)
 IP-ASN,142963 // China Education and Research Network (CERNET)
+IP-ASN,142962 // China Education and Research Network (CERNET)
 IP-ASN,142961 // China Education and Research Network (CERNET)
 IP-ASN,142960 // China Education and Research Network (CERNET)
 IP-ASN,142959 // China Education and Research Network (CERNET)
@@ -4556,20 +4618,25 @@ IP-ASN,142953 // China Education and Research Network (CERNET)
 IP-ASN,142952 // China Education and Research Network (CERNET)
 IP-ASN,142951 // China Education and Research Network (CERNET)
 IP-ASN,142950 // China Education and Research Network (CERNET)
+IP-ASN,142949 // China Education and Research Network (CERNET)
 IP-ASN,142948 // China Education and Research Network (CERNET)
 IP-ASN,142947 // China Education and Research Network (CERNET)
+IP-ASN,142946 // China Education and Research Network (CERNET)
 IP-ASN,142945 // China Education and Research Network (CERNET)
 IP-ASN,142944 // China Education and Research Network (CERNET)
 IP-ASN,142943 // China Education and Research Network (CERNET)
 IP-ASN,142942 // China Education and Research Network (CERNET)
 IP-ASN,142941 // China Education and Research Network (CERNET)
 IP-ASN,142940 // China Education and Research Network (CERNET)
+IP-ASN,142939 // China Education and Research Network (CERNET)
 IP-ASN,142938 // China Education and Research Network (CERNET)
 IP-ASN,142937 // China Education and Research Network (CERNET)
 IP-ASN,142936 // China Education and Research Network (CERNET)
 IP-ASN,142935 // China Education and Research Network (CERNET)
+IP-ASN,142934 // China Education and Research Network (CERNET)
 IP-ASN,142933 // China Education and Research Network (CERNET)
 IP-ASN,142932 // China Education and Research Network (CERNET)
+IP-ASN,142931 // China Education and Research Network (CERNET)
 IP-ASN,142930 // China Education and Research Network (CERNET)
 IP-ASN,142929 // China Education and Research Network (CERNET)
 IP-ASN,142928 // China Education and Research Network (CERNET)
@@ -4586,6 +4653,7 @@ IP-ASN,142918 // China Education and Research Network (CERNET)
 IP-ASN,142917 // China Education and Research Network (CERNET)
 IP-ASN,142916 // China Education and Research Network (CERNET)
 IP-ASN,142915 // China Education and Research Network (CERNET)
+IP-ASN,142914 // China Education and Research Network (CERNET)
 IP-ASN,142913 // China Education and Research Network (CERNET)
 IP-ASN,142912 // China Education and Research Network (CERNET)
 IP-ASN,142911 // China Education and Research Network (CERNET)
@@ -4597,15 +4665,20 @@ IP-ASN,142906 // China Education and Research Network (CERNET)
 IP-ASN,142905 // China Education and Research Network (CERNET)
 IP-ASN,142904 // China Education and Research Network (CERNET)
 IP-ASN,142903 // China Education and Research Network (CERNET)
+IP-ASN,142902 // China Education and Research Network (CERNET)
 IP-ASN,142901 // China Education and Research Network (CERNET)
 IP-ASN,142900 // China Education and Research Network (CERNET)
 IP-ASN,142899 // China Education and Research Network (CERNET)
 IP-ASN,142898 // China Education and Research Network (CERNET)
 IP-ASN,142897 // China Education and Research Network (CERNET)
 IP-ASN,142896 // China Education and Research Network (CERNET)
+IP-ASN,142895 // China Education and Research Network (CERNET)
 IP-ASN,142894 // China Education and Research Network (CERNET)
+IP-ASN,142893 // China Education and Research Network (CERNET)
 IP-ASN,142892 // China Education and Research Network (CERNET)
 IP-ASN,142891 // China Education and Research Network (CERNET)
+IP-ASN,142890 // China Education and Research Network (CERNET)
+IP-ASN,142889 // China Education and Research Network (CERNET)
 IP-ASN,142888 // China Education and Research Network (CERNET)
 IP-ASN,142887 // China Education and Research Network (CERNET)
 IP-ASN,142886 // China Education and Research Network (CERNET)
@@ -4617,11 +4690,13 @@ IP-ASN,142881 // China Education and Research Network (CERNET)
 IP-ASN,142880 // China Education and Research Network (CERNET)
 IP-ASN,142879 // China Education and Research Network (CERNET)
 IP-ASN,142878 // China Education and Research Network (CERNET)
+IP-ASN,142877 // China Education and Research Network (CERNET)
 IP-ASN,142876 // China Education and Research Network (CERNET)
 IP-ASN,142875 // China Education and Research Network (CERNET)
 IP-ASN,142874 // China Education and Research Network (CERNET)
 IP-ASN,142873 // China Education and Research Network (CERNET)
 IP-ASN,142872 // China Education and Research Network (CERNET)
+IP-ASN,142871 // China Education and Research Network (CERNET)
 IP-ASN,142870 // China Education and Research Network (CERNET)
 IP-ASN,142869 // China Education and Research Network (CERNET)
 IP-ASN,142868 // China Education and Research Network (CERNET)
@@ -4629,15 +4704,19 @@ IP-ASN,142867 // China Education and Research Network (CERNET)
 IP-ASN,142866 // China Education and Research Network (CERNET)
 IP-ASN,142865 // China Education and Research Network (CERNET)
 IP-ASN,142864 // China Education and Research Network (CERNET)
+IP-ASN,142863 // China Education and Research Network (CERNET)
 IP-ASN,142862 // China Education and Research Network (CERNET)
 IP-ASN,142861 // China Education and Research Network (CERNET)
 IP-ASN,142860 // China Education and Research Network (CERNET)
 IP-ASN,142859 // China Education and Research Network (CERNET)
 IP-ASN,142858 // China Education and Research Network (CERNET)
+IP-ASN,142857 // China Education and Research Network (CERNET)
 IP-ASN,142856 // China Education and Research Network (CERNET)
 IP-ASN,142855 // China Education and Research Network (CERNET)
+IP-ASN,142854 // China Education and Research Network (CERNET)
 IP-ASN,142853 // China Education and Research Network (CERNET)
 IP-ASN,142852 // China Education and Research Network (CERNET)
+IP-ASN,142851 // China Education and Research Network (CERNET)
 IP-ASN,142850 // China Education and Research Network (CERNET)
 IP-ASN,142849 // China Education and Research Network (CERNET)
 IP-ASN,142848 // China Education and Research Network (CERNET)
@@ -4649,14 +4728,18 @@ IP-ASN,142843 // China Education and Research Network (CERNET)
 IP-ASN,142842 // China Education and Research Network (CERNET)
 IP-ASN,142841 // China Education and Research Network (CERNET)
 IP-ASN,142840 // China Education and Research Network (CERNET)
+IP-ASN,142839 // China Education and Research Network (CERNET)
 IP-ASN,142838 // China Education and Research Network (CERNET)
 IP-ASN,142837 // China Education and Research Network (CERNET)
 IP-ASN,142836 // China Education and Research Network (CERNET)
+IP-ASN,142835 // China Education and Research Network (CERNET)
 IP-ASN,142834 // China Education and Research Network (CERNET)
+IP-ASN,142833 // China Education and Research Network (CERNET)
 IP-ASN,142832 // China Education and Research Network (CERNET)
 IP-ASN,142831 // China Education and Research Network (CERNET)
 IP-ASN,142830 // China Education and Research Network (CERNET)
 IP-ASN,142829 // China Education and Research Network (CERNET)
+IP-ASN,142828 // China Education and Research Network (CERNET)
 IP-ASN,142827 // China Education and Research Network (CERNET)
 IP-ASN,142826 // China Education and Research Network (CERNET)
 IP-ASN,142825 // China Education and Research Network (CERNET)
@@ -4665,6 +4748,7 @@ IP-ASN,142823 // China Education and Research Network (CERNET)
 IP-ASN,142822 // China Education and Research Network (CERNET)
 IP-ASN,142821 // China Education and Research Network (CERNET)
 IP-ASN,142820 // China Education and Research Network (CERNET)
+IP-ASN,142819 // China Education and Research Network (CERNET)
 IP-ASN,142818 // China Education and Research Network (CERNET)
 IP-ASN,142817 // China Education and Research Network (CERNET)
 IP-ASN,142816 // China Education and Research Network (CERNET)
@@ -4690,13 +4774,18 @@ IP-ASN,142797 // China Education and Research Network (CERNET)
 IP-ASN,142796 // China Education and Research Network (CERNET)
 IP-ASN,142795 // China Education and Research Network (CERNET)
 IP-ASN,142794 // China Education and Research Network (CERNET)
+IP-ASN,142793 // China Education and Research Network (CERNET)
 IP-ASN,142792 // China Education and Research Network (CERNET)
 IP-ASN,142791 // China Education and Research Network (CERNET)
 IP-ASN,142790 // China Education and Research Network (CERNET)
 IP-ASN,142789 // China Education and Research Network (CERNET)
 IP-ASN,142788 // China Education and Research Network (CERNET)
+IP-ASN,142787 // China Education and Research Network (CERNET)
 IP-ASN,142786 // China Education and Research Network (CERNET)
+IP-ASN,142785 // China Education and Research Network (CERNET)
 IP-ASN,142784 // China Education and Research Network (CERNET)
+IP-ASN,142783 // China Education and Research Network (CERNET)
+IP-ASN,142782 // China Education and Research Network (CERNET)
 IP-ASN,142781 // China Education and Research Network (CERNET)
 IP-ASN,142780 // China Education and Research Network (CERNET)
 IP-ASN,142779 // China Education and Research Network (CERNET)
@@ -4704,6 +4793,7 @@ IP-ASN,142778 // China Education and Research Network (CERNET)
 IP-ASN,142777 // China Education and Research Network (CERNET)
 IP-ASN,142776 // China Education and Research Network (CERNET)
 IP-ASN,142775 // China Education and Research Network (CERNET)
+IP-ASN,142774 // China Education and Research Network (CERNET)
 IP-ASN,142773 // China Education and Research Network (CERNET)
 IP-ASN,142772 // China Education and Research Network (CERNET)
 IP-ASN,142771 // China Education and Research Network (CERNET)
@@ -4722,8 +4812,10 @@ IP-ASN,142759 // China Education and Research Network (CERNET)
 IP-ASN,142758 // China Education and Research Network (CERNET)
 IP-ASN,142757 // China Education and Research Network (CERNET)
 IP-ASN,142756 // China Education and Research Network (CERNET)
+IP-ASN,142755 // China Education and Research Network (CERNET)
 IP-ASN,142754 // China Education and Research Network (CERNET)
 IP-ASN,142753 // China Education and Research Network (CERNET)
+IP-ASN,142752 // China Education and Research Network (CERNET)
 IP-ASN,142751 // China Education and Research Network (CERNET)
 IP-ASN,142750 // China Education and Research Network (CERNET)
 IP-ASN,142749 // China Education and Research Network (CERNET)
@@ -4750,11 +4842,13 @@ IP-ASN,142729 // China Education and Research Network (CERNET)
 IP-ASN,142728 // China Education and Research Network (CERNET)
 IP-ASN,142727 // China Education and Research Network (CERNET)
 IP-ASN,142726 // China Education and Research Network (CERNET)
+IP-ASN,142725 // China Education and Research Network (CERNET)
 IP-ASN,142724 // China Education and Research Network (CERNET)
 IP-ASN,142723 // China Education and Research Network (CERNET)
 IP-ASN,142722 // China Education and Research Network (CERNET)
 IP-ASN,142721 // China Education and Research Network (CERNET)
 IP-ASN,142720 // China Education and Research Network (CERNET)
+IP-ASN,142719 // China Education and Research Network (CERNET)
 IP-ASN,142718 // China Education and Research Network (CERNET)
 IP-ASN,142717 // China Education and Research Network (CERNET)
 IP-ASN,142716 // China Education and Research Network (CERNET)
@@ -4762,13 +4856,16 @@ IP-ASN,142715 // China Education and Research Network (CERNET)
 IP-ASN,142714 // China Education and Research Network (CERNET)
 IP-ASN,142713 // China Education and Research Network (CERNET)
 IP-ASN,142712 // China Education and Research Network (CERNET)
+IP-ASN,142711 // China Education and Research Network (CERNET)
 IP-ASN,142710 // China Education and Research Network (CERNET)
+IP-ASN,142709 // China Education and Research Network (CERNET)
 IP-ASN,142708 // China Education and Research Network (CERNET)
 IP-ASN,142707 // China Education and Research Network (CERNET)
 IP-ASN,142706 // China Education and Research Network (CERNET)
 IP-ASN,142705 // China Education and Research Network (CERNET)
 IP-ASN,142704 // China Education and Research Network (CERNET)
 IP-ASN,142703 // China Education and Research Network (CERNET)
+IP-ASN,142702 // China Education and Research Network (CERNET)
 IP-ASN,142701 // China Education and Research Network (CERNET)
 IP-ASN,142700 // China Education and Research Network (CERNET)
 IP-ASN,142699 // China Education and Research Network (CERNET)
@@ -4777,6 +4874,7 @@ IP-ASN,142697 // China Education and Research Network (CERNET)
 IP-ASN,142696 // China Education and Research Network (CERNET)
 IP-ASN,142695 // China Education and Research Network (CERNET)
 IP-ASN,142694 // China Education and Research Network (CERNET)
+IP-ASN,142693 // China Education and Research Network (CERNET)
 IP-ASN,142692 // China Education and Research Network (CERNET)
 IP-ASN,142691 // China Education and Research Network (CERNET)
 IP-ASN,142690 // China Education and Research Network (CERNET)
@@ -4790,24 +4888,30 @@ IP-ASN,142683 // China Education and Research Network (CERNET)
 IP-ASN,142682 // China Education and Research Network (CERNET)
 IP-ASN,142681 // China Education and Research Network (CERNET)
 IP-ASN,142680 // China Education and Research Network (CERNET)
+IP-ASN,142679 // China Education and Research Network (CERNET)
 IP-ASN,142678 // China Education and Research Network (CERNET)
 IP-ASN,142677 // China Education and Research Network (CERNET)
 IP-ASN,142676 // China Education and Research Network (CERNET)
 IP-ASN,142675 // China Education and Research Network (CERNET)
+IP-ASN,142674 // China Education and Research Network (CERNET)
 IP-ASN,142673 // China Education and Research Network (CERNET)
 IP-ASN,142672 // China Education and Research Network (CERNET)
 IP-ASN,142671 // China Education and Research Network (CERNET)
+IP-ASN,142670 // China Education and Research Network (CERNET)
 IP-ASN,142669 // China Education and Research Network (CERNET)
+IP-ASN,142668 // China Education and Research Network (CERNET)
 IP-ASN,142667 // China Education and Research Network (CERNET)
 IP-ASN,142666 // China Education and Research Network (CERNET)
 IP-ASN,142665 // China Education and Research Network (CERNET)
 IP-ASN,142664 // China Education and Research Network (CERNET)
 IP-ASN,142663 // China Education and Research Network (CERNET)
+IP-ASN,142662 // China Education and Research Network (CERNET)
 IP-ASN,142661 // China Education and Research Network (CERNET)
 IP-ASN,142660 // China Education and Research Network (CERNET)
 IP-ASN,142659 // China Education and Research Network (CERNET)
 IP-ASN,142658 // China Education and Research Network (CERNET)
 IP-ASN,142657 // China Education and Research Network (CERNET)
+IP-ASN,142656 // China Education and Research Network (CERNET)
 IP-ASN,142655 // China Education and Research Network (CERNET)
 IP-ASN,142654 // China Education and Research Network (CERNET)
 IP-ASN,142653 // China Education and Research Network (CERNET)
@@ -5009,6 +5113,7 @@ IP-ASN,138374 // China Education and Research Network (CERNET)
 IP-ASN,138182 // China Education and Research Network (CERNET)
 IP-ASN,137835 // Nathaniel Chan Jie Le
 IP-ASN,137799 // China Guangfa Bank
+IP-ASN,137749 // NANJING FUTURE NETWORK INDUSTRY INNOVATION Co,.LTD
 IP-ASN,137726 // China Petroleum & Chemical Corporation
 IP-ASN,137721 // China Internet Network Information Center
 IP-ASN,137436 // Cong Pengbo
