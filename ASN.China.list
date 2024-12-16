@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2024-12-15 16:04:58
+// Last Updated: UTC 2024-12-16 16:05:53
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -10,8 +10,8 @@ IP-ASN,4134 // China Telecom Backbone
 IP-ASN,55967 // Beijing Baidu Netcom Science and Technology Co., Ltd.
 IP-ASN,4837 // CHINA UNICOM China169 Backbone
 IP-ASN,4809 // CHINATELECOM CORE WAN CN2
-IP-ASN,139742 // Peddie Institute Co., Ltd
 IP-ASN,4808 // China Unicom Beijing Province Network
+IP-ASN,139742 // Peddie Institute Co., Ltd
 IP-ASN,10111 // Zeofast Network
 IP-ASN,4847 // China Networks Inter-Exchange
 IP-ASN,209650 // Wu Zhiyuan
@@ -28,8 +28,8 @@ IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
 IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
 IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
 IP-ASN,7497 // CNIC-CAS
-IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,146834 // SiChuan XunYou Network Technologe Limit, co
+IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 IP-ASN,56040 // China Mobile communications corporation
 IP-ASN,9929 // China Netcom Backbone
@@ -64,16 +64,16 @@ IP-ASN,58461 // China Telecom HangZhou IDC
 IP-ASN,44421 // Yifu Yu
 IP-ASN,24489 // Trans-Eurasia Information Network (TEIN2) - North
 IP-ASN,24409 // China Internet Network Infomation Center
-IP-ASN,23911 // China Next Generation Internet Beijing IX
 IP-ASN,17623 // China Unicom Shenzen network
-IP-ASN,136173 // Quanzhou Yuntun Network Technology Co., Ltd.
 IP-ASN,63646 // Beijing Xiaoju Science and Technology Co., Ltd.
 IP-ASN,56041 // China Mobile Communications Corporation
 IP-ASN,55992 // Beijing Qihu Technology Company Limited
+IP-ASN,23911 // China Next Generation Internet Beijing IX
 IP-ASN,23650 // CHINANET JIANGSU PROVINCE IDC
 IP-ASN,150173 // PoloCloud Computing (Hong Kong) Limited
 IP-ASN,139888 // Tang Zhuo
 IP-ASN,139138 // Gopay Information Technology Co.,Ltd
+IP-ASN,136173 // Quanzhou Yuntun Network Technology Co., Ltd.
 IP-ASN,134774 // CHINANET Guangdong province Shenzhen MAN network
 IP-ASN,63648 // Beijing Xiaoju Science and Technology Co., Ltd.
 IP-ASN,59078 // Yunify Technologies Inc.
@@ -417,7 +417,6 @@ IP-ASN,136191 // YICHANG, Hubei Province, P.R.China.
 IP-ASN,136190 // CHINATELECOM ZHEJIANG JINHUA IDC
 IP-ASN,136189 // Opera Software Technology (Beijing) Co., Ltd.
 IP-ASN,136188 // CHINATELECOM ZHEJIANG NINGBO IDC
-IP-ASN,136160 // Beijing Shijihulian Yuntong Network Technology Co., Ltd.
 IP-ASN,136146 // Beijing 3389 Network Technology Co., Ltd.
 IP-ASN,135426 // ZTE Corporation
 IP-ASN,135363 // Chongqing Fuxuan Information Technology Co., Limited
@@ -607,7 +606,9 @@ IP-ASN,138949 // Jiangsu Kunshan IDC
 IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,138393 // China Education and Research Network (CERNET)
 IP-ASN,138378 // China Education and Research Network (CERNET)
+IP-ASN,138375 // CERNET2 regional IX at Inner Mongolia University
 IP-ASN,138369 // CERNET2 regional IX at Shenzhen University
+IP-ASN,138182 // CERNET2 regional IX at Hebei Normal University
 IP-ASN,138029 // Shen Zhen Hu Lian Xian Feng Technology Co., Limited
 IP-ASN,137882 // Shanghai Huajuan Information Technology Co., Ltd.
 IP-ASN,137804 // China Internet Exchange
@@ -621,6 +622,7 @@ IP-ASN,137687 // CHINATELECOM HENAN LUOYANG IDC
 IP-ASN,137571 // arebz.com
 IP-ASN,136766 // ROBLOX (SHENZHEN) DIGITAL SCIENCE AND TECHNOLOGY CO., LTD
 IP-ASN,136197 // CHINATELECOM HEBEI XIONGAN
+IP-ASN,136160 // Beijing Shijihulian Yuntong Network Technology Co., Ltd.
 IP-ASN,135671 // RBB InfoTech
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,135006 // VERI2
@@ -5192,11 +5194,9 @@ IP-ASN,138387 // CHINATELECOM Shaanxi province Xi'an 5G network
 IP-ASN,138381 // CERNET2 regional IX at Guizhou University
 IP-ASN,138377 // China Education and Research Network (CERNET)
 IP-ASN,138376 // CERNET2 regional IX at Ningxia University
-IP-ASN,138375 // CERNET2 regional IX at Inner Mongolia University
 IP-ASN,138374 // CERNET2 regional IX at Taiyuan University
 IP-ASN,138373 // CERNET2 regional IX at Fuzhou University
 IP-ASN,138370 // CERNET2 regional IX at Nanchang University
-IP-ASN,138182 // CERNET2 regional IX at Hebei Normal University
 IP-ASN,137908 // APNIC ASN block
 IP-ASN,137835 // Nathaniel Chan Jie Le
 IP-ASN,137799 // China Guangfa Bank
