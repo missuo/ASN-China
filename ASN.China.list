@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2024-12-21 16:04:50
+// Last Updated: UTC 2024-12-22 16:04:35
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -40,8 +40,8 @@ IP-ASN,23724 // CHINANET IDC BJ AP
 IP-ASN,137897 // PAN-LIAN TECHNOLOGY CO., LIMITED
 IP-ASN,4811 // China Telecom (Group)
 IP-ASN,45090 // Shenzhen Tencent Computer Systems Company Limited
-IP-ASN,55990 // Huawei Cloud Service data center
 IP-ASN,37963 // Hangzhou Alibaba Advertising Co.,Ltd.
+IP-ASN,55990 // Huawei Cloud Service data center
 IP-ASN,140633 // BILIBILI HK LIMITED
 IP-ASN,137718 // Beijing Volcano Engine Technology Co., Ltd.
 IP-ASN,9384 // MIKU NETWORK LIMITED
@@ -51,9 +51,9 @@ IP-ASN,58466 // CT GUANGZHOU IDC
 IP-ASN,56046 // China Mobile communications corporation
 IP-ASN,24138 // China TieTong Telecommunications Corporation
 IP-ASN,10212 // China Enterprise ICT Solutions Limited
-IP-ASN,59045 // Guangzhou navigation information technology co., LTD
 IP-ASN,38283 // CHINANET SiChuan Telecom Internet Data Center
 IP-ASN,24151 // China Internet Network Infomation Center
+IP-ASN,59045 // Guangzhou navigation information technology co., LTD
 IP-ASN,59019 // Beijing Kingsoft Cloud Internet Technology Co., Ltd
 IP-ASN,38365 // Beijing Baidu Netcom Science and Technology Co., Ltd.
 IP-ASN,23848 // Shenzhen Ping An Communication Technology Co.,Ltd
@@ -94,6 +94,7 @@ IP-ASN,138421 // China Unicom
 IP-ASN,137749 // NANJING FUTURE NETWORK INDUSTRY INNOVATION Co,.LTD
 IP-ASN,137735 // China Construction Bank
 IP-ASN,136237 // Shanghai Shuangyu Communication Technology co.,Ltd.
+IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,9809 // SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
 IP-ASN,9394 // China TieTong Telecommunications Corporation
 IP-ASN,63641 // Mega Vantage Information Consulting Co., Ltd.
@@ -109,6 +110,7 @@ IP-ASN,38372 // Room 203, No.6, PingYuanBei Street, Foshan, GuangDong, China
 IP-ASN,38345 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
 IP-ASN,38057 // Dell (China) Co.,Ltd
 IP-ASN,37965 // Pacnet Business Solutions LTD
+IP-ASN,24444 // Shandong Mobile Communication Company Limited
 IP-ASN,24427 // Freecomm Corporation
 IP-ASN,23844 // Beijing Guanghuan Xinwang Digital
 IP-ASN,23771 // SXBCTV ,Internet Service Provider,
@@ -121,7 +123,6 @@ IP-ASN,139148 // China UnionPay Co., Ltd
 IP-ASN,138950 // Jiangsu Wuxi International IDC network
 IP-ASN,138538 // Ningbo Nanbian Tuoluo Xinxi Jishu Co., Ltd
 IP-ASN,134773 // CHINANET Guangdong province Guangzhou MAN network
-IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,133119 // China Unicom IP network
 IP-ASN,9812 // Oriental Cable Network Co., Ltd.
 IP-ASN,9308 // Abitcool(China) Inc.
@@ -139,7 +140,6 @@ IP-ASN,56019 // Beijing CNISP Technology Co., Ltd.
 IP-ASN,56015 // China Sports Lottery Technology Development Co., Ltd
 IP-ASN,55468 // China Radio International
 IP-ASN,4816 // China Telecom (Group)
-IP-ASN,24444 // Shandong Mobile Communication Company Limited
 IP-ASN,24430 // Jia No.8, North Lishi Road, Xicheng Dist.Beijing, China
 IP-ASN,24424 // Beijing Gu Xiang Information Technology Co.,Ltd.
 IP-ASN,24139 // Huashu media&Network Limited
@@ -161,7 +161,6 @@ IP-ASN,136180 // Beijing Tiantexin Tech. Co., Ltd.
 IP-ASN,135629 // Ningxia West Cloud Data Technology Co.Ltd.
 IP-ASN,135432 // Visa Information Technology Beijing Co. Ltd.
 IP-ASN,135061 // China Unicom Guangdong IP network
-IP-ASN,134756 // CHINANET NANJING JISHAN IDC
 IP-ASN,134542 // China Unicom IP network
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,131486 // Beijing Jingdong 360 Degree E-commerce Co., Ltd.
@@ -253,6 +252,7 @@ IP-ASN,137691 // CHINATELECOM HEILONGJIANG IDC
 IP-ASN,135883 // Ba Cai Yun (Beijing) Network Technology Co., Ltd
 IP-ASN,134761 // CHINANET NINGXIA ZHONGWEI IDC
 IP-ASN,134760 // Shijiazhuang IDC network, CHINANET Hebei province
+IP-ASN,134756 // CHINANET NANJING JISHAN IDC
 IP-ASN,134420 // Chongqing Telecom
 IP-ASN,134417 // Nanjing
 IP-ASN,133952 // Zhengzhou longling technology ltd.
@@ -359,7 +359,6 @@ IP-ASN,141679 // China Telecom Beijing Tianjin Hebei Big Data Industry Park Bran
 IP-ASN,141025 // Shenyang MAN, Liaoning, China Telecom
 IP-ASN,140903 // CHINANET HEBEI BAODING MAN
 IP-ASN,140886 // UNICOM Guangxi province network
-IP-ASN,140873 // CANSHU XINXI JISHU(FS)CO., LTD
 IP-ASN,140717 // UNICOM JiangSu Suzhou IDC network
 IP-ASN,140707 // UNICOM Ningxia province network
 IP-ASN,140638 // China Telecom
@@ -583,6 +582,7 @@ IP-ASN,142611 // Shanghai Tujuan Information Technology Co., Ltd.
 IP-ASN,142404 // CHINANET AP
 IP-ASN,141776 // Baoshuo Network
 IP-ASN,141006 // China Telecom
+IP-ASN,140873 // CANSHU XINXI JISHU(FS)CO., LTD
 IP-ASN,140486 // CHINATELECOM ZHEJIANG province JINHUA 5GC network
 IP-ASN,140484 // CHINATELECOM ZHEJIANG province Shengji EPCCE network
 IP-ASN,140329 // CHINATELECOM FUJIAN FUZHOU 5G NETWORK
@@ -720,7 +720,6 @@ IP-ASN,211571 // Xin Zhao
 IP-ASN,210934 // YAO PEI
 IP-ASN,210903 // Chengde TsingYao Network Technology Service Co., Ltd.
 IP-ASN,210714 // Wang Yongjin
-IP-ASN,210426 // Liang Zhu
 IP-ASN,209661 // SIQI WANG
 IP-ASN,209645 // Jixian Zeng
 IP-ASN,209586 // SUNYOU PAN
@@ -753,7 +752,6 @@ IP-ASN,203236 // Mingyang Shen
 IP-ASN,202256 // Dongyu Zhang
 IP-ASN,200959 // Yaoxuan Chen
 IP-ASN,200936 // Chengjie Guo
-IP-ASN,200912 // Xuanchen Zhu
 IP-ASN,200895 // Xiaodong Yang
 IP-ASN,200890 // Jianfeng Ren
 IP-ASN,200853 // Yifan Li
@@ -769,7 +767,6 @@ IP-ASN,200256 // Yue Cao
 IP-ASN,200103 // XUAN ZHU
 IP-ASN,200078 // Gao Yijia
 IP-ASN,200021 // Tianhong Peng
-IP-ASN,199932 // Tianle Shi
 IP-ASN,199832 // QUN LIN
 IP-ASN,199691 // Zhile Gong
 IP-ASN,199436 // BangLong Yang
@@ -5219,6 +5216,7 @@ IP-ASN,134993 // iLemonrain Network
 IP-ASN,134775 // CHINANET Guangdong province Zhusanjiao MAN network
 IP-ASN,134708 // TLY NETWORKS S.A.
 IP-ASN,134488 // CTJ's Global Network
+IP-ASN,134478 // JSMSR
 IP-ASN,134477 // Shaoxing Junruiyunjisuan Co Ltd
 IP-ASN,134169 // CERNEWTECH (Beijing) co.,LTD
 IP-ASN,133518 // CERNET New Technology Co., Ltd
