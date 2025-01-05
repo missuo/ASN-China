@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-01-04 16:04:38
+// Last Updated: UTC 2025-01-05 16:04:47
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -23,17 +23,16 @@ IP-ASN,56048 // China Mobile Communicaitons Corporation
 IP-ASN,133865 // Beijing IQIYI Science & Technology Co., Ltd.
 IP-ASN,58879 // Shanghai ruisu network technology co.,LTD
 IP-ASN,24400 // Shanghai Mobile Communications Co.,Ltd.
-IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
 IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
+IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
 IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
 IP-ASN,7497 // CNIC-CAS
-IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,146834 // SiChuan XunYou Network Technologe Limit, co
+IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 IP-ASN,56040 // China Mobile communications corporation
 IP-ASN,9929 // China Netcom Backbone
 IP-ASN,146788 // China Broadcasting Network Co., Ltd
-IP-ASN,209650 // Wu Zhiyuan
 IP-ASN,137753 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,23724 // CHINANET IDC BJ AP
 IP-ASN,137897 // PAN-LIAN TECHNOLOGY CO., LIMITED
@@ -47,10 +46,10 @@ IP-ASN,137718 // Beijing Volcano Engine Technology Co., Ltd.
 IP-ASN,9384 // MIKU NETWORK LIMITED
 IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
 IP-ASN,24490 // Trans-Eurasia Information Network (TEIN2) - SG
-IP-ASN,24138 // China TieTong Telecommunications Corporation
 IP-ASN,10212 // China Enterprise ICT Solutions Limited
 IP-ASN,58466 // CT GUANGZHOU IDC
 IP-ASN,24151 // China Internet Network Infomation Center
+IP-ASN,24138 // China TieTong Telecommunications Corporation
 IP-ASN,59045 // Guangzhou navigation information technology co., LTD
 IP-ASN,59019 // Beijing Kingsoft Cloud Internet Technology Co., Ltd
 IP-ASN,56046 // China Mobile communications corporation
@@ -141,6 +140,7 @@ IP-ASN,4816 // China Telecom (Group)
 IP-ASN,24430 // Jia No.8, North Lishi Road, Xicheng Dist.Beijing, China
 IP-ASN,24424 // Beijing Gu Xiang Information Technology Co.,Ltd.
 IP-ASN,23853 // Shanghai Data Solution Co., Ltd.
+IP-ASN,209650 // Wu Zhiyuan
 IP-ASN,18241 // State Power Information Net
 IP-ASN,17964 // Beijing Dian-Xin-Tong Network Technologies Co., Ltd.
 IP-ASN,17962 // ShenZhen Topway Video Communication Co. Ltd
@@ -302,7 +302,6 @@ IP-ASN,4835 // China Telecom (Group)
 IP-ASN,45113 // Shanxi Datong Coal Group Communication Co., Ltd
 IP-ASN,45106 // JIANGSU BROADCASTING DATA NETWORK CORPORATION LIMITED
 IP-ASN,45101 // 2-5/F,Tower 2 and 1-12/F,Tower 3,SZITIC Square
-IP-ASN,45093 // Cnean Internet Exchange
 IP-ASN,45084 // No.98 JianGuo Road,Chaoyang District,Beijing,China
 IP-ASN,38564 // NVIDIA Asia Internet Gateway
 IP-ASN,38378 // Bosch (China) Investment Ltd.
@@ -364,7 +363,6 @@ IP-ASN,140553 // CHINATELECOM XINJIANG SHENGJI 5G NETWORK
 IP-ASN,140527 // China Telecom
 IP-ASN,140330 // CHINATELECOM Fujian province Xiamen 5G network
 IP-ASN,140317 // CHINATELECOM GUANGDONG SHAOGUAN 5G NETWORK
-IP-ASN,140105 // Shaanxi Mobile Communication Company Limited
 IP-ASN,140061 // Qinghai Telecom
 IP-ASN,139887 // CHINANET YANTAI IDC
 IP-ASN,139767 // CHINANET OA
@@ -483,7 +481,6 @@ IP-ASN,63539 // Cloud Union (HuBei) Network Technology Co., Ltd
 IP-ASN,63538 // Shanghai Hengyi Network Technology Co.,Ltd
 IP-ASN,59089 // NO.18 Building University of Technology
 IP-ASN,59084 // SHANXI CABLE&BROADCASTING INFORMATION NETWORK
-IP-ASN,59080 // Beijing Shiwei border Technology Co., Ltd
 IP-ASN,59077 // Shanghai UCloud Information Technology Company Limited
 IP-ASN,59057 // Jishi Media Co ., Ltd.
 IP-ASN,59048 // Bei Jing Cloud Times Technology Co.,Ltd
@@ -501,7 +498,6 @@ IP-ASN,55461 // Beijing Sun Rise Technology CO.,LTD
 IP-ASN,55439 // Internet Systems Consortium, (Beijing, China)
 IP-ASN,51928 // SHIZHE XU
 IP-ASN,4813 // China Telecom(Group)
-IP-ASN,45094 // 53A Xibianmennei Ave, Xuanwu Distract, Beijing, China , BJ
 IP-ASN,45074 // Data Management Centre National Bureau of Statistics of China
 IP-ASN,45073 // APNIC ASN block
 IP-ASN,45064 // BEIJING ZHONGGUANCUN SOFTWARE PARK DEVELOPMENT CO.,Ltd.
@@ -593,6 +589,7 @@ IP-ASN,140293 // CHINATELECOM Jiangsu province Changzhou 5G network
 IP-ASN,140278 // CHINATELECOM SiChuan province Mianyang 5G network
 IP-ASN,140276 // CHINATELECOM SiChuan province Luzhou 5G network
 IP-ASN,140265 // CHINATELECOM SiChuan province Chengdu 5G network
+IP-ASN,140105 // Shaanxi Mobile Communication Company Limited
 IP-ASN,140083 // China Telecom
 IP-ASN,139726 // Guangdong Yunjie Communication Co., Ltd.
 IP-ASN,139587 // China Telecom Henan Zhengzhou Shujugang IDC network
@@ -615,7 +612,6 @@ IP-ASN,137882 // Shanghai Huajuan Information Technology Co., Ltd.
 IP-ASN,137804 // China Internet Exchange
 IP-ASN,137782 // STATE GRID SHANGHAI MUNICIPAL ELECTRIC POWER COMPANY
 IP-ASN,137751 // Xi'an Qianxi Network Technology Co. Ltd.
-IP-ASN,137749 // NANJING FUTURE NETWORK INDUSTRY INNOVATION Co,.LTD
 IP-ASN,137719 // Qingdao Weidong Big Data Technology Co., Ltd
 IP-ASN,137710 // Net God Information Technology (Beijing) Co., Ltd.
 IP-ASN,137688 // CHINATELECOM Liaoning Benxi MAN
@@ -867,7 +863,6 @@ IP-ASN,151187 // Shen Jiale
 IP-ASN,150373 // Zhang Bocheng
 IP-ASN,150184 // Chen Chi
 IP-ASN,150141 // Wang Jiacheng
-IP-ASN,149795 // XiaoJin233 Network
 IP-ASN,149510 // Feng Libo
 IP-ASN,149292 // Shanghai YanFu Technology Co Ltd
 IP-ASN,149163 // Yichang Shuangsen Network Technology Ltd
@@ -5192,7 +5187,6 @@ IP-ASN,138440 // China Education and Research Network (CERNET)
 IP-ASN,138438 // CERNET2 regional IX at Guangxi Normal University
 IP-ASN,138436 // CHINATELECOM Shaanxi province Baoji 5G network
 IP-ASN,138409 // CHINATELECOM Shaanxi province Tongchuan 5G network
-IP-ASN,138401 // TupleTech Corporation
 IP-ASN,138393 // China Education and Research Network (CERNET)
 IP-ASN,138387 // CHINATELECOM Shaanxi province Xi'an 5G network
 IP-ASN,138381 // CERNET2 regional IX at Guizhou University
