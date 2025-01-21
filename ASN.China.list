@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-01-20 16:05:26
+// Last Updated: UTC 2025-01-21 16:05:36
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -21,11 +21,11 @@ IP-ASN,9808 // China Mobile Communications Group Co., Ltd.
 IP-ASN,4812 // China Telecom (Group)
 IP-ASN,56048 // China Mobile Communicaitons Corporation
 IP-ASN,133865 // Beijing IQIYI Science & Technology Co., Ltd.
-IP-ASN,24400 // Shanghai Mobile Communications Co.,Ltd.
 IP-ASN,58879 // Shanghai ruisu network technology co.,LTD
+IP-ASN,24400 // Shanghai Mobile Communications Co.,Ltd.
 IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
-IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
 IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
+IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
 IP-ASN,7497 // CNIC-CAS
 IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,146834 // SiChuan XunYou Network Technologe Limit, co
@@ -57,11 +57,11 @@ IP-ASN,38365 // Beijing Baidu Netcom Science and Technology Co., Ltd.
 IP-ASN,38283 // CHINANET SiChuan Telecom Internet Data Center
 IP-ASN,23848 // Shenzhen Ping An Communication Technology Co.,Ltd
 IP-ASN,136958 // China Unicom Guangdong IP network
+IP-ASN,44421 // Yifu Yu
 IP-ASN,24489 // Trans-Eurasia Information Network (TEIN2) - North
+IP-ASN,24409 // China Internet Network Infomation Center
 IP-ASN,139888 // Tang Zhuo
 IP-ASN,9814 // Beijing FibrLINK Networks Co.,Ltd.
-IP-ASN,44421 // Yifu Yu
-IP-ASN,24409 // China Internet Network Infomation Center
 IP-ASN,23911 // China Next Generation Internet Beijing IX
 IP-ASN,17623 // China Unicom Shenzen network
 IP-ASN,136173 // Quanzhou Yuntun Network Technology Co., Ltd.
@@ -159,6 +159,7 @@ IP-ASN,135432 // Visa Information Technology Beijing Co. Ltd.
 IP-ASN,135061 // China Unicom Guangdong IP network
 IP-ASN,134773 // CHINANET Guangdong province Guangzhou MAN network
 IP-ASN,134542 // China Unicom IP network
+IP-ASN,131578 // Beijing Foreign Studies University
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,131486 // Beijing Jingdong 360 Degree E-commerce Co., Ltd.
 IP-ASN,9818 // Internet Finance Laboratory
@@ -260,7 +261,6 @@ IP-ASN,133776 // China Telecom Quanzhou
 IP-ASN,133774 // China Telecom Fujian Fuzhou IDC
 IP-ASN,133475 // New York University
 IP-ASN,132225 // CHINATELECOM QINGHAI 5G NETWORK
-IP-ASN,131578 // Beijing Foreign Studies University
 IP-ASN,131519 // Hisense
 IP-ASN,131285 // CHINATELECOM Hubei province Shengji 5G network
 IP-ASN,10206 // China Unicom Zhongwei Cloud
@@ -778,6 +778,7 @@ IP-ASN,199436 // BangLong Yang
 IP-ASN,199392 // SHIZHENG NIE
 IP-ASN,199304 // Bingwu Zhang
 IP-ASN,198527 // Haolin Li
+IP-ASN,198516 // Yi Huang
 IP-ASN,198304 // Pinjia Zhao
 IP-ASN,198266 // Yunrui Gu
 IP-ASN,198025 // Yucheng Zhu
