@@ -1,12 +1,12 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-02-04 16:05:38
+// Last Updated: UTC 2025-02-05 16:05:44
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
 IP-ASN,24429 // Zhejiang Taobao Network Co.,Ltd
 IP-ASN,132203 // Tencent Building, Kejizhongyi Avenue
-IP-ASN,4134 // China Telecom Backbone
 IP-ASN,45102 // Alibaba (US) Technology Co., Ltd.
+IP-ASN,4134 // China Telecom Backbone
 IP-ASN,55967 // Beijing Baidu Netcom Science and Technology Co., Ltd.
 IP-ASN,4837 // CHINA UNICOM China169 Backbone
 IP-ASN,4809 // CHINATELECOM CORE WAN CN2
@@ -208,6 +208,7 @@ IP-ASN,45083 // Beijing haixunda Communication Co., Ltd
 IP-ASN,45075 // China Central Television
 IP-ASN,45071 // No.8 Xing Guang 5th Street, Opto-Mechatronics Industrial Park
 IP-ASN,45061 // Shanghai Information Network Co.,Ltd.
+IP-ASN,38834 // NVIDIA-BANGALORE
 IP-ASN,38380 // China South Locomotive And Rolling Stock Industry Company
 IP-ASN,38379 // No.9 Building, No.619 Longchang Road,Shanghai,China
 IP-ASN,38340 // 263 Shanghai Communications Ltd.
@@ -304,7 +305,6 @@ IP-ASN,4835 // China Telecom (Group)
 IP-ASN,45113 // Shanxi Datong Coal Group Communication Co., Ltd
 IP-ASN,45106 // JIANGSU BROADCASTING DATA NETWORK CORPORATION LIMITED
 IP-ASN,45101 // 2-5/F,Tower 2 and 1-12/F,Tower 3,SZITIC Square
-IP-ASN,38834 // NVIDIA-BANGALORE
 IP-ASN,38564 // NVIDIA Asia Internet Gateway
 IP-ASN,38378 // Bosch (China) Investment Ltd.
 IP-ASN,38367 // 20/F.,Kuntai International Mansion,Buiding1 Yi No.12
@@ -434,6 +434,7 @@ IP-ASN,134419 // CHINATELECOM GUANGXI BEIHAI MAN
 IP-ASN,134238 // CT JIANGXI IDC
 IP-ASN,133775 // CHINATELECOM FUJIAN XIAMEN IDC1
 IP-ASN,133465 // Duke Kunshan University
+IP-ASN,133194 // Connections Hub Technology (Shanghai) Ltd. Company
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,133111 // CERNET New Technology Co., Ltd
 IP-ASN,132833 // China Telecom
@@ -631,7 +632,6 @@ IP-ASN,134767 // CHINANET Sichuan province Chengdu MAN network
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,133846 // IMLONGHAO
 IP-ASN,133555 // DOORPOST Limited
-IP-ASN,133194 // Connections Hub Technology (Shanghai) Ltd. Company
 IP-ASN,132553 // China University of Petroleum (East China)
 IP-ASN,132536 // China Telecom
 IP-ASN,132510 // IDC ShanXi China Mobile communications corporation
@@ -686,6 +686,7 @@ IP-ASN,215829 // LEI JIAJIE
 IP-ASN,215750 // DAQIAN HUANG
 IP-ASN,215507 // KAI BI
 IP-ASN,215502 // Xing Qingyu
+IP-ASN,215315 // LIZI LUO
 IP-ASN,215007 // BOZHAN LIANG
 IP-ASN,214963 // Puhe You
 IP-ASN,214921 // Yisong Wang
