@@ -1,12 +1,12 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-02-12 16:05:54
+// Last Updated: UTC 2025-02-13 16:05:41
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
 IP-ASN,24429 // Zhejiang Taobao Network Co.,Ltd
 IP-ASN,132203 // Tencent Building, Kejizhongyi Avenue
-IP-ASN,45102 // Alibaba (US) Technology Co., Ltd.
 IP-ASN,4134 // China Telecom Backbone
+IP-ASN,45102 // Alibaba (US) Technology Co., Ltd.
 IP-ASN,55967 // Beijing Baidu Netcom Science and Technology Co., Ltd.
 IP-ASN,4837 // China Unicom Backbone
 IP-ASN,4809 // China Telecom Next Generation Carrier Network
@@ -23,14 +23,14 @@ IP-ASN,56048 // China Mobile Communicaitons Corporation
 IP-ASN,133865 // Beijing IQIYI Science & Technology Co., Ltd.
 IP-ASN,24400 // Shanghai Mobile Communications Co.,Ltd.
 IP-ASN,58879 // Shanghai ruisu network technology co.,LTD
-IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
 IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
-IP-ASN,7497 // Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)
+IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
 IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
+IP-ASN,7497 // Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)
 IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,146834 // SiChuan XunYou Network Technologe Limit, co
-IP-ASN,56040 // China Mobile communications corporation
 IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
+IP-ASN,56040 // China Mobile communications corporation
 IP-ASN,9929 // China Netcom Backbone
 IP-ASN,146788 // China Broadcasting Network Co., Ltd
 IP-ASN,137753 // Beijing Jingdong Shangke Information Technology Co. Ltd.
@@ -40,9 +40,9 @@ IP-ASN,137897 // PAN-LIAN TECHNOLOGY CO., LIMITED
 IP-ASN,45090 // Shenzhen Tencent Computer Systems Company Limited
 IP-ASN,37963 // Hangzhou Alibaba Advertising Co.,Ltd.
 IP-ASN,4811 // China Telecom (Group)
+IP-ASN,140633 // BILIBILI HK LIMITED
 IP-ASN,137718 // Beijing Volcano Engine Technology Co., Ltd.
 IP-ASN,55990 // Huawei Cloud Service data center
-IP-ASN,140633 // BILIBILI HK LIMITED
 IP-ASN,135426 // ZTE Corporation
 IP-ASN,9384 // MIKU NETWORK LIMITED
 IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
@@ -141,6 +141,7 @@ IP-ASN,55994 // Shanghai ruisu Network Technology Co.,Ltd
 IP-ASN,55468 // China Radio International
 IP-ASN,4816 // China Telecom (Group)
 IP-ASN,38358 // 3 Fuxing Road, Beijing, China
+IP-ASN,38340 // 263 Shanghai Communications Ltd.
 IP-ASN,24430 // Jia No.8, North Lishi Road, Xicheng Dist.Beijing, China
 IP-ASN,24424 // Beijing Gu Xiang Information Technology Co.,Ltd.
 IP-ASN,23853 // Shanghai Data Solution Co., Ltd.
@@ -211,7 +212,6 @@ IP-ASN,45061 // Shanghai Information Network Co.,Ltd.
 IP-ASN,38834 // NVIDIA-BANGALORE
 IP-ASN,38380 // China South Locomotive And Rolling Stock Industry Company
 IP-ASN,38379 // No.9 Building, No.619 Longchang Road,Shanghai,China
-IP-ASN,38340 // 263 Shanghai Communications Ltd.
 IP-ASN,38027 // Information Center, Ministry of Sci and Tech
 IP-ASN,38019 // China Mobile
 IP-ASN,37942 // 3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,
@@ -513,7 +513,7 @@ IP-ASN,38336 // Beijing Linkever Technology Co.,Ltd
 IP-ASN,38255 // China Education and Research Network (CERNET)
 IP-ASN,38238 // Societe Generale (China) Limited
 IP-ASN,37936 // 15F,Ideal Plaza No.58 Bei Si Huan Xi Road
-IP-ASN,24445 // China Mobile
+IP-ASN,24445 // Henan Mobile Communications Co.,Ltd
 IP-ASN,24423 // No. 207 Hualin Road, Fuzhou, Fujian, China
 IP-ASN,24422 // Huizhan street, Renqiu city, Hebei, P. R. CHINA
 IP-ASN,24416 // Beijing Primezone Technologies Inc.
@@ -542,6 +542,7 @@ IP-ASN,23611 // CHINANET Gansu province network
 IP-ASN,215786 // Peng Wang
 IP-ASN,214704 // Xin Zhao
 IP-ASN,214053 // Xiamen Huikuai Network Technology Co., Ltd.
+IP-ASN,212793 // Xiwei Ye
 IP-ASN,211843 // Nanjing Tiankai Information Technology Co.Ltd.
 IP-ASN,211051 // Dazhong Technology Network Studio of Tieling County
 IP-ASN,209574 // Xiao Tan
@@ -715,7 +716,6 @@ IP-ASN,213605 // Liu HaoRan
 IP-ASN,213582 // XI WU
 IP-ASN,213581 // yuquan nie
 IP-ASN,213545 // Wang Lei
-IP-ASN,212793 // Xiwei Ye
 IP-ASN,212690 // Enyu Li
 IP-ASN,212532 // XIAO YANG WEN RUI
 IP-ASN,212164 // Jiaxian He
