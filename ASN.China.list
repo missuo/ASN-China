@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-02-13 16:05:41
+// Last Updated: UTC 2025-02-14 16:05:29
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -29,8 +29,8 @@ IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
 IP-ASN,7497 // Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)
 IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,146834 // SiChuan XunYou Network Technologe Limit, co
-IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 IP-ASN,56040 // China Mobile communications corporation
+IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 IP-ASN,9929 // China Netcom Backbone
 IP-ASN,146788 // China Broadcasting Network Co., Ltd
 IP-ASN,137753 // Beijing Jingdong Shangke Information Technology Co. Ltd.
@@ -61,10 +61,10 @@ IP-ASN,136958 // China Unicom Guangdong IP network
 IP-ASN,44421 // Yifu Yu
 IP-ASN,24489 // Trans-Eurasia Information Network (TEIN2) - North
 IP-ASN,24409 // China Internet Network Infomation Center
+IP-ASN,139888 // Tang Zhuo
 IP-ASN,9814 // Beijing FibrLINK Networks Co.,Ltd.
 IP-ASN,23911 // China Next Generation Internet Beijing IX
 IP-ASN,17623 // China Unicom Shenzen network
-IP-ASN,139888 // Tang Zhuo
 IP-ASN,136173 // Quanzhou Yuntun Network Technology Co., Ltd.
 IP-ASN,63646 // Beijing Xiaoju Science and Technology Co., Ltd.
 IP-ASN,58461 // China Telecom HangZhou IDC
@@ -73,7 +73,7 @@ IP-ASN,56006 // Shanghai Pudong Development Bank Co.,Ltd.
 IP-ASN,55992 // Beijing Qihu Technology Company Limited
 IP-ASN,45079 // GDS CHANGAN SERVICES Ltd.
 IP-ASN,24406 // China Internet Network Infomation Center
-IP-ASN,23650 // CHINANET JIANGSU PROVINCE IDC
+IP-ASN,23650 // AS Number for CHINANET jiangsu province backbone
 IP-ASN,150173 // PoloCloud Computing (Hong Kong) Limited
 IP-ASN,139138 // Gopay Information Technology Co.,Ltd
 IP-ASN,134774 // CHINANET Guangdong province Shenzhen MAN network
@@ -237,7 +237,7 @@ IP-ASN,140716 // China Unicom
 IP-ASN,140647 // CHINATELECOM Guizhou province Shengji 5G network
 IP-ASN,140485 // CHINATELECOM ZHEJIANG province HANGZHOU 5GC network
 IP-ASN,140345 // CHINATELECOM YUNNAN SHENGJI 5G NETWORK
-IP-ASN,140292 // CHINATELECOM JIANGSU SUZHOU 5G NETWORK
+IP-ASN,140292 // CHINATELECOM Jiangsu province Suzhou 5G network
 IP-ASN,139743 // Shen Zhen Shi Fang Technology Co., Limited
 IP-ASN,139203 // Guizhou GuiAn IDC
 IP-ASN,139179 // China Pacific Insurance (Group) Co.,Ltd.
@@ -275,6 +275,7 @@ IP-ASN,9803 // Beijing Jingxun Public Information Technology Co., Ltd
 IP-ASN,9802 // Abitcool(China) Inc.
 IP-ASN,9405 // Test platform Service Center
 IP-ASN,9392 // APT MOBILE SATCOM LIMITED
+IP-ASN,7721 // Qin Cloud Networks
 IP-ASN,7640 // China International Trust & Investment Corporation Management Information Center
 IP-ASN,7586 // Cloudfort IT
 IP-ASN,63838 // China Telecom Hengyang
@@ -321,6 +322,7 @@ IP-ASN,23851 // CHONGQING CNC BROADBAND NETWORKS CO.,LTD
 IP-ASN,23842 // Shenzhen Information and Network Center
 IP-ASN,23839 // 76 # Oil Street of LiaoHe Oilfield, PanJin, LiaoNing
 IP-ASN,213519 // HANG YANG
+IP-ASN,212793 // Xiwei Ye
 IP-ASN,212371 // Huizhou HuiGu CloudTech Co., Ltd.
 IP-ASN,210041 // Licheng MAO
 IP-ASN,209306 // Jin Shaohai
@@ -450,7 +452,6 @@ IP-ASN,131497 // Volkswagen (China) Investment Co., LTD
 IP-ASN,131495 // Beijing nine cloud infinite network technology co., LTD
 IP-ASN,131325 // China Telecom KunMing
 IP-ASN,9401 // National Library of China
-IP-ASN,7721 // Qin Cloud Networks
 IP-ASN,64021 // Network-Transit
 IP-ASN,63719 // Gansu Province Radio and Television Network Co., Ltd.
 IP-ASN,63708 // Guangdong LITONG Network Technology Limited
@@ -542,7 +543,6 @@ IP-ASN,23611 // CHINANET Gansu province network
 IP-ASN,215786 // Peng Wang
 IP-ASN,214704 // Xin Zhao
 IP-ASN,214053 // Xiamen Huikuai Network Technology Co., Ltd.
-IP-ASN,212793 // Xiwei Ye
 IP-ASN,211843 // Nanjing Tiankai Information Technology Co.Ltd.
 IP-ASN,211051 // Dazhong Technology Network Studio of Tieling County
 IP-ASN,209574 // Xiao Tan
