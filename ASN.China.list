@@ -1,11 +1,11 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-03-22 16:05:16
+// Last Updated: UTC 2025-03-23 16:04:59
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
 IP-ASN,24429 // Zhejiang Taobao Network Co.,Ltd
-IP-ASN,4134 // China Telecom Backbone
 IP-ASN,132203 // Tencent Building, Kejizhongyi Avenue
+IP-ASN,4134 // China Telecom Backbone
 IP-ASN,45102 // Alibaba (US) Technology Co., Ltd.
 IP-ASN,55967 // Beijing Baidu Netcom Science and Technology Co., Ltd.
 IP-ASN,4837 // China Unicom Backbone
@@ -85,7 +85,6 @@ IP-ASN,17622 // China Unicom Guangzhou network
 IP-ASN,150173 // PoloCloud Computing (Hong Kong) Limited
 IP-ASN,140726 // UNICOM AnHui province network
 IP-ASN,138421 // China Unicom
-IP-ASN,9812 // Oriental Cable Network Co., Ltd.
 IP-ASN,9809 // SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
 IP-ASN,63646 // Beijing Xiaoju Science and Technology Co., Ltd.
 IP-ASN,63641 // Mega Vantage Information Consulting Co., Ltd.
@@ -116,6 +115,7 @@ IP-ASN,136173 // Quanzhou Yuntun Network Technology Co., Ltd.
 IP-ASN,134773 // CHINANET Guangdong province Guangzhou MAN network
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,133119 // China Unicom IP network
+IP-ASN,9812 // Oriental Cable Network Co., Ltd.
 IP-ASN,9394 // China TieTong Telecommunications Corporation
 IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
 IP-ASN,59083 // Shanghai Kuanhui Tech. Co.,ltd
@@ -270,7 +270,7 @@ IP-ASN,7721 // Qin Cloud Networks
 IP-ASN,7640 // China International Trust & Investment Corporation Management Information Center
 IP-ASN,7586 // Cloudfort IT
 IP-ASN,63838 // China Telecom Hengyang
-IP-ASN,63835 // CT HUNAN CHANGSHA IDC
+IP-ASN,63835 // China Telecom HuNan Changsha IDC
 IP-ASN,63722 // Hodo Telecom Co,Ltd.
 IP-ASN,63718 // Hangzhou YouYun Technology Co., Ltd.
 IP-ASN,63695 // WeiYi Network Technology Co., Ltd
@@ -445,7 +445,6 @@ IP-ASN,131495 // Beijing nine cloud infinite network technology co., LTD
 IP-ASN,131486 // Beijing Jingdong 360 Degree E-commerce Co., Ltd.
 IP-ASN,131325 // China Telecom KunMing
 IP-ASN,9401 // National Library of China
-IP-ASN,64021 // Network-Transit
 IP-ASN,63727 // Huawei
 IP-ASN,63719 // Gansu Province Radio and Television Network Co., Ltd.
 IP-ASN,63704 // Guizhou provincial radio and television information Network Inc
@@ -631,7 +630,6 @@ IP-ASN,58336 // Chengde TsingYao Network Technology Service Co., Ltd.
 IP-ASN,56004 // Information Center of Shanghai Municipal Education Commission
 IP-ASN,55962 // Beijing Kuaishou Technology Co., Ltd.
 IP-ASN,55641 // Changping District, Beijing
-IP-ASN,49904 // Xiaodong Qi
 IP-ASN,49575 // Dong Ran Yang
 IP-ASN,45576 // Tsinghua University
 IP-ASN,45275 // BII Group Holding Ltd.
@@ -4955,6 +4953,7 @@ IP-ASN,142106 // China Education and Research Network (CERNET)
 IP-ASN,142105 // China Education and Research Network (CERNET)
 IP-ASN,142104 // China Education and Research Network (CERNET)
 IP-ASN,142103 // China Education and Research Network (CERNET)
+IP-ASN,142102 // China Education and Research Network (CERNET)
 IP-ASN,142101 // China Education and Research Network (CERNET)
 IP-ASN,142100 // China Education and Research Network (CERNET)
 IP-ASN,142099 // China Education and Research Network (CERNET)
