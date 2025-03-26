@@ -1,12 +1,12 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-03-25 16:05:19
+// Last Updated: UTC 2025-03-26 16:06:15
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
 IP-ASN,24429 // Zhejiang Taobao Network Co.,Ltd
-IP-ASN,132203 // Tencent Building, Kejizhongyi Avenue
 IP-ASN,4134 // China Telecom Backbone
 IP-ASN,45102 // Alibaba (US) Technology Co., Ltd.
+IP-ASN,132203 // Tencent Building, Kejizhongyi Avenue
 IP-ASN,55967 // Beijing Baidu Netcom Science and Technology Co., Ltd.
 IP-ASN,4837 // China Unicom Backbone
 IP-ASN,4809 // China Telecom Next Generation Carrier Network
@@ -21,11 +21,11 @@ IP-ASN,4538 // China Education and Research Network Center
 IP-ASN,4812 // China Telecom (Group)
 IP-ASN,133865 // Beijing IQIYI Science & Technology Co., Ltd.
 IP-ASN,56048 // China Mobile Communicaitons Corporation
-IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
 IP-ASN,58879 // Shanghai ruisu network technology co.,LTD
 IP-ASN,24400 // Shanghai Mobile Communications Co.,Ltd.
 IP-ASN,9808 // China Mobile Communications Group Co., Ltd.
 IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
+IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
 IP-ASN,137897 // PAN-LIAN TECHNOLOGY CO., LIMITED
 IP-ASN,7497 // Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)
 IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
@@ -59,10 +59,10 @@ IP-ASN,136958 // China Unicom Guangdong IP network
 IP-ASN,59019 // Beijing Kingsoft Cloud Internet Technology Co., Ltd
 IP-ASN,24489 // Trans-Eurasia Information Network (TEIN2) - North
 IP-ASN,24409 // China Internet Network Infomation Center
-IP-ASN,17623 // China Unicom Shenzen network
 IP-ASN,9814 // Beijing FibrLINK Networks Co.,Ltd.
 IP-ASN,23911 // China Next Generation Internet Beijing IX
 IP-ASN,23848 // Shenzhen Ping An Communication Technology Co.,Ltd
+IP-ASN,17623 // China Unicom Shenzen network
 IP-ASN,58461 // China Telecom HangZhou IDC
 IP-ASN,55992 // Beijing Qihu Technology Company Limited
 IP-ASN,44421 // Yifu Yu
@@ -81,7 +81,6 @@ IP-ASN,55966 // Post Savings Bank of China Tower A, No.3
 IP-ASN,42962 // CoreLink Network
 IP-ASN,38345 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
 IP-ASN,24406 // China Internet Network Infomation Center
-IP-ASN,17816 // China Unicom IP network China169 Guangdong province
 IP-ASN,17622 // China Unicom Guangzhou network
 IP-ASN,150173 // PoloCloud Computing (Hong Kong) Limited
 IP-ASN,140726 // UNICOM AnHui province network
@@ -104,12 +103,12 @@ IP-ASN,37965 // Pacnet Business Solutions LTD
 IP-ASN,23844 // Beijing Guanghuan Xinwang Digital
 IP-ASN,23771 // SXBCTV ,Internet Service Provider,
 IP-ASN,212237 // Changgong Zhang
+IP-ASN,17816 // China Unicom IP network China169 Guangdong province
 IP-ASN,17428 // 21Vianet.Co.,Ltd
 IP-ASN,152711 // Suike Information Technology SiChuan Co., Ltd
 IP-ASN,139721 // HeFei
 IP-ASN,139148 // China UnionPay Co., Ltd
 IP-ASN,138950 // Jiangsu Wuxi International IDC network
-IP-ASN,138538 // VPSOR-GLOBAL
 IP-ASN,137735 // China Construction Bank
 IP-ASN,136173 // Quanzhou Yuntun Network Technology Co., Ltd.
 IP-ASN,134773 // CHINANET Guangdong province Guangzhou MAN network
@@ -143,6 +142,8 @@ IP-ASN,17962 // ShenZhen Topway Video Communication Co. Ltd
 IP-ASN,17781 // XINHUA NEWS AGENCY
 IP-ASN,17775 // shanghai science and technology network communication limited company
 IP-ASN,17429 // BEIJING GEHUA CATV NETWORK CO.LTD
+IP-ASN,153726 // Shanghai Huiduan Technology Co., LTD.
+IP-ASN,138538 // VPSOR-GLOBAL
 IP-ASN,137801 // AIPO Cloud (Guizhou) Technology Co., Ltd.
 IP-ASN,137746 // China Internet Network Information Center
 IP-ASN,136198 // CHINANET Guangdong province Yuexi MAN network
@@ -750,6 +751,7 @@ IP-ASN,200545 // Liu Quanhao
 IP-ASN,200536 // Bo Xu
 IP-ASN,200268 // Haihan Chen
 IP-ASN,200267 // Yiping Zhao
+IP-ASN,200256 // Yue Cao
 IP-ASN,200103 // XUAN ZHU
 IP-ASN,200078 // Gao Yijia
 IP-ASN,200021 // Tianhong Peng
@@ -5186,7 +5188,6 @@ IP-ASN,138182 // CERNET2 regional IX at Hebei Normal University
 IP-ASN,137908 // Lin Siqi
 IP-ASN,137835 // Nathaniel Chan Jie Le
 IP-ASN,137799 // China Guangfa Bank
-IP-ASN,137767 // Shanghai General Motor Corporation Limited
 IP-ASN,137726 // China Petroleum & Chemical Corporation
 IP-ASN,137721 // China Internet Network Information Center
 IP-ASN,137436 // Cong Pengbo
