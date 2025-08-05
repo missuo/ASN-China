@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-08-04 16:07:28
+// Last Updated: UTC 2025-08-05 16:06:06
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,140731 // TOHU Public Internet
@@ -14,8 +14,8 @@ IP-ASN,4809 // China Telecom Next Generation Carrier Network
 IP-ASN,153725 // Tenonet (Hangzhou) Co Ltd
 IP-ASN,209650 // Wu Zhiyuan
 IP-ASN,4808 // China Unicom Beijing Province Network
-IP-ASN,4847 // China Networks Inter-Exchange
 IP-ASN,63631 // Guangdong Cloudbase Technology Co., Ltd.
+IP-ASN,4847 // China Networks Inter-Exchange
 IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
 IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
 IP-ASN,133865 // Beijing IQIYI Science & Technology Co., Ltd.
@@ -27,8 +27,8 @@ IP-ASN,56048 // China Mobile Communicaitons Corporation
 IP-ASN,58879 // Shanghai ruisu network technology co.,LTD
 IP-ASN,24400 // Shanghai Mobile Communications Co.,Ltd.
 IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
-IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,7497 // Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)
+IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,146788 // China Broadcasting Network Co., Ltd
 IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 IP-ASN,56040 // China Mobile communications corporation
@@ -50,11 +50,11 @@ IP-ASN,59045 // Guangzhou navigation information technology co., LTD
 IP-ASN,58466 // CHINANET Guangdong province network
 IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
 IP-ASN,24138 // China TieTong Telecommunications Corporation
+IP-ASN,56046 // China Mobile communications corporation
 IP-ASN,44421 // Yifu Yu
 IP-ASN,38283 // CHINANET SiChuan Telecom Internet Data Center
 IP-ASN,24151 // China Internet Network Infomation Center
 IP-ASN,10212 // China Enterprise ICT Solutions Limited
-IP-ASN,56046 // China Mobile communications corporation
 IP-ASN,38365 // Beijing Baidu Netcom Science and Technology Co., Ltd.
 IP-ASN,24409 // China Internet Network Infomation Center
 IP-ASN,9814 // Beijing FibrLINK Networks Co.,Ltd.
@@ -177,7 +177,6 @@ IP-ASN,17781 // XINHUA NEWS AGENCY
 IP-ASN,17638 // ASN for TIANJIN Provincial Net of CT
 IP-ASN,153911 // DuoTu Cloud
 IP-ASN,148981 // China Telecom
-IP-ASN,142611 // Shanghai Tujuan Information Technology Co., Ltd.
 IP-ASN,140895 // China Mobile Group AnHui communications corporation
 IP-ASN,140292 // CHINATELECOM Jiangsu province Suzhou 5G network
 IP-ASN,140061 // Qinghai Telecom
@@ -289,6 +288,7 @@ IP-ASN,146812 // Deutsche Bank (China) Co., Ltd. Shanghai Branch
 IP-ASN,146806 // Beijing Yunlian Interactive Technology Co., Ltd.
 IP-ASN,146782 // University Of Chinese Academy Of Social Sciences
 IP-ASN,146758 // ShangHai Sensetime Technology Development Co., Ltd.
+IP-ASN,142611 // Shanghai Tujuan Information Technology Co., Ltd.
 IP-ASN,141998 // China Telecom
 IP-ASN,141679 // China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch
 IP-ASN,140979 // China Unicom Shanghai FuTe IDC network
@@ -426,6 +426,7 @@ IP-ASN,45073 // CNNIC ASN block
 IP-ASN,45064 // BEIJING ZHONGGUANCUN SOFTWARE PARK DEVELOPMENT CO.,Ltd.
 IP-ASN,45058 // Golden-Bridge Netcom communication Co.,LTD.
 IP-ASN,45057 // CHINA TIETONG SHANGHAI
+IP-ASN,39753 // Kai Liu
 IP-ASN,38371 // APNIC ASN block
 IP-ASN,38367 // 20/F.,Kuntai International Mansion,Buiding1 Yi No.12
 IP-ASN,38364 // RM 1706,Block A,Ocean Express,No.66
@@ -673,7 +674,6 @@ IP-ASN,49575 // Dong Ran Yang
 IP-ASN,48301 // YANG FANG
 IP-ASN,45576 // Tsinghua University
 IP-ASN,45275 // BII Group Holding Ltd.
-IP-ASN,39753 // Kai Liu
 IP-ASN,38587 // CERNET Internet Data Center
 IP-ASN,38355 // ChongQing Broadcast & TV Broadband IP MAN
 IP-ASN,38323 // Meifeng Advertising Co., Ltd.
@@ -761,6 +761,7 @@ IP-ASN,208618 // Yangyu Chen
 IP-ASN,207338 // Zhang Zongyu
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,207299 // Zhijiang Zangque Trading Co., Ltd.
+IP-ASN,207292 // YANG HAOJING
 IP-ASN,207091 // Wang Junhao
 IP-ASN,206843 // Jikai Ren
 IP-ASN,206729 // Vincent Yang
