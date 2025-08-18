@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-08-17 16:05:49
+// Last Updated: UTC 2025-08-18 16:07:09
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,6939 // Hurricane Electric LLC
@@ -33,8 +33,8 @@ IP-ASN,42 // WoodyNet, Inc.
 IP-ASN,53828 // NETWORK INNOVATIONS, LLC
 IP-ASN,293 // ESnet
 IP-ASN,3491 // PCCW Global
-IP-ASN,21859 // Zenlayer Inc
 IP-ASN,53597 // Hoyos Consulting LLC
+IP-ASN,21859 // Zenlayer Inc
 IP-ASN,19551 // Incapsula Inc
 IP-ASN,6453 // TATA COMMUNICATIONS (AMERICA) INC
 IP-ASN,19754 // The Fusion Network, LLC
@@ -44,16 +44,17 @@ IP-ASN,16509 // Amazon.com, Inc.
 IP-ASN,17378 // TierPoint, LLC
 IP-ASN,209179 // AfriCloud LLC
 IP-ASN,54113 // Fastly, Inc.
+IP-ASN,53343 // sc Network
 IP-ASN,2906 // Netflix Streaming Services Inc.
 IP-ASN,1820 // WNET TELECOM USA Corp.
-IP-ASN,396986 // Bytedance Inc.
 IP-ASN,15169 // Google LLC
+IP-ASN,396986 // Bytedance Inc.
 IP-ASN,55256 // Netskope Inc
 IP-ASN,209 // CenturyLink Communications, LLC
 IP-ASN,22773 // Cox Communications Inc.
 IP-ASN,10310 // Oath Holdings Inc.
-IP-ASN,10242 // US Internet Corp
 IP-ASN,40934 // Fortinet Inc.
+IP-ASN,10242 // US Internet Corp
 IP-ASN,32590 // Valve Corporation
 IP-ASN,46450 // Pilot Fiber, Inc.
 IP-ASN,714 // Apple Inc.
@@ -61,9 +62,9 @@ IP-ASN,8075 // Microsoft Corporation
 IP-ASN,3549 // Level 3 Communications, Inc. (GBLX)
 IP-ASN,14593 // Space Exploration Technologies Corporation
 IP-ASN,36351 // IBM Cloud
+IP-ASN,19151 // BroadbandONE, LLC
 IP-ASN,6507 // Riot Games, Inc
 IP-ASN,2734 // CoreSite
-IP-ASN,19151 // BroadbandONE, LLC
 IP-ASN,30081 // CacheFly
 IP-ASN,57976 // Blizzard Entertainment, Inc
 IP-ASN,2635 // Automattic, Inc
@@ -73,7 +74,6 @@ IP-ASN,36692 // Cisco OpenDNS, LLC
 IP-ASN,54825 // Packet Host, Inc.
 IP-ASN,23367 // Adaptive Data Networks, LLC
 IP-ASN,26415 // VeriSign Global Registry Services
-IP-ASN,53343 // sc Network
 IP-ASN,30058 // FDCservers.net
 IP-ASN,7342 // VeriSign Infrastructure & Operations
 IP-ASN,29838 // Atlantic Metro Communications II, Inc.
@@ -82,12 +82,12 @@ IP-ASN,4229 // Zenlayer Inc
 IP-ASN,54004 // Optimum WiFi
 IP-ASN,393577 // Tritan Development
 IP-ASN,31898 // Oracle Corporation
-IP-ASN,22697 // Roblox
-IP-ASN,62955 // eBay, Inc
-IP-ASN,55081 // 24 SHELLS
-IP-ASN,23344 // Disney Worldwide Services, Inc.
 IP-ASN,14061 // DigitalOcean, LLC
+IP-ASN,62955 // eBay, Inc
+IP-ASN,22697 // Roblox
+IP-ASN,55081 // 24 SHELLS
 IP-ASN,54309 // NEGU
+IP-ASN,23344 // Disney Worldwide Services, Inc.
 IP-ASN,4474 // TCT West, Inc.
 IP-ASN,2686 // AT&T Enterprises, LLC
 IP-ASN,20326 // TeraSwitch Networks Inc.
@@ -98,33 +98,33 @@ IP-ASN,63199 // CDS Global Cloud Co., Ltd
 IP-ASN,40627 // RingCentral Inc
 IP-ASN,29802 // HIVELOCITY, Inc.
 IP-ASN,20055 // Wholesail networks LLC
-IP-ASN,32098 // Transtelco Inc
 IP-ASN,5650 // Frontier Communications of America, Inc.
+IP-ASN,32098 // Transtelco Inc
 IP-ASN,401703 // Ordinal Advisors LLC
 IP-ASN,19679 // Dropbox, Inc.
 IP-ASN,11019 // HAProxy Technologies, Inc.
-IP-ASN,6079 // RCN
 IP-ASN,13414 // Twitter Inc.
-IP-ASN,8757 // NSFOCUS, Inc.
-IP-ASN,53766 // VMWare, Inc.
+IP-ASN,6079 // RCN
 IP-ASN,46489 // Twitch Interactive Inc.
 IP-ASN,33491 // Comcast Cable Communications, LLC
+IP-ASN,53766 // VMWare, Inc.
 IP-ASN,19009 // OneCleveland
+IP-ASN,8757 // NSFOCUS, Inc.
 IP-ASN,62597 // NSONE Inc
-IP-ASN,40676 // Psychz Networks
 IP-ASN,11039 // The George Washington University
 IP-ASN,112 // DNS-OARC
+IP-ASN,40676 // Psychz Networks
 IP-ASN,702 // Verizon Business/UUnet Europe
 IP-ASN,62713 // PubMatic, Inc.
 IP-ASN,2381 // WiscNet
 IP-ASN,23520 // Columbus Networks USA, Inc.
-IP-ASN,13896 // 8x8, Inc.
 IP-ASN,62856 // Docusign, Inc
 IP-ASN,3737 // PenTeleData Inc.
+IP-ASN,13896 // 8x8, Inc.
 IP-ASN,13536 // FirstLight Fiber, Inc.
 IP-ASN,63023 // GTHost
-IP-ASN,20115 // Charter Communications LLC
 IP-ASN,20080 // Florida International University
+IP-ASN,20115 // Charter Communications LLC
 IP-ASN,12189 // PhoenixNAP LLC
 IP-ASN,955 // LSHIY LLC
 IP-ASN,40850 // UPIX NETWORKS INTERNATIONAL LLC
@@ -135,33 +135,33 @@ IP-ASN,20278 // Nexeon Technologies, Inc.
 IP-ASN,13984 // SD Data Center
 IP-ASN,19229 // Ensono LP
 IP-ASN,53334 // Total Uptime Technologies, LLC
-IP-ASN,61317 // Hivelocity LLC
+IP-ASN,13445 // Cisco Webex LLC
 IP-ASN,10796 // Charter Communications Inc
 IP-ASN,1351 // University of Vermont
-IP-ASN,13760 // Uniti Fiber Holdings Inc.
-IP-ASN,13445 // Cisco Webex LLC
+IP-ASN,61317 // Hivelocity LLC
 IP-ASN,32035 // Sangoma US Inc.
-IP-ASN,15164 // Unite Private Networks LLC.
 IP-ASN,12200 // Rackspace Hosting
+IP-ASN,13760 // Uniti Fiber Holdings Inc.
+IP-ASN,15164 // Unite Private Networks LLC.
 IP-ASN,32097 // WholeSale Internet, Inc.
-IP-ASN,62715 // CrashPlan
-IP-ASN,12129 // 123.Net, Inc.
-IP-ASN,62902 // Ankr PBC
 IP-ASN,396356 // Latitude.sh
+IP-ASN,62902 // Ankr PBC
+IP-ASN,12129 // 123.Net, Inc.
 IP-ASN,7979 // Servers.com, Inc.
+IP-ASN,62715 // CrashPlan
 IP-ASN,13649 // Flexential Colorado Corp.
 IP-ASN,207063 // Kentik Technologies, Inc.
-IP-ASN,924 // Cloudie Networks LLC
 IP-ASN,35008 // Kerfuffle, LLC
-IP-ASN,33651 // Comcast Cable Communications, LLC
 IP-ASN,14340 // Salesforce.com, Inc.
+IP-ASN,33651 // Comcast Cable Communications, LLC
 IP-ASN,27281 // Quantcast Corporation
+IP-ASN,924 // Cloudie Networks LLC
 IP-ASN,7922 // Comcast Cable Communications, LLC
 IP-ASN,50245 // Serverel Inc.
+IP-ASN,14127 // Iland Internet Solutions Corporation
 IP-ASN,11404 // Wave Broadband
 IP-ASN,2687 // AT&T Enterprises, LLC
 IP-ASN,20144 // ICANN
-IP-ASN,14127 // Iland Internet Solutions Corporation
 IP-ASN,40401 // Backblaze Inc
 IP-ASN,7015 // Comcast Cable Communications, LLC
 IP-ASN,21700 // Neptune Networks, LLC
@@ -170,55 +170,55 @@ IP-ASN,33182 // HostDime.com, Inc.
 IP-ASN,26464 // Joyent, Inc.
 IP-ASN,11164 // Internet2
 IP-ASN,23028 // Team Cymru Inc.
-IP-ASN,22616 // ZSCALER, INC.
 IP-ASN,14773 // Lancaster Lebanon Intermediate Unit 13
+IP-ASN,22616 // ZSCALER, INC.
 IP-ASN,10282 // GLOBAL ONE
-IP-ASN,53991 // Acronis
 IP-ASN,18747 // IFX Corporation
+IP-ASN,53991 // Acronis
 IP-ASN,397423 // Tier.Net Technologies LLC
 IP-ASN,23005 // SWITCH, LTD
 IP-ASN,46844 // Sharktech
 IP-ASN,55219 // Cisco Systems, Inc.
 IP-ASN,33667 // Comcast Cable Communications, LLC
 IP-ASN,20340 // ISPHONE, INC.
-IP-ASN,63293 // Facebook, Inc.
 IP-ASN,14041 // University Corporation for Atmospheric Research
+IP-ASN,63293 // Facebook, Inc.
 IP-ASN,40264 // Charter Communications LLC
 IP-ASN,44324 // MoeDove LLC
 IP-ASN,33287 // Comcast Cable Communications, LLC
-IP-ASN,20001 // Charter Communications Inc
 IP-ASN,971 // PureVoltage Hosting Inc.
-IP-ASN,53427 // TGLOBAL NETWORKS
 IP-ASN,41041 // Conversant LLC
-IP-ASN,396998 // Path Network, Inc.
+IP-ASN,20001 // Charter Communications Inc
 IP-ASN,199518 // Gregory Shapiro
 IP-ASN,15280 // Host Leasing Corporation
-IP-ASN,983 // Akari Networks LLC
+IP-ASN,396998 // Path Network, Inc.
+IP-ASN,53427 // TGLOBAL NETWORKS
 IP-ASN,7795 // LUMOS Networks, Inc.
+IP-ASN,983 // Akari Networks LLC
 IP-ASN,62887 // WhiteSky Communications, LLC.
-IP-ASN,11427 // Charter Communications Inc
-IP-ASN,399647 // Rumble USA Inc.
 IP-ASN,22850 // PIT US
+IP-ASN,11427 // Charter Communications Inc
 IP-ASN,703 // Verizon Business/UUnet ASPAC
 IP-ASN,401332 // Triplebit
+IP-ASN,399647 // Rumble USA Inc.
 IP-ASN,36182 // Accretive Networks
 IP-ASN,36086 // Telx
 IP-ASN,33657 // Comcast Cable Communications, LLC
-IP-ASN,56443 // ASN block not managed by the RIPE NCC
 IP-ASN,395915 // Edge Network Services LLC
+IP-ASN,56443 // ASN block not managed by the RIPE NCC
 IP-ASN,7016 // Comcast Cable Communications, LLC
 IP-ASN,1003 // andrewnet
 IP-ASN,4004 // Sprint
-IP-ASN,13767 // DataBank Holdings, Ltd.
 IP-ASN,11537 // Internet2
 IP-ASN,2152 // CENIC
-IP-ASN,26744 // Planters Communications, LLC
-IP-ASN,61138 // Zappie Host LLC
+IP-ASN,13767 // DataBank Holdings, Ltd.
 IP-ASN,50414 // ThousandEyes LLC
+IP-ASN,26744 // Planters Communications, LLC
 IP-ASN,46244 // WebMD, LLC
-IP-ASN,23470 // ReliableSite.Net LLC
 IP-ASN,62 // CyrusOne LLC
+IP-ASN,61138 // Zappie Host LLC
 IP-ASN,53667 // FranTech Solutions
+IP-ASN,23470 // ReliableSite.Net LLC
 IP-ASN,22462 // NOLA BROADBAND INC
 IP-ASN,53813 // ZSCALER, INC.
 IP-ASN,398704 // STACKS INC
@@ -228,223 +228,225 @@ IP-ASN,12041 // Afilias, Inc.
 IP-ASN,33132 // Crown Castle Fiber LLC
 IP-ASN,20205 // Amplex Electric, Inc.
 IP-ASN,55002 // F5, Inc.
-IP-ASN,396238 // FairlawnGig.net
-IP-ASN,22296 // Vorsk LLC
-IP-ASN,31800 // DALnet
-IP-ASN,400587 // Ryamer, LLC
-IP-ASN,11967 // Hop179 LLC
 IP-ASN,600 // OARnet
+IP-ASN,396238 // FairlawnGig.net
+IP-ASN,31800 // DALnet
+IP-ASN,22296 // Vorsk LLC
+IP-ASN,11967 // Hop179 LLC
+IP-ASN,400587 // Ryamer, LLC
 IP-ASN,395505 // iManage, LLC
 IP-ASN,394684 // GOLD DATA USA INC
-IP-ASN,11179 // Aryaka Networks, Inc.
 IP-ASN,26554 // US Signal Company, L.L.C.
-IP-ASN,32133 // Ting Fiber Inc.
 IP-ASN,21100 // GREEN FLOID LLC
+IP-ASN,11179 // Aryaka Networks, Inc.
+IP-ASN,32133 // Ting Fiber Inc.
 IP-ASN,19108 // Optimum
 IP-ASN,62663 // Telecall
 IP-ASN,400318 // Versa Networks, Inc.
-IP-ASN,2711 // Spirit Communications
 IP-ASN,21928 // T-Mobile USA, Inc.
 IP-ASN,11796 // Airstream Communications, LLC
+IP-ASN,2711 // Spirit Communications
 IP-ASN,62642 // Bigleaf Networks, Inc.
 IP-ASN,30600 // Metronet
 IP-ASN,399077 // Tcloudnet
 IP-ASN,30286 // ThreatMetrix Inc.
 IP-ASN,26042 // FiberState, LLC
+IP-ASN,215724 // Edgevana, Inc.
 IP-ASN,22300 // Wikia, Inc.
 IP-ASN,18978 // Enzu Inc
 IP-ASN,6853 // ORANGE BUSINESS SERVICES U.S. Inc.
-IP-ASN,41378 // Kirino LLC
 IP-ASN,25899 // LS Networks
 IP-ASN,11351 // Charter Communications Inc
-IP-ASN,401322 // NetO Corp
-IP-ASN,18186 // APNIC ASN block
-IP-ASN,16921 // Inteliglobe USA, Inc.
+IP-ASN,41378 // Kirino LLC
 IP-ASN,3580 // Planet Networks
-IP-ASN,2688 // AT&T Enterprises, LLC
+IP-ASN,18186 // APNIC ASN block
 IP-ASN,11096 // FloridaNet
 IP-ASN,7385 // Allstream Business US, LLC
+IP-ASN,16921 // Inteliglobe USA, Inc.
+IP-ASN,401322 // NetO Corp
 IP-ASN,18450 // WebNX, Inc.
+IP-ASN,36040 // Google LLC
+IP-ASN,2688 // AT&T Enterprises, LLC
 IP-ASN,13807 // Great Plains Communications LLC
-IP-ASN,11232 // Midcontinent Communications
-IP-ASN,5056 // Aureon Network Services
 IP-ASN,12025 // Iron Mountain Data Center
 IP-ASN,11426 // Charter Communications Inc
-IP-ASN,400514 // ESpace Networks
+IP-ASN,11232 // Midcontinent Communications
+IP-ASN,5056 // Aureon Network Services
 IP-ASN,399728 // P Foundation
 IP-ASN,35985 // One Ring Networks, Inc.
 IP-ASN,15305 // Syringa Networks, LLC
 IP-ASN,101 // University of Washington
-IP-ASN,4258 // Accretive Networks
+IP-ASN,400514 // ESpace Networks
 IP-ASN,33659 // Comcast Cable Communications, LLC
-IP-ASN,62943 // Bluebird Network
-IP-ASN,36040 // Google LLC
+IP-ASN,4258 // Accretive Networks
 IP-ASN,32505 // Conterra
 IP-ASN,202 // Level 3 Parent, LLC
-IP-ASN,14551 // Verizon Business
 IP-ASN,13367 // Comcast Cable Communications, LLC
+IP-ASN,62943 // Bluebird Network
+IP-ASN,26496 // GoDaddy.com, LLC
+IP-ASN,7843 // Charter Communications Inc
 IP-ASN,33480 // Web Werks
 IP-ASN,260 // GTT Americas, LLC
-IP-ASN,7843 // Charter Communications Inc
-IP-ASN,26496 // GoDaddy.com, LLC
+IP-ASN,14551 // Verizon Business
 IP-ASN,13415 // FirstDigital Communications, LLC
+IP-ASN,43256 // Global Broadband Solution Inc
 IP-ASN,32425 // Pixel Factory
 IP-ASN,26801 // Zito Media, L.P.
 IP-ASN,26141 // CubePath
-IP-ASN,43256 // Global Broadband Solution Inc
 IP-ASN,6423 // Digital Fortress
 IP-ASN,6181 // Cincinnati Bell Telephone Company LLC
 IP-ASN,400940 // Railway
 IP-ASN,399668 // e-planning
 IP-ASN,3561 // CenturyLink Communications, LLC
 IP-ASN,13876 // FiberLight, LLC
+IP-ASN,22645 // LEARN
 IP-ASN,8002 // Stealth Communications Services, LLC
+IP-ASN,36459 // GitHub, Inc.
 IP-ASN,27552 // TowardEX Technologies International, Inc.
 IP-ASN,23033 // Wowrack.com
-IP-ASN,22645 // LEARN
-IP-ASN,46890 // 3Com Net Router
-IP-ASN,36459 // GitHub, Inc.
 IP-ASN,27064 // DoD Network Information Center
-IP-ASN,215724 // Edgevana, Inc.
-IP-ASN,932 // XNNET LLC
 IP-ASN,33668 // Comcast Cable Communications, LLC
 IP-ASN,33652 // Comcast Cable Communications, LLC
 IP-ASN,33363 // Charter Communications, Inc
 IP-ASN,30517 // Great Lakes Comnet, Inc.
+IP-ASN,932 // XNNET LLC
+IP-ASN,46890 // 3Com Net Router
+IP-ASN,4213 // Krypt Technologies
+IP-ASN,36062 // DoubleVerify, Inc.
+IP-ASN,33425 // CoreWeave, Inc
+IP-ASN,27630 // XFERNET
 IP-ASN,23404 // Ritter Communications
 IP-ASN,7725 // Comcast Cable Communications, LLC
 IP-ASN,63473 // HostHatch, LLC
-IP-ASN,4213 // Krypt Technologies
-IP-ASN,36062 // DoubleVerify, Inc.
-IP-ASN,27630 // XFERNET
-IP-ASN,203729 // June Slater
 IP-ASN,4226 // Sumofiber
 IP-ASN,33650 // Comcast Cable Communications, LLC
-IP-ASN,33425 // CoreWeave, Inc
+IP-ASN,203729 // June Slater
 IP-ASN,395354 // Starry, Inc.
 IP-ASN,3754 // NYSERNet
 IP-ASN,26548 // PureVoltage Hosting Inc.
-IP-ASN,23089 // Hotwire Communications
+IP-ASN,11758 // IRIS Networks
 IP-ASN,397849 // ZOHO
 IP-ASN,32244 // Liquid Web, L.L.C
 IP-ASN,25645 // Momentum Telecom, Inc.
+IP-ASN,23089 // Hotwire Communications
 IP-ASN,16713 // Northwest Open Access Network
-IP-ASN,30598 // Carnival Corporation
-IP-ASN,216211 // CYBERVERSE LLC
 IP-ASN,12083 // WideOpenWest Finance LLC
 IP-ASN,47065 // USC / UFMG PEERING Research Testbed
-IP-ASN,23314 // Summit Broadband
+IP-ASN,30598 // Carnival Corporation
+IP-ASN,216211 // CYBERVERSE LLC
 IP-ASN,8001 // Cologix, Inc
 IP-ASN,7459 // Grande Communications Networks, LLC
 IP-ASN,3630 // NYSERNet
 IP-ASN,33660 // Comcast Cable Communications, LLC
 IP-ASN,26827 // EPB Fiber Optics
-IP-ASN,22925 // Allied Telecom Group, LLC
-IP-ASN,11492 // CABLE ONE, INC.
+IP-ASN,23314 // Summit Broadband
 IP-ASN,10753 // Level 3 Parent, LLC
 IP-ASN,6421 // TATA COMMUNICATIONS (AMERICA) INC
 IP-ASN,47869 // ASN block not managed by the RIPE NCC
-IP-ASN,400317 // GoldConnect
 IP-ASN,33490 // Comcast Cable Communications, LLC
+IP-ASN,22925 // Allied Telecom Group, LLC
+IP-ASN,11492 // CABLE ONE, INC.
 IP-ASN,6325 // Illinois Century Network
+IP-ASN,6140 // Two P
 IP-ASN,19318 // Interserver, Inc
 IP-ASN,16524 // MetTel
-IP-ASN,6140 // Two P
+IP-ASN,400317 // GoldConnect
 IP-ASN,32181 // GigeNET
 IP-ASN,22742 // Connecticut Education Network
 IP-ASN,7782 // Alaska Communications Systems Group, Inc.
 IP-ASN,46562 // Performive LLC
-IP-ASN,40339 // Jump Trading LLC
 IP-ASN,13576 // SOUTH DAKOTA NETWORK
+IP-ASN,6082 // IPiFony Systems, Inc.
+IP-ASN,40339 // Jump Trading LLC
 IP-ASN,40065 // CNSERVERS LLC
 IP-ASN,36149 // Hawaiian Telcom Services Company, Inc.
 IP-ASN,32217 // GPIEX INC
 IP-ASN,11686 // Education Networks of America
-IP-ASN,6082 // IPiFony Systems, Inc.
 IP-ASN,33662 // Comcast Cable Communications, LLC
 IP-ASN,32595 // Liberally Network, LLC
-IP-ASN,14928 // Adams CATV, Inc
-IP-ASN,14713 // Hosted Backbone
 IP-ASN,14244 // NSI Hosting
+IP-ASN,35916 // MULTACOM CORPORATION
 IP-ASN,31950 // Data Network Solutions
+IP-ASN,14713 // Hosted Backbone
 IP-ASN,13631 // CITADEL ENTERPRISE AMERICAS LLC
 IP-ASN,11272 // C Spire Fiber
 IP-ASN,10490 // Georgia Institute of Technology
 IP-ASN,64213 // ERC Broadband
-IP-ASN,35916 // MULTACOM CORPORATION
 IP-ASN,19740 // Sudjam, LLC
 IP-ASN,14609 // Equinix, Inc.
 IP-ASN,14315 // 1GSERVERS, LLC
 IP-ASN,8047 // GENERAL COMMUNICATION, INC.
 IP-ASN,6614 // UNITED STATES CELLULAR TELEPHONE COMPANY (GREATER KNOXVILLE), L.P.
-IP-ASN,53610 // Metro Communications Company, Inc.
 IP-ASN,306 // DoD Network Information Center
 IP-ASN,27611 // Starry, Inc.
 IP-ASN,2044 // Digital Fortress
 IP-ASN,17088 // Currenex, Inc.
+IP-ASN,14928 // Adams CATV, Inc
 IP-ASN,11071 // InfoWest
-IP-ASN,15626 // GREEN FLOID LLC
+IP-ASN,53610 // Metro Communications Company, Inc.
 IP-ASN,4922 // Shenandoah Cable Television LLC
 IP-ASN,40220 // Virginia Polytechnic Institute and State Univ.
-IP-ASN,33724 // VOLICO
 IP-ASN,26459 // The Trade Desk, Inc.
 IP-ASN,19165 // Webpass Inc.
+IP-ASN,15626 // GREEN FLOID LLC
 IP-ASN,149513 // Vertex Connectivity LLC
 IP-ASN,4927 // Impulse Internet Services
-IP-ASN,39937 // LTech Solutions, Ltd.
+IP-ASN,33724 // VOLICO
 IP-ASN,22792 // MOUNTAINET
 IP-ASN,22677 // Charter Communications LLC
-IP-ASN,21738 // Rozint
 IP-ASN,19750 // Criteo Corp.
-IP-ASN,11758 // IRIS Networks
-IP-ASN,55293 // A2 Hosting, Inc.
+IP-ASN,39937 // LTech Solutions, Ltd.
 IP-ASN,27364 // Armstrong
+IP-ASN,21738 // Rozint
+IP-ASN,203888 // USKVM LLC
 IP-ASN,12213 // Centersquare
 IP-ASN,12042 // Consolidated Communications, Inc.
 IP-ASN,11722 // Westelcom Internet, Inc.
 IP-ASN,11403 // NYI
 IP-ASN,10674 // Gainesville Regional Utilities
+IP-ASN,55293 // A2 Hosting, Inc.
 IP-ASN,53684 // Centre WISP Venture Company
-IP-ASN,27589 // MOJOHOST
 IP-ASN,23352 // DEFT.COM
 IP-ASN,23316 // Bel Air Internet, LLC
+IP-ASN,19905 // Vercara, LLC
 IP-ASN,13789 // Unitas Global
-IP-ASN,55039 // Fatbeam, LLC
 IP-ASN,53587 // AZURE TECHNOLOGY CO., LIMITED
-IP-ASN,393950 // Xiber
 IP-ASN,2874 // ORANGE BUSINESS SERVICES U.S. Inc.
 IP-ASN,27647 // Weebly, Inc.
+IP-ASN,27589 // MOJOHOST
 IP-ASN,22302 // INOC, LLC
-IP-ASN,203888 // USKVM LLC
 IP-ASN,20021 // Ntirety, Inc.
-IP-ASN,19905 // Vercara, LLC
-IP-ASN,16909 // imput
 IP-ASN,14277 // GiGstreem
 IP-ASN,13490 // Buckeye Cablevision, Inc.
 IP-ASN,8796 // FASTNET DATA INC
 IP-ASN,7862 // Chevron Corporation
 IP-ASN,6128 // Cablevision Systems Corp.
-IP-ASN,5078 // Oklahoma Network for Education Enrichment and
-IP-ASN,4150 // SupraNet Communications, Inc.
+IP-ASN,55039 // Fatbeam, LLC
+IP-ASN,393950 // Xiber
 IP-ASN,33445 // Yelp! Inc.
-IP-ASN,32415 // C3
 IP-ASN,237 // Merit Network Inc.
 IP-ASN,21508 // Comcast Cable Communications, LLC
 IP-ASN,17054 // Expedient
-IP-ASN,14363 // MTC Communications, Inc.
+IP-ASN,16909 // imput
 IP-ASN,13977 // Consolidated Communications, Inc.
 IP-ASN,1280 // Internet Systems Consortium, Inc.
-IP-ASN,11158 // NTT America, Inc.
 IP-ASN,64208 // Dell, Inc.
+IP-ASN,5078 // Oklahoma Network for Education Enrichment and
+IP-ASN,4150 // SupraNet Communications, Inc.
 IP-ASN,394111 // Foothills Rural Telephone Cooperative Corporation, Inc.
+IP-ASN,32415 // C3
 IP-ASN,30041 // Race Tech, LLC
 IP-ASN,26073 // Cofractal, Inc.
 IP-ASN,25875 // FriendFinder Networks Inc
 IP-ASN,22911 // SINAP-TIX, LLC
 IP-ASN,19531 // Nodes Direct
+IP-ASN,18530 // Isomedia, Inc.
+IP-ASN,14363 // MTC Communications, Inc.
 IP-ASN,11377 // SendGrid, Inc.
+IP-ASN,11158 // NTT America, Inc.
 IP-ASN,11090 // Matanuska Telecom Association, Incorporated
 IP-ASN,6621 // Hughes Network Systems, LLC
+IP-ASN,63306 // TouchTone Communications
 IP-ASN,46261 // QuickPacket, LLC
 IP-ASN,40009 // BitGravity, Inc.
 IP-ASN,398823 // PEG TECH INC
@@ -453,60 +455,58 @@ IP-ASN,33154 // DQE Communications LLC
 IP-ASN,32748 // Steadfast
 IP-ASN,22987 // BrightRidge
 IP-ASN,21947 // Blackfoot Telephone Cooperative, Inc.
-IP-ASN,207439 // Korves.Net USA LLC
 IP-ASN,19783 // APPRISS INC
 IP-ASN,19684 // Latigo, LLC
 IP-ASN,14877 // FirstLight Fiber, Inc.
 IP-ASN,81 // MCNC
 IP-ASN,7296 // Dynascale Technologies, Inc.
 IP-ASN,64200 // VIVID-HOSTING LLC
-IP-ASN,63306 // TouchTone Communications
 IP-ASN,53698 // Ninja-IX Corporation
-IP-ASN,51095 // EdgeUno, Inc.
-IP-ASN,46824 // NameCrane LLC
 IP-ASN,40128 // Morristown Utility Systems
 IP-ASN,33566 // Knoxville Utilities Board
 IP-ASN,30456 // Cosmic Global Networks
 IP-ASN,30036 // Mediacom Communications Corp
 IP-ASN,22768 // SYNERGY BROADBAND
 IP-ASN,2153 // CENIC
+IP-ASN,207439 // Korves.Net USA LLC
 IP-ASN,16904 // Arvig Enterprises Inc.
-IP-ASN,13329 // Kansas Fiber Network, LLC
 IP-ASN,12271 // Charter Communications Inc
 IP-ASN,12233 // Ninja-IX Corporation
+IP-ASN,51095 // EdgeUno, Inc.
+IP-ASN,46824 // NameCrane LLC
 IP-ASN,40511 // Fireline Network Solutions, Inc.
 IP-ASN,400304 // Redoubt Networks
 IP-ASN,398013 // NGX Networks
 IP-ASN,3701 // University of Oregon
 IP-ASN,35847 // Ezee Fiber
+IP-ASN,25697 // UpCloud USA Inc
 IP-ASN,23550 // HUB Advanced Networks, LLC
-IP-ASN,23428 // ServerForge LLC
 IP-ASN,22974 // Charter Communications LLC
-IP-ASN,19969 // CyberCloud Professionals LLC
-IP-ASN,18530 // Isomedia, Inc.
 IP-ASN,14978 // Consolidated Smart Systems LLC
-IP-ASN,64227 // CONSOLIDATED TELEPHONE COMPANY
+IP-ASN,13329 // Kansas Fiber Network, LLC
 IP-ASN,6300 // Consolidated Communications, Inc.
 IP-ASN,46475 // Limestone Networks, Inc.
-IP-ASN,46416 // BankOnIT, L.L.C.
 IP-ASN,40244 // Turnkey Internet Inc.
 IP-ASN,40217 // DACS-NX
 IP-ASN,40165 // Voxology Carrier Services, Inc.
-IP-ASN,40138 // Mach Dilemma, LLC
 IP-ASN,394437 // PS Lightwave
 IP-ASN,36012 // HUNTER COMMUNICATIONS
 IP-ASN,3557 // Internet Systems Consortium, Inc.
 IP-ASN,32270 // LD Telecommunications, Inc.
-IP-ASN,26277 // ServerPoint.com
 IP-ASN,25751 // Conversant, Inc.
-IP-ASN,25697 // UpCloud USA Inc
+IP-ASN,23428 // ServerForge LLC
 IP-ASN,20141 // Quality Technology Services, LLC
+IP-ASN,19969 // CyberCloud Professionals LLC
 IP-ASN,15290 // Zayo Bandwidth
 IP-ASN,14361 // HopOne Internet Corporation
 IP-ASN,14230 // ARK Data Centers LLC
-IP-ASN,13737 // INCX Global, LLC
+IP-ASN,64227 // CONSOLIDATED TELEPHONE COMPANY
+IP-ASN,46416 // BankOnIT, L.L.C.
+IP-ASN,40138 // Mach Dilemma, LLC
 IP-ASN,400146 // DIAMOND STATE NETWORKS, LLC
+IP-ASN,26277 // ServerPoint.com
 IP-ASN,16839 // SERVICENOW, INC.
+IP-ASN,13737 // INCX Global, LLC
 IP-ASN,11114 // Wintek Corporation
 IP-ASN,72 // Schlumberger Limited
 IP-ASN,668 // DoD Network Information Center
@@ -520,50 +520,48 @@ IP-ASN,32308 // 8x8, Inc.
 IP-ASN,31877 // Accelecom
 IP-ASN,22351 // INTELSAT GLOBAL SERVICE CORPORATION
 IP-ASN,19782 // Indiana University
+IP-ASN,18616 // Natural Wireless, LLC
 IP-ASN,15211 // Square, Inc.
 IP-ASN,906 // DMIT Cloud Services
 IP-ASN,6922 // Texas Department of Information Resources
 IP-ASN,62296 // Vital Network Group, LLC
 IP-ASN,57 // University of Minnesota
-IP-ASN,395662 // OzarksGo, LLC
 IP-ASN,394625 // WhiteLabel IT Solutions Corp
 IP-ASN,3653 // House of Ben Avraham LLC
 IP-ASN,32212 // Sky Fiber Internet
 IP-ASN,3112 // OARnet
 IP-ASN,21886 // Ricoh USA, Inc.
 IP-ASN,210215 // William Conway
-IP-ASN,18616 // Natural Wireless, LLC
 IP-ASN,10835 // Visionary Communications LLC
 IP-ASN,63303 // TouchTone Communications
-IP-ASN,55140 // Sho Me Technologies, LLC
 IP-ASN,54054 // Deteque
 IP-ASN,4136 // Quality Technology Services, LLC
 IP-ASN,40317 // Peoples Communications Inc.
 IP-ASN,399606 // Imaging Bay, Inc.
+IP-ASN,395662 // OzarksGo, LLC
 IP-ASN,394102 // NetFire, LLC
 IP-ASN,36352 // HostPapa
 IP-ASN,27202 // City of Bardstown, Kentucky
 IP-ASN,2544 // King County Gov
 IP-ASN,19464 // Washington & Lee University
 IP-ASN,16912 // 4 Less Communications, Inc.
-IP-ASN,15108 // Allo Communications LLC
 IP-ASN,14265 // TPx Communications
 IP-ASN,14016 // Capcon Networks
 IP-ASN,11767 // Quality Technology Services, LLC
 IP-ASN,77 // Johns Hopkins University Applied Physics Laboratory
+IP-ASN,55140 // Sho Me Technologies, LLC
 IP-ASN,54483 // GeoLinks
 IP-ASN,40107 // Quality Technology Services, LLC
-IP-ASN,400818 // Ausra LLC
 IP-ASN,398712 // ISPCONNECTED CORP
 IP-ASN,36591 // PixelRiver
 IP-ASN,32621 // Twin City VoIP, Inc.
-IP-ASN,32030 // VoIPster Communications, INC.
 IP-ASN,26223 // Silver Star Communications
 IP-ASN,26077 // Nextlink Broadband
 IP-ASN,22909 // Comcast Cable Communications, LLC
 IP-ASN,22324 // XTEL Communications
 IP-ASN,18568 // Bidtellect Inc.
 IP-ASN,17306 // JAB Wireless, INC.
+IP-ASN,15108 // Allo Communications LLC
 IP-ASN,12131 // Vertical Computers
 IP-ASN,11979 // Bluegrass Network LLC
 IP-ASN,11280 // SNAPPYDSL.NET
@@ -571,40 +569,42 @@ IP-ASN,55182 // Texas Capital Bank, N.A.
 IP-ASN,53340 // VegasNAP, LLC
 IP-ASN,46276 // SmarterBroadband
 IP-ASN,40948 // Stratus Networks
+IP-ASN,400818 // Ausra LLC
 IP-ASN,3999 // The Pennsylvania State University
 IP-ASN,399284 // luYs, Inc.
-IP-ASN,398991 // X99
 IP-ASN,393238 // ImOn Communications, LLC
 IP-ASN,36213 // DreamWorks Animation SKG, Inc.
 IP-ASN,3361 // Digital Fortress, Inc.
+IP-ASN,32030 // VoIPster Communications, INC.
 IP-ASN,30404 // Blue Stream
 IP-ASN,23154 // Sanmina-SCI Corporation
 IP-ASN,22611 // InMotion Hosting, Inc.
 IP-ASN,16591 // Google Fiber Inc.
 IP-ASN,13855 // The Municipal Communications Utility of the City of Cedar Falls, Iowa
 IP-ASN,13428 // Surf Air Wireless, LLC
-IP-ASN,11320 // LightEdge Solutions
 IP-ASN,55244 // Blue Origin Enterprises, L.P.
+IP-ASN,398991 // X99
 IP-ASN,32554 // Montgomery County Intermediate Unit
 IP-ASN,27066 // DoD Network Information Center
 IP-ASN,20394 // Rainier Connect
-IP-ASN,16851 // NebraskaLink
 IP-ASN,14380 // Opus Interactive
 IP-ASN,14371 // Paul Bunyan Communications
 IP-ASN,134521 // Dialpad, Inc.
 IP-ASN,11776 // Breezeline
+IP-ASN,11320 // LightEdge Solutions
 IP-ASN,979 // NetLab Global
 IP-ASN,6315 // XMission, L.C.
 IP-ASN,46997 // Black Mesa Corporation
 IP-ASN,400414 // ROAMR Communications Inc.
+IP-ASN,400282 // UPX US LLC
 IP-ASN,397654 // 46 Labs LLC
 IP-ASN,38047 // Taiwan Telecom
 IP-ASN,36165 // ITM TELECOM
 IP-ASN,28907 // Internet Invest, Ltd.
-IP-ASN,2639 // ZOHO
 IP-ASN,22299 // GCR Company/GCR Online
 IP-ASN,21719 // CHL
 IP-ASN,18779 // EGIHosting
+IP-ASN,16851 // NebraskaLink
 IP-ASN,1426 // TenSpire Network
 IP-ASN,13331 // MetaPeer
 IP-ASN,12085 // Equinix, Inc.
@@ -613,26 +613,23 @@ IP-ASN,6653 // Vero Broadband
 IP-ASN,53865 // Peer-Point Services, LLC.
 IP-ASN,5009 // REV
 IP-ASN,46616 // Westinghouse Electric Company LLC
-IP-ASN,400282 // UPX US LLC
 IP-ASN,3663 // NetNet
 IP-ASN,30012 // Universal Music Group, INC.
 IP-ASN,26794 // Dakota Carrier Network
+IP-ASN,2639 // ZOHO
 IP-ASN,23175 // PogoZone
+IP-ASN,22422 // Board of Elections in the City of New York
 IP-ASN,11924 // Montana Opticom, LLC
 IP-ASN,6623 // CBS Interactive Inc.
 IP-ASN,55270 // Quik, LLC
 IP-ASN,46687 // BCI Mississippi Broadband,LLC
 IP-ASN,400194 // Wire 3 LLC
 IP-ASN,33604 // Burlington Telecom
-IP-ASN,33362 // Wikstrom Telephone Company, Incorporated
-IP-ASN,26156 // Verus, LLC
 IP-ASN,25956 // Logix
 IP-ASN,25837 // DATALINK INFORMATION TECHNOLOGIES INC.
 IP-ASN,23138 // FIRST STEP INTERNET, LLC
 IP-ASN,22772 // Login, Inc.
-IP-ASN,22422 // Board of Elections in the City of New York
 IP-ASN,22335 // Metropolitan Research and Education Network
-IP-ASN,208188 // Puget Sound Networks, LLC
 IP-ASN,19255 // YOUR.ORG, INC.
 IP-ASN,19024 // Unitas Global
 IP-ASN,11233 // Gorge Networks LLC
@@ -640,8 +637,10 @@ IP-ASN,7752 // THRESHOLD COMMUNICATIONS,INC.
 IP-ASN,46733 // x6c
 IP-ASN,395466 // Global Net
 IP-ASN,394019 // FiberSpark Inc.
+IP-ASN,33362 // Wikstrom Telephone Company, Incorporated
 IP-ASN,32751 // Nuclearfallout Enterprises, Inc.
 IP-ASN,27400 // Clearfly Communications
+IP-ASN,26156 // Verus, LLC
 IP-ASN,22418 // Cologuard
 IP-ASN,213550 // Jon Radel
 IP-ASN,10886 // University of Maryland
@@ -652,7 +651,6 @@ IP-ASN,36416 // Clackamas Education Service District
 IP-ASN,33548 // Unwired Broadband, LLC
 IP-ASN,27523 // Kawaii Networks LLC
 IP-ASN,2728 // Gigsouth, LLC
-IP-ASN,2495 // Kansas Research and Education Network
 IP-ASN,23961 // Misaka Network, Inc.
 IP-ASN,22442 // Phonoscope, Inc.
 IP-ASN,13359 // LEARN
@@ -666,21 +664,20 @@ IP-ASN,55247 // Ivalua Inc.
 IP-ASN,55044 // LR Communications, Inc.
 IP-ASN,53939 // Telx
 IP-ASN,50842 // ServerForge LLC
-IP-ASN,4581 // Socket Holdings Corporation
+IP-ASN,40779 // VoltNet inc
 IP-ASN,400474 // GhostFiber
-IP-ASN,399898 // Conexon Connect
 IP-ASN,399855 // Keystone REN, LLC
 IP-ASN,397301 // Thrive Broadband, LLC
 IP-ASN,396431 // T38Fax Incorporated
 IP-ASN,395823 // doof.net
 IP-ASN,394449 // FyberCom, LLC
 IP-ASN,36734 // Paxio Inc.
-IP-ASN,36224 // HCL AMERICA INC
 IP-ASN,3360 // DXC US Latin America Corporation
 IP-ASN,33071 // Internet Systems Consortium, Inc.
 IP-ASN,32709 // Joink, LLC
 IP-ASN,30640 // Etheric Networks, Inc.
 IP-ASN,30110 // Advanced Communications Technology
+IP-ASN,2495 // Kansas Research and Education Network
 IP-ASN,18888 // ZILLOW, INC.
 IP-ASN,1798 // State of Oregon
 IP-ASN,16559 // RealConnect, Inc
@@ -688,15 +685,16 @@ IP-ASN,16409 // PBW Communications, LLC
 IP-ASN,14051 // Consolidated Communications, Inc.
 IP-ASN,13825 // Troy Cablevision, Inc.
 IP-ASN,11740 // Progressive Casualty Insurance Company
-IP-ASN,1097 // Core Transit LLC
 IP-ASN,62838 // Reprise Hosting
 IP-ASN,53507 // Millry Telephone Co Inc.
 IP-ASN,46632 // Southwest Arkansas Telephone Cooperative
-IP-ASN,40779 // VoltNet inc
+IP-ASN,4581 // Socket Holdings Corporation
+IP-ASN,399898 // Conexon Connect
 IP-ASN,399135 // 617A Corporation
 IP-ASN,396317 // Vitalink LLC
 IP-ASN,394968 // Quality Technology Services, LLC
 IP-ASN,393227 // RTC Communications Corp.
+IP-ASN,36224 // HCL AMERICA INC
 IP-ASN,36222 // WindWave Communications
 IP-ASN,32444 // Anthem Broadband
 IP-ASN,30114 // Decima LLC
@@ -712,7 +710,6 @@ IP-ASN,16905 // LEARN
 IP-ASN,15238 // Gates Foundation
 IP-ASN,14860 // SMARTCOM TELEPHONE, LLC
 IP-ASN,14717 // EZE Castle Integration Inc.
-IP-ASN,11317 // Great Plains Network
 IP-ASN,11038 // Salish Networks, Inc.
 IP-ASN,10361 // Bloomberg, LP
 IP-ASN,998 // HypeStatus Inc
@@ -727,7 +724,6 @@ IP-ASN,399224 // PERATON INC.
 IP-ASN,398337 // Point Broadband Fiber Holding, LLC
 IP-ASN,395657 // Hoplite Industries, Inc.
 IP-ASN,393398 // 1515 ROUNDTABLE DR PROPERTY, LLC
-IP-ASN,36640 // SLAS Consulting, LLC
 IP-ASN,35908 // Krypt Technologies
 IP-ASN,29884 // Equinix, Inc.
 IP-ASN,29769 // Allwire Technologies LLC
@@ -742,21 +738,22 @@ IP-ASN,15190 // CTS LanguageLink
 IP-ASN,140224 // Nebula Global LLC
 IP-ASN,13693 // Vexus Fiber
 IP-ASN,12067 // ShawneeLink Corporation
+IP-ASN,11317 // Great Plains Network
 IP-ASN,11123 // Ultimate Internet Access, Inc
-IP-ASN,62749 // DIGITALK Cloud Inc
+IP-ASN,1097 // Core Transit LLC
 IP-ASN,5726 // InterWorld Communications, Inc.
 IP-ASN,46811 // SilverIP Communications Inc.
 IP-ASN,46353 // Intermax Networks
 IP-ASN,46231 // Watch Communications
 IP-ASN,400810 // BreezeHost
 IP-ASN,400699 // KitsapWiFi
-IP-ASN,397326 // South Front Networks
 IP-ASN,396040 // Inland Cellular
 IP-ASN,395664 // Altius Institute for Biomedical Sciences
 IP-ASN,395478 // ROCKY MOUNTAIN INTERNET INC
 IP-ASN,394744 // Randolph-Macon College
 IP-ASN,393552 // Longmont Power & Communications
 IP-ASN,393444 // Accelecom
+IP-ASN,36640 // SLAS Consulting, LLC
 IP-ASN,36103 // Central Utah Telephone, Inc.
 IP-ASN,35986 // Vyve Broadband
 IP-ASN,32899 // Bresco Broadband
@@ -764,14 +761,14 @@ IP-ASN,32440 // Louisiana Board of Regents/Louisiana Optical Network Initiative 
 IP-ASN,31769 // GiGstreem
 IP-ASN,26370 // Pal Communications LLC
 IP-ASN,26329 // InServer Networks
-IP-ASN,2572 // University of Missouri - dba the Missouri Research and Education Network (MOREnet)
+IP-ASN,2559 // VISA INTERNATIONAL SERVICE ASSOCIATION
 IP-ASN,21976 // NJEDge.Net, Inc.
 IP-ASN,19834 // Conversant, LLC
 IP-ASN,15177 // STARTOUCH INC
 IP-ASN,14618 // Amazon.com, Inc.
-IP-ASN,14615 // Comporium, Inc
 IP-ASN,10430 // Washington State K-20 Telecommunications Network
-IP-ASN,7488 // CNServer LLC
+IP-ASN,7381 // BroadbandONE, LLC
+IP-ASN,62749 // DIGITALK Cloud Inc
 IP-ASN,54119 // WhiteSky Communications, LLC.
 IP-ASN,46375 // Sonic Telecom LLC
 IP-ASN,44570 // ASN block not managed by the RIPE NCC
@@ -780,6 +777,7 @@ IP-ASN,40387 // University of Illinois
 IP-ASN,401418 // Red Team LTD
 IP-ASN,398223 // Pomona Consulting LLC
 IP-ASN,398044 // Trinity Network Solutions
+IP-ASN,397326 // South Front Networks
 IP-ASN,396926 // C Spire Fiber
 IP-ASN,396905 // HomeWorks Connect
 IP-ASN,3601 // Interconnected Associates (IXA) Inc.
@@ -790,16 +788,16 @@ IP-ASN,3 // Massachusetts Institute of Technology
 IP-ASN,29990 // Xandr Inc.
 IP-ASN,25819 // Collier Technologies LLC
 IP-ASN,25773 // RADWARE INC.
-IP-ASN,2559 // VISA INTERNATIONAL SERVICE ASSOCIATION
-IP-ASN,21709 // Implex.net, Inc.
+IP-ASN,2572 // University of Missouri - dba the Missouri Research and Education Network (MOREnet)
 IP-ASN,20454 // SECURED SERVERS LLC
 IP-ASN,19930 // Equinix, Inc.
+IP-ASN,14615 // Comporium, Inc
 IP-ASN,12265 // Transaction Network Services, Inc.
-IP-ASN,12182 // Unitas Global
 IP-ASN,12179 // Unitas Global
 IP-ASN,12008 // Vercara, LLC
 IP-ASN,11062 // MTCO Communications
 IP-ASN,10973 // Scatter Creek InfoNet, Inc.
+IP-ASN,7488 // CNServer LLC
 IP-ASN,6336 // Turn Inc.
 IP-ASN,40731 // Latin IP LLC
 IP-ASN,40581 // Arkansas Research and Education Optical Network
@@ -813,13 +811,14 @@ IP-ASN,35928 // BECKMAN COULTER, INC.
 IP-ASN,35487 // Misaka Network, Inc.
 IP-ASN,3465 // J. B. Hunt Transport Inc.
 IP-ASN,33489 // Comcast Cable Communications, LLC
-IP-ASN,27425 // IdeaTek Telcom, LLC
 IP-ASN,27065 // DoD Network Information Center
 IP-ASN,27008 // BendTel
 IP-ASN,2685 // AT&T Enterprises, LLC
 IP-ASN,23459 // applebee
 IP-ASN,21766 // BEN LOMAND RURAL TELEPHONE COOPERATIVE, INC.
+IP-ASN,21709 // Implex.net, Inc.
 IP-ASN,21577 // TOLEDO TELEPHONE CO INC
+IP-ASN,208188 // Puget Sound Networks, LLC
 IP-ASN,18615 // Mainstream Fiber Networks, LLC
 IP-ASN,17143 // Winn Telecom
 IP-ASN,16417 // Cisco Systems Ironport Division
@@ -827,9 +826,9 @@ IP-ASN,15084 // Concentrix CVG Corporation
 IP-ASN,14492 // DataPipe, Inc.
 IP-ASN,14325 // OSHEAN, Inc.
 IP-ASN,12186 // GVVME
+IP-ASN,12182 // Unitas Global
 IP-ASN,10780 // Pure Storage, INC.
 IP-ASN,10352 // Solarus
-IP-ASN,7381 // BroadbandONE, LLC
 IP-ASN,7046 // Verizon Business
 IP-ASN,62646 // WireStar, Inc.
 IP-ASN,40463 // Fiber Utility Network, Inc.
@@ -837,8 +836,8 @@ IP-ASN,39855 // Mod Mission Critical LLC
 IP-ASN,398447 // OHANACRAFT, LLC
 IP-ASN,394034 // Brooklyn Fiber
 IP-ASN,30038 // Andrena, Inc.
+IP-ASN,27425 // IdeaTek Telcom, LLC
 IP-ASN,26380 // MasterCard Technologies LLC
-IP-ASN,21737 // SpringNet
 IP-ASN,18914 // ETS TELECOM
 IP-ASN,16611 // InfiniaHost.com
 IP-ASN,137922 // IBOSS Inc.
@@ -861,6 +860,7 @@ IP-ASN,25615 // Broadband Visions, LLC
 IP-ASN,23481 // Hill Country Telephone Cooperative, Inc.
 IP-ASN,22604 // Disney Streaming Services
 IP-ASN,22379 // Manifold Services Inc
+IP-ASN,21737 // SpringNet
 IP-ASN,21534 // BroadSoft, Inc.
 IP-ASN,20318 // Niacom Holdings, LLC
 IP-ASN,20231 // Charter Communications Inc
@@ -893,6 +893,7 @@ IP-ASN,19008 // Perry-Spencer Communications, Inc.
 IP-ASN,18683 // Midwest Fiber Networks, LLC
 IP-ASN,18596 // Madison Telephone Company
 IP-ASN,17350 // Moody's Corp.
+IP-ASN,1421 // WANSecurity, Inc.
 IP-ASN,109 // CISCO SYSTEMS, INC.
 IP-ASN,10794 // Bank of America, National Association
 IP-ASN,53616 // ASYMPTOTE NETWORK, LLC
@@ -912,7 +913,6 @@ IP-ASN,19919 // VA SkyWire, LLC
 IP-ASN,18859 // GVEC.net, LLC
 IP-ASN,17210 // Everywhere Wireless, LLC
 IP-ASN,1448 // United Cooperative Services
-IP-ASN,1421 // WANSecurity, Inc.
 IP-ASN,14203 // Juniper Networks, Inc.
 IP-ASN,14010 // Jack Henry & Associates, Inc.
 IP-ASN,13830 // PureVoltage Hosting Inc.
@@ -922,7 +922,6 @@ IP-ASN,10879 // Unitedhealthcare
 IP-ASN,10302 // SNAPPYDSL.NET
 IP-ASN,6360 // University of Hawaii
 IP-ASN,62600 // Arizona Board of Regents
-IP-ASN,6220 // inContact Inc.
 IP-ASN,46829 // Lamhosting LLC
 IP-ASN,46786 // IP Transit Inc.
 IP-ASN,40237 // United Telephone Company
@@ -945,6 +944,7 @@ IP-ASN,62844 // The Seimitsu Corporation
 IP-ASN,62809 // VOLT BROADBAND
 IP-ASN,62682 // Hillbilly Wireless INC.
 IP-ASN,62610 // Zenlayer Inc
+IP-ASN,6220 // inContact Inc.
 IP-ASN,54665 // North Georgia Network Cooperative, Inc.
 IP-ASN,53907 // Quality Technology Services, LLC
 IP-ASN,53591 // Ytel, Inc.
@@ -957,7 +957,6 @@ IP-ASN,398203 // MidSouth Fiber
 IP-ASN,398196 // Cobalt Ridge
 IP-ASN,395301 // Resound Networks, LLC
 IP-ASN,394018 // ARIN Operations
-IP-ASN,393442 // United Electric Cooperative
 IP-ASN,3853 // Whidbey Telephone Company
 IP-ASN,34939 // nextdns, Inc.
 IP-ASN,33661 // Comcast Cable Communications, LLC
@@ -969,7 +968,6 @@ IP-ASN,25393 // Internet Invest, Ltd.
 IP-ASN,21782 // Plateau Telecommunications Incorporated
 IP-ASN,20448 // Peace Communications LLC
 IP-ASN,1767 // Indiana Higher Education Telecommunication System (IHETS)
-IP-ASN,17303 // Disaster Networks, LLC
 IP-ASN,16477 // Nielsen Consumer LLC
 IP-ASN,8057 // Vision Net, Inc.
 IP-ASN,63270 // Aerux LLP
@@ -985,6 +983,7 @@ IP-ASN,401008 // iONLINE
 IP-ASN,398987 // PhirePhly Design
 IP-ASN,397270 // NetInformatik Inc.
 IP-ASN,395717 // Wasabi Technologies, Inc.
+IP-ASN,393442 // United Electric Cooperative
 IP-ASN,36239 // RATETEL, INC
 IP-ASN,36001 // Bertram Communications LLC
 IP-ASN,34553 // Packetframe
@@ -997,6 +996,7 @@ IP-ASN,25905 // FireServe, LLC
 IP-ASN,20335 // United Data Technologies, Inc.
 IP-ASN,19893 // NTT Global Data Centers Americas, INC.
 IP-ASN,18880 // Lam Research Corporation
+IP-ASN,17303 // Disaster Networks, LLC
 IP-ASN,17035 // NBCUniversal
 IP-ASN,16880 // TREND MICRO INCORPORATED
 IP-ASN,15085 // Immedion, LLC
@@ -1006,7 +1006,6 @@ IP-ASN,12180 // Unitas Global
 IP-ASN,11550 // Smithville Digital, LLC
 IP-ASN,800 // OneWeb
 IP-ASN,7720 // Skywolf Technology LLC
-IP-ASN,63457 // Liberty Connect
 IP-ASN,62468 // VpsQuan L.L.C.
 IP-ASN,54801 // Zillion Network Inc.
 IP-ASN,4983 // Intel Corporation
@@ -1019,44 +1018,40 @@ IP-ASN,398700 // Cactus International, Inc.
 IP-ASN,397373 // H4Y Technologies LLC
 IP-ASN,395359 // InTouch Health
 IP-ASN,393737 // Cpuonsite
-IP-ASN,36198 // ZDM Network Solutions LLC
-IP-ASN,33616 // Co-Mo Comm Inc
 IP-ASN,33302 // Data102
 IP-ASN,32150 // DANGA INTERACTIVE
 IP-ASN,31942 // HyperFiber
-IP-ASN,30174 // United Telephone Association, Inc.
 IP-ASN,27258 // KAMO Electric Cooperative, Inc.
 IP-ASN,22561 // CenturyLink Communications, LLC
 IP-ASN,21777 // Massive Networks
 IP-ASN,21641 // VIRTUASYS America, Inc.
-IP-ASN,210630 // IncogNET LLC
 IP-ASN,210 // Utah Education Network
 IP-ASN,202756 // RFE/RL, INC.
+IP-ASN,2 // University of Delaware
 IP-ASN,18712 // Everfast Fiber Networks LLC
 IP-ASN,15054 // Northeast Texas Broadband, LLC
 IP-ASN,14744 // Unitas Global
 IP-ASN,1321 // Verizon Business
 IP-ASN,12033 // Adams TelSystems, Inc.
 IP-ASN,11711 // TULAROSA COMMUNICATIONS, INC.
-IP-ASN,11597 // Mercury Broadband
 IP-ASN,10912 // Unitas Global
 IP-ASN,7034 // PhirePhly Design
 IP-ASN,64260 // SRDF, Inc.
+IP-ASN,63457 // Liberty Connect
 IP-ASN,63296 // Amarillo Wireless
 IP-ASN,54813 // GREYSTONE POWER CORPORATION, AN ELECTRIC MEMBERSHIP CORPORATION
 IP-ASN,54364 // Rosen Research LLC
 IP-ASN,53933 // Telx
-IP-ASN,53703 // KwiKom Communications
 IP-ASN,5065 // Bunny Communications
-IP-ASN,40350 // Key Cooperative
 IP-ASN,400696 // MIBURA, INC.
-IP-ASN,399924 // All Neins LLC
 IP-ASN,395753 // KKR
 IP-ASN,395567 // dcBLOX, Inc.
 IP-ASN,393954 // CFN Services Inc.
-IP-ASN,393775 // IP Pathways, LLC
+IP-ASN,36198 // ZDM Network Solutions LLC
 IP-ASN,33680 // TELEPERFORMANCE USA
+IP-ASN,33616 // Co-Mo Comm Inc
 IP-ASN,32681 // Bay Area Mesh Inc.
+IP-ASN,30174 // United Telephone Association, Inc.
 IP-ASN,297 // National Aeronautics and Space Administration
 IP-ASN,2731 // Infinity Fiber LLC
 IP-ASN,27298 // REACH4 Communications
@@ -1065,12 +1060,12 @@ IP-ASN,23865 // Net Innovation LLC
 IP-ASN,22612 // Namecheap, Inc.
 IP-ASN,22258 // Comcast Cable Communications, LLC
 IP-ASN,21734 // Trading Technologies Intl, Inc.
-IP-ASN,2 // University of Delaware
+IP-ASN,210630 // IncogNET LLC
 IP-ASN,19035 // Hawaii Internet Exchange
 IP-ASN,18883 // FiberNet Communications L.C.
 IP-ASN,1766 // Exxon Mobil Corporation
 IP-ASN,1733 // DoD Network Information Center
-IP-ASN,15188 // Menlo, Inc.
+IP-ASN,16700 // CNSNext
 IP-ASN,15042 // Urban Communications, Inc.
 IP-ASN,14726 // Chisholm Broadband LLC
 IP-ASN,14224 // Tampnet Inc
@@ -1078,6 +1073,7 @@ IP-ASN,14114 // SAP America Inc.
 IP-ASN,13823 // Mesh.Net
 IP-ASN,13427 // Softcom Internet Communications, Inc.
 IP-ASN,11749 // MPInet
+IP-ASN,11597 // Mercury Broadband
 IP-ASN,11240 // AccessATC
 IP-ASN,11191 // Cal.net, Inc.
 IP-ASN,11178 // AccessPlus
@@ -1096,16 +1092,19 @@ IP-ASN,54804 // CableSouth Media III LLC
 IP-ASN,54681 // Aubrey Rose
 IP-ASN,54588 // Equinix, Inc.
 IP-ASN,54103 // MOD Mission Critical, LLC
+IP-ASN,53703 // KwiKom Communications
 IP-ASN,53292 // ManagedWay
 IP-ASN,4913 // Speedcast Communications, Inc
+IP-ASN,40350 // Key Cooperative
+IP-ASN,399924 // All Neins LLC
 IP-ASN,399392 // FIRE DOG SSC, LLC
 IP-ASN,399338 // Central Valley Internet LLC
 IP-ASN,399306 // Pigs Can Fly Labs LLC
 IP-ASN,399055 // Southeast Networks
 IP-ASN,398493 // System In Place
 IP-ASN,398448 // THE GENTRY FUND LLC
-IP-ASN,397732 // Net Vision Communications, LLC
 IP-ASN,397142 // City of Fort Collins
+IP-ASN,393775 // IP Pathways, LLC
 IP-ASN,367 // DoD Network Information Center
 IP-ASN,3512 // Emory University
 IP-ASN,33544 // WiLine Networks Inc.
@@ -1117,10 +1116,11 @@ IP-ASN,31972 // Emagine Concept, Inc.
 IP-ASN,31863 // Centrilogic, Inc.
 IP-ASN,30688 // FastTrack Communications Inc.
 IP-ASN,29997 // Vitalwerks Internet Solutions, LLC
+IP-ASN,26652 // Airstream Communications, LLC
+IP-ASN,23879 // INY Edge site
 IP-ASN,2386 // AT&T Enterprises, LLC
 IP-ASN,22646 // Hargray Communications Group, Inc.
 IP-ASN,22549 // KUDUCOM
-IP-ASN,22295 // Advin Services LLC
 IP-ASN,21903 // Arnhem Networks LLC
 IP-ASN,204957 // GREEN FLOID LLC
 IP-ASN,1968 // UMASSNET
@@ -1129,55 +1129,53 @@ IP-ASN,17356 // Vermont Telephone Company, Inc.
 IP-ASN,17044 // THE INTERPUBLIC GROUP OF COMPANIES, INC.
 IP-ASN,16758 // Ricoh USA, Inc.
 IP-ASN,16724 // WideOpenWest Finance LLC
-IP-ASN,16700 // CNSNext
 IP-ASN,1554 // DoD Network Information Center
 IP-ASN,15191 // Western Independent Networks, Inc.
+IP-ASN,15188 // Menlo, Inc.
 IP-ASN,13979 // AT&T Enterprises, LLC
 IP-ASN,13925 // Null Route Networks
 IP-ASN,13443 // LinkedIn Corporation
 IP-ASN,12257 // Dell, Inc.
 IP-ASN,11414 // Nvidia Corporation
 IP-ASN,1 // Level 3 Parent, LLC
+IP-ASN,893 // Ninja-IX Foundation
 IP-ASN,7247 // Mojo Networks
 IP-ASN,6596 // Bungi Communications
 IP-ASN,62537 // Sauce Labs Inc
 IP-ASN,54746 // KLAZO, LLC
-IP-ASN,54579 // Chariton Valley Telephone Corporation
 IP-ASN,47002 // Tiger Technologies LLC
 IP-ASN,40328 // AcenTek
 IP-ASN,401538 // Nova86 L.L.C.
 IP-ASN,398065 // Fritz Lab LLC
 IP-ASN,397952 // Nexstream
 IP-ASN,397781 // Linux Global
+IP-ASN,397732 // Net Vision Communications, LLC
+IP-ASN,396904 // QualiSpace Inc
 IP-ASN,396253 // iboss,inc
 IP-ASN,36671 // TWO SIGMA INVESTMENTS, LP
 IP-ASN,36327 // VINAKOM COMMUNICATIONS
 IP-ASN,35829 // auth-servers, LLC
 IP-ASN,33606 // TekLinks, Inc.
-IP-ASN,33597 // Atlantic Metro Communications II, Inc.
+IP-ASN,33442 // Zebra Technologies Corporation
 IP-ASN,33387 // Nocix, LLC
 IP-ASN,33359 // COWEN EXECUTION SERVICES LLC.
-IP-ASN,32943 // Web of Nevada
 IP-ASN,32528 // ROSS PRODUCTS DIVISION
 IP-ASN,30383 // General Motors LLC
 IP-ASN,29831 // FONE.NET, LLC
 IP-ASN,276 // University of Texas System
-IP-ASN,26652 // Airstream Communications, LLC
 IP-ASN,26479 // Point Broadband Fiber Holding, LLC
-IP-ASN,23879 // INY Edge site
 IP-ASN,23274 // Priceline.com
+IP-ASN,22295 // Advin Services LLC
 IP-ASN,22071 // TradingScreen INC
 IP-ASN,19830 // The Ringgold Telephone Company
 IP-ASN,19625 // Metro Communications Company
 IP-ASN,19237 // Omnis Network, LLC
 IP-ASN,19197 // Stefanini, Inc.
 IP-ASN,17223 // Latisys-Chicago, LLC
-IP-ASN,16604 // HUNTEL.NET
 IP-ASN,11708 // City of North Kansas City, MO
 IP-ASN,11650 // Pioneer Long Distance Inc.
 IP-ASN,10594 // Cutting Edge Communications, Inc.
 IP-ASN,10355 // Digital Service Consultants
-IP-ASN,893 // Ninja-IX Foundation
 IP-ASN,64273 // Orca Networking Services
 IP-ASN,58313 // Misaka Network, Inc.
 IP-ASN,57578 // Misaka Network, Inc.
@@ -1185,6 +1183,7 @@ IP-ASN,5742 // Consolidated Communications, Inc.
 IP-ASN,5662 // Turner Broadcasting System, Inc.
 IP-ASN,557 // University of Maine System
 IP-ASN,54890 // BBIX USA, INC.
+IP-ASN,54579 // Chariton Valley Telephone Corporation
 IP-ASN,53988 // Digi Desert LLC
 IP-ASN,53848 // Mountain Telephone
 IP-ASN,53758 // Invalid Network
@@ -1192,7 +1191,6 @@ IP-ASN,53407 // UTOPIA
 IP-ASN,46505 // NixiHost.com Incorporated
 IP-ASN,42495 // Spencer Sharkey
 IP-ASN,4195 // D. E. Shaw & Co. LP
-IP-ASN,40916 // Evalse, LLC
 IP-ASN,40703 // Turner Broadcasting System, Inc.
 IP-ASN,40528 // ICANN
 IP-ASN,40498 // New Mexico Lambda Rail, Inc.
@@ -1203,18 +1201,19 @@ IP-ASN,398419 // Tiny Tiny Computing
 IP-ASN,397860 // HANKINS INFORMATION TECHNOLOGY
 IP-ASN,397041 // Lightgig Communications LLC
 IP-ASN,397005 // Central Virginia Services, INC
-IP-ASN,396904 // QualiSpace Inc
 IP-ASN,396480 // Meadowridge Networks, Inc.
 IP-ASN,395194 // Stealth Broadband
+IP-ASN,394695 // PDR
 IP-ASN,394065 // essensys Inc.
 IP-ASN,393319 // Anduril Industries, Inc.
 IP-ASN,3676 // University of Iowa
 IP-ASN,36530 // IDC Cube
 IP-ASN,36210 // Moscone Center Joint Ventures
 IP-ASN,3477 // National Oceanic and Atmospheric Administration
+IP-ASN,33597 // Atlantic Metro Communications II, Inc.
 IP-ASN,33588 // Charter Communications LLC
-IP-ASN,33442 // Zebra Technologies Corporation
 IP-ASN,33189 // South Dakota Board of Regents
+IP-ASN,32943 // Web of Nevada
 IP-ASN,32872 // Difficult Computing, LLC
 IP-ASN,32806 // MTNSAT Holdings LLC
 IP-ASN,31998 // Konceptio Data Services LLC
@@ -1230,6 +1229,8 @@ IP-ASN,22427 // GNET INC.
 IP-ASN,206628 // Tianyu-Zhu
 IP-ASN,201217 // RADISHCLOUD TECHNOLOGY LLC
 IP-ASN,16832 // Secom, Inc
+IP-ASN,16604 // HUNTEL.NET
+IP-ASN,150318 // Tokyo Online Co.,Ltd.
 IP-ASN,14746 // NocTel Communications, Inc.
 IP-ASN,14689 // Enfusion LTD. LLC
 IP-ASN,14288 // MPInet
@@ -1240,6 +1241,7 @@ IP-ASN,13778 // Johnson & Johnson
 IP-ASN,13431 // Millennium Partners, L.P.
 IP-ASN,11251 // Disney Streaming Services
 IP-ASN,10437 // Kentucky Regional Optical Network (KY-RON)
+IP-ASN,10423 // STELLAR Broadband
 IP-ASN,7896 // The Board of Regents of the University of Nebraska
 IP-ASN,62833 // Hudson Fiber Network, Inc
 IP-ASN,62553 // Elcro Digital Services, LLC
@@ -1250,6 +1252,7 @@ IP-ASN,54535 // Nike, Inc.
 IP-ASN,46577 // Halibut Electronics, Inc
 IP-ASN,46269 // UKG Kronos Systems, LLC
 IP-ASN,41625 // Express Teleservice Corp
+IP-ASN,40916 // Evalse, LLC
 IP-ASN,40702 // Clearwave Communications
 IP-ASN,40382 // Hennepin County
 IP-ASN,400919 // Akardam Networks
@@ -1266,7 +1269,6 @@ IP-ASN,397074 // Marshalls
 IP-ASN,396922 // Cisco Systems, Inc.
 IP-ASN,396388 // Woofy
 IP-ASN,395559 // Force Broadband LLC
-IP-ASN,394695 // PDR
 IP-ASN,394144 // LTY CONNECT
 IP-ASN,393507 // Gush I Systems
 IP-ASN,393226 // Intercontinental Exchange, Inc.
@@ -1281,7 +1283,6 @@ IP-ASN,302 // Baylor College of Medicine
 IP-ASN,2707 // First Communications LLC
 IP-ASN,26512 // Single Point Global, Inc.
 IP-ASN,26076 // Block Line Systems, LLC
-IP-ASN,25715 // SOUTHWEST MINNESOTA BROADBAND SERVICES
 IP-ASN,25651 // Gila River Telecommunications Inc.
 IP-ASN,23248 // Paducah Power System
 IP-ASN,23158 // ETEX COMMUNICATIONS, LLC
@@ -1299,7 +1300,6 @@ IP-ASN,17018 // Quality Technology Services, LLC
 IP-ASN,16789 // YARDI SYSTEMS, INC
 IP-ASN,16491 // ViaSat, Inc.
 IP-ASN,16406 // Intermedia.net, Inc.
-IP-ASN,150318 // Tokyo Online Co.,Ltd.
 IP-ASN,14742 // Unitas Global
 IP-ASN,14536 // sol.net Network Services
 IP-ASN,13868 // Peak Internet
@@ -1309,7 +1309,6 @@ IP-ASN,1294 // NTT DATA Services Holdings Corporation
 IP-ASN,11605 // Fluidsoft Incorporated
 IP-ASN,11525 // Hancock Rural Telephone Corp.
 IP-ASN,11323 // Getty Images (Seattle), Inc.
-IP-ASN,10423 // STELLAR Broadband
 IP-ASN,8103 // Florida Department of Management Services - Division of Telecommunications
 IP-ASN,7941 // Internet Archive
 IP-ASN,7828 // Northland Communications
@@ -1357,9 +1356,9 @@ IP-ASN,2828 // Verizon Business
 IP-ASN,2722 // CULR, LLC
 IP-ASN,27204 // The Albany Mutual Telephone Association
 IP-ASN,2698 // Iowa State University of Science and Technology
-IP-ASN,26457 // nonexiste.net
 IP-ASN,26347 // New Dream Network, LLC
 IP-ASN,25934 // Syniverse Technologies, LLC
+IP-ASN,25715 // SOUTHWEST MINNESOTA BROADBAND SERVICES
 IP-ASN,25625 // IP Access International
 IP-ASN,22961 // Atheral LLC
 IP-ASN,22191 // Wilkes Communications, Inc.
@@ -1388,7 +1387,6 @@ IP-ASN,12 // New York University
 IP-ASN,11941 // Pillsbury Madison & Sutro, Inc.
 IP-ASN,11852 // White House Custom Colour, Inc
 IP-ASN,11228 // ARINC INCORPORATED
-IP-ASN,10750 // Mark Twain Rural Telephone Co.
 IP-ASN,103 // Northwestern University
 IP-ASN,1025 // Valor Christian High School
 IP-ASN,100 // FMC Central Engineering Laboratories
@@ -1407,7 +1405,6 @@ IP-ASN,62523 // CIRBN, LLC
 IP-ASN,6223 // CenturyLink Communications, LLC
 IP-ASN,567 // Los Nettos
 IP-ASN,55290 // Depository Trust & Clearing Corporation
-IP-ASN,54037 // DCA LLC
 IP-ASN,53767 // iCastCenter
 IP-ASN,53755 // Input Output Flood LLC
 IP-ASN,46309 // Tonaquint Data Center, Inc.
@@ -1423,11 +1420,9 @@ IP-ASN,397554 // Happy Cycling LLC
 IP-ASN,397095 // Setson LLC
 IP-ASN,396930 // Opus Interactive
 IP-ASN,395846 // Direct Communications Rockland, Inc
-IP-ASN,395040 // Green Hills Telephone Corporation
 IP-ASN,394542 // MS Fiber, LLC
 IP-ASN,394353 // B.Root-Server-OPS
 IP-ASN,393853 // Intelligent Computing Solutions
-IP-ASN,393796 // Golden Belt Telephone
 IP-ASN,393731 // Fusion Voice and Data Corp.
 IP-ASN,393423 // NTT Global Data Centers Americas, INC.
 IP-ASN,393330 // Circana LLC
@@ -1451,6 +1446,7 @@ IP-ASN,29944 // Latisys-Ashburn, LLC
 IP-ASN,29863 // Latisys-Denver, LLC
 IP-ASN,27602 // Pathfinder Broadband
 IP-ASN,27195 // EPIC Alliance, Inc.
+IP-ASN,26457 // nonexiste.net
 IP-ASN,23222 // Charter Communications LLC
 IP-ASN,22808 // LION RESOURCES, INC.
 IP-ASN,22687 // L3 NETWORKS INC
@@ -1476,7 +1472,10 @@ IP-ASN,16970 // MIDnet
 IP-ASN,16931 // Global Payments, Inc.
 IP-ASN,16920 // Wind River Systems, Inc.
 IP-ASN,16669 // Applied Materials
+IP-ASN,16645 // EPIQ Systems, Inc
+IP-ASN,15347 // IBEX Global Solutions
 IP-ASN,15301 // iovation, Inc.
+IP-ASN,15129 // Geneseo Telephone Company
 IP-ASN,14789 // Cloudflare, Inc.
 IP-ASN,14333 // On-Ramp Indiana, Inc. (ORI.NET)
 IP-ASN,14297 // ACI Worldwide, Inc.
@@ -1486,9 +1485,11 @@ IP-ASN,13821 // AllianceBernstein L.P.
 IP-ASN,13791 // Unitas Global
 IP-ASN,13692 // Douglas FastNet
 IP-ASN,13659 // INTERTECH CORPORATION
+IP-ASN,13378 // Qingye Cloud
 IP-ASN,12276 // San Francisco Metropolitan Internet Exchange (SFMIX)
 IP-ASN,11714 // Network Nebraska
 IP-ASN,11054 // LivePerson, Inc.
+IP-ASN,10750 // Mark Twain Rural Telephone Co.
 IP-ASN,10411 // Environmental Systems Research Institute
 IP-ASN,8092 // Access Media Holdings, LLC
 IP-ASN,7726 // FedEx Internet Technologies Corporation
@@ -1503,6 +1504,7 @@ IP-ASN,55009 // Router12 Networks LLC
 IP-ASN,54578 // FiberComm LC
 IP-ASN,54155 // Green Cloud Technologies,LLC
 IP-ASN,54107 // TAKE-TWO INTERACTIVE SOFTWARE, INC.
+IP-ASN,54037 // DCA LLC
 IP-ASN,53620 // Pinterest, Inc.
 IP-ASN,4901 // The George Washington University
 IP-ASN,47096 // Compudyne, Inc.
@@ -1516,6 +1518,7 @@ IP-ASN,40123 // Transaction Network Services, Inc.
 IP-ASN,401215 // MITCHELL PLASTICS
 IP-ASN,401199 // bitprojects
 IP-ASN,400619 // AROSSCLOUD INC.
+IP-ASN,400212 // VergeTel Group LLC
 IP-ASN,399122 // VPS House Technology Group LLC
 IP-ASN,399029 // IX-Denver
 IP-ASN,398969 // MSG Entertainment Group, LLC
@@ -1529,19 +1532,21 @@ IP-ASN,395878 // SERVOSPHERE
 IP-ASN,395747 // Cloudflare, Inc.
 IP-ASN,395719 // Emerald Broadband, LLC
 IP-ASN,395555 // ELEVATE
+IP-ASN,395040 // Green Hills Telephone Corporation
 IP-ASN,394646 // Eagle Eye Networks, Inc
 IP-ASN,394409 // Power Engineers, Inc.
 IP-ASN,394330 // LTD Broadband LLC
 IP-ASN,394141 // Rocket Fiber
+IP-ASN,393796 // Golden Belt Telephone
 IP-ASN,393559 // WEBBING USA, INC.
 IP-ASN,393294 // Megatel Netcom Corporation
 IP-ASN,3910 // CenturyLink Communications, LLC
 IP-ASN,3738 // State Street Bank and Trust Company
 IP-ASN,36295 // Florida High Speed Internet
 IP-ASN,36124 // BizVox Communications Inc
-IP-ASN,36112 // Park Hill School District
 IP-ASN,35994 // Akamai Technologies, Inc.
 IP-ASN,35872 // FreedomPay, Inc.
+IP-ASN,35871 // Reynolds Cable, Inc
 IP-ASN,3464 // Alabama Supercomputer Authority
 IP-ASN,33717 // Chunghwa Telecom Global, INC
 IP-ASN,33168 // INLAND IMAGING L.L.C.
@@ -1556,6 +1561,7 @@ IP-ASN,27566 // Equinix, Inc.
 IP-ASN,27370 // City of Boston
 IP-ASN,27263 // Avon Products, Inc.
 IP-ASN,2721 // CULR, LLC
+IP-ASN,26954 // NETZR LLC
 IP-ASN,26485 // Six Continents Hotels, Inc.
 IP-ASN,26344 // Real Page, Inc.
 IP-ASN,25878 // Quinstreet, Inc.
@@ -1588,10 +1594,7 @@ IP-ASN,18692 // Neuberger Berman
 IP-ASN,17253 // TEC of Jackson, Inc.
 IP-ASN,17158 // Datto, LLC
 IP-ASN,16842 // 5Nines Data, LLC
-IP-ASN,16645 // EPIQ Systems, Inc
-IP-ASN,15347 // IBEX Global Solutions
 IP-ASN,15224 // Adobe Inc.
-IP-ASN,15129 // Geneseo Telephone Company
 IP-ASN,14828 // Hiawatha Broadband Communications, Inc
 IP-ASN,14328 // R.R. Donnelley and Sons, Co.
 IP-ASN,14148 // Ex Libris (USA) Inc
@@ -1633,11 +1636,9 @@ IP-ASN,63060 // ALTIUS Broadband, LLC
 IP-ASN,62958 // ADT LLC
 IP-ASN,62886 // OMNITEL COMMUNICATIONS
 IP-ASN,62785 // Amazon.com Services, LLC
-IP-ASN,62728 // VELOCITY, A MANAGED SERVICES COMPANY
 IP-ASN,6250 // NeoNova Network Services, LLC
 IP-ASN,60527 // Xsolla (USA), Inc
 IP-ASN,5774 // United States Postal Service
-IP-ASN,55032 // The Jackson Laboratory
 IP-ASN,54855 // Interface Security Systems LLC
 IP-ASN,54661 // Intercontinental Exchange, Inc.
 IP-ASN,54613 // Converted Networks LLC
@@ -1666,8 +1667,6 @@ IP-ASN,40393 // Crosslink Networks LLC
 IP-ASN,40185 // Junction Networks, Inc.
 IP-ASN,40089 // Bullhorn Inc.
 IP-ASN,400771 // Codehof LLC
-IP-ASN,400506 // Black Apple
-IP-ASN,400212 // VergeTel Group LLC
 IP-ASN,399885 // Evans & Sutherland Computer Corporation
 IP-ASN,399804 // Hostodo
 IP-ASN,39960 // Barnes & Noble Inc.
@@ -1702,11 +1701,10 @@ IP-ASN,36436 // Infobunker, L.L.C.
 IP-ASN,36385 // Google LLC
 IP-ASN,36315 // Servpac Inc.
 IP-ASN,36306 // Stanford Hospital and Clinics
+IP-ASN,36112 // Park Hill School District
 IP-ASN,35937 // MarquisNet
 IP-ASN,35889 // University of Hawaii
-IP-ASN,35871 // Reynolds Cable, Inc
 IP-ASN,3585 // TE Connectivity Corporation
-IP-ASN,34985 // ASN block not managed by the RIPE NCC
 IP-ASN,33666 // Comcast Cable Communications, LLC
 IP-ASN,33333 // objx.net, LLC
 IP-ASN,33257 // Expert Service Providers LLC
@@ -1766,6 +1764,7 @@ IP-ASN,21554 // Wisconsin CyberLynk Network, Inc.
 IP-ASN,214483 // FiberPower LLC
 IP-ASN,212336 // ByteVirt LLC
 IP-ASN,209622 // uPress Inc
+IP-ASN,206216 // Advin Services LLC
 IP-ASN,20042 // Cutter Communications, Inc.
 IP-ASN,20029 // H5 Data Centers
 IP-ASN,19886 // Bank of America, National Association
@@ -1797,13 +1796,13 @@ IP-ASN,14398 // Autodesk, Inc.
 IP-ASN,14291 // Antietam Broadband
 IP-ASN,14188 // Ashland Fiber Network
 IP-ASN,14155 // Rural Telephone Service Co, Inc.
+IP-ASN,14085 // LEARN
 IP-ASN,13971 // HedgeServ Corporation
 IP-ASN,13781 // Hopkinsville Electric System
 IP-ASN,13750 // Transaction Network Services, Inc.
 IP-ASN,13729 // Fidessa Corporation
 IP-ASN,13628 // AMERISOURCEBERGEN
 IP-ASN,13460 // EarthCam, Inc.
-IP-ASN,13378 // Qingye Cloud
 IP-ASN,1288 // Packet Clearing House, Inc.
 IP-ASN,1226 // California Department of Technology
 IP-ASN,12161 // dao Consulting, LLC
@@ -1852,6 +1851,7 @@ IP-ASN,63180 // STS Tire & Auto Centers
 IP-ASN,63117 // Churchill Downs Incorporated
 IP-ASN,62866 // OHIO IX
 IP-ASN,62738 // ZochNet
+IP-ASN,62728 // VELOCITY, A MANAGED SERVICES COMPANY
 IP-ASN,62654 // MENLO SECURITY, INC.
 IP-ASN,62631 // Aurus Inc
 IP-ASN,62566 // Starbucks Coffee Company
@@ -1859,6 +1859,7 @@ IP-ASN,62532 // NJEDge.Net, Inc.
 IP-ASN,62488 // Columbia County, Georgia
 IP-ASN,6086 // MagicNET, Inc
 IP-ASN,55043 // Marco Technologies LLC
+IP-ASN,55032 // The Jackson Laboratory
 IP-ASN,55 // University of Pennsylvania
 IP-ASN,54934 // JEFFERSON CO. CABLE, INC.
 IP-ASN,54641 // InMotion Hosting, Inc.
@@ -1905,6 +1906,7 @@ IP-ASN,400967 // Assured Networks
 IP-ASN,400963 // Galaxy Digital LP
 IP-ASN,40076 // DOVETEL COMMUNICATIONS, LLC.
 IP-ASN,400662 // Dobson Technologies - Transport and Telecom Solutions, LLC
+IP-ASN,400506 // Black Apple
 IP-ASN,400402 // Hosting Bot, LLC
 IP-ASN,400138 // Databento, Inc.
 IP-ASN,400110 // Anuvu Operations LLC
@@ -1918,6 +1920,7 @@ IP-ASN,398563 // MiBroadband, LLC
 IP-ASN,398479 // Z4 Internet
 IP-ASN,397031 // GALAXYGATE, LLC
 IP-ASN,396982 // Google LLC
+IP-ASN,396969 // Strada Communications L.L.C.
 IP-ASN,396432 // JAMES HARDIE BUILDING PRODUCTS, Inc.
 IP-ASN,396291 // NCH Healthcare System, Inc.
 IP-ASN,395748 // NetSpeed LLC
@@ -1946,9 +1949,11 @@ IP-ASN,36260 // Misaka Network, Inc.
 IP-ASN,36253 // Delaware County Intermediate Unit
 IP-ASN,36007 // Kamatera, Inc.
 IP-ASN,35923 // Johnson & Johnson Consumer Inc.
+IP-ASN,34985 // ASN block not managed by the RIPE NCC
 IP-ASN,3486 // JPMorgan Chase & Co.
 IP-ASN,3450 // University of Tennessee
 IP-ASN,34 // University of Delaware
+IP-ASN,33734 // Muscatine Power and Water
 IP-ASN,3371 // Verizon Business
 IP-ASN,33695 // ScaleMatrix
 IP-ASN,33501 // Montana Digital, LLC.
@@ -2028,7 +2033,6 @@ IP-ASN,21639 // Blue Cross Blue Shield Of Louisiana
 IP-ASN,21595 // Baxter Healthcare
 IP-ASN,21581 // M5 Computer Security
 IP-ASN,215595 // SparkTech LTD
-IP-ASN,206216 // Advin Services LLC
 IP-ASN,204890 // Pegasystems Inc.
 IP-ASN,203483 // Garmin International, Inc.
 IP-ASN,202894 // Devexperts Inc
@@ -2038,7 +2042,6 @@ IP-ASN,19881 // Valley Telecommunications Company
 IP-ASN,19796 // Shubert Organization, Inc.
 IP-ASN,19701 // Yodlee Inc.
 IP-ASN,19428 // Phillips 66 Company
-IP-ASN,19404 // Quest
 IP-ASN,19383 // Web Elite LLC
 IP-ASN,19342 // Trinity University
 IP-ASN,19218 // Midvale Telephone Exchange, Incorporated
@@ -2070,7 +2073,6 @@ IP-ASN,14343 // i2 Technologies Inc.
 IP-ASN,14327 // Portland General Electric Company
 IP-ASN,14210 // Edgecast Inc.
 IP-ASN,14136 // PC Connection, Inc.
-IP-ASN,14085 // LEARN
 IP-ASN,13938 // SS&C Technologies, Inc.
 IP-ASN,13745 // Ventus Networks, LLC
 IP-ASN,13720 // Daybreak Game Company LLC
@@ -2153,12 +2155,12 @@ IP-ASN,5723 // Johns Hopkins University
 IP-ASN,5666 // Speedcast Communications, Inc
 IP-ASN,5661 // UNIVERSITY OF SOUTH FLORIDA
 IP-ASN,55264 // Atlantic Metro Communications II, Inc.
-IP-ASN,55034 // IGG.COM
 IP-ASN,54900 // Alianza Inc.
 IP-ASN,54840 // United Wholesale Mortgage, LLC
 IP-ASN,54676 // Metro Data Center LLC
 IP-ASN,54519 // TEAM Madison Partners, LLC.
 IP-ASN,54478 // Fidelity National Financial Inc.
+IP-ASN,54374 // WMTel
 IP-ASN,54327 // MONTANA WEST, L.L.C.
 IP-ASN,54293 // Vocera Communications, Inc.
 IP-ASN,54142 // White Cloud Communications US, LLC
@@ -2201,7 +2203,6 @@ IP-ASN,46340 // HireRight LLC
 IP-ASN,46323 // Telebroad LLC
 IP-ASN,4583 // West Publishing Corporation
 IP-ASN,4544 // Navisite Opco LLC
-IP-ASN,4436 // GTT Americas, LLC
 IP-ASN,44071 // Advanced Communications Solutions LLC
 IP-ASN,4297 // CenturyLink Communications, LLC
 IP-ASN,42808 // NTT Global Networks Incorporated
@@ -2226,6 +2227,7 @@ IP-ASN,400541 // Ridgeline International, LLC
 IP-ASN,400529 // Infraly, LLC
 IP-ASN,400454 // DataRemote, Inc.
 IP-ASN,400436 // Kentucky Communications Network Authority (KCNA)
+IP-ASN,400251 // Oneida Telephone Exchange
 IP-ASN,400039 // Wolverine Trading, LLC
 IP-ASN,399937 // Cisco Webex LLC
 IP-ASN,399820 // Atomic Networks LLC
@@ -2250,7 +2252,6 @@ IP-ASN,397743 // PAYG, LLC
 IP-ASN,397497 // Paycom Payroll, LLC
 IP-ASN,397446 // Midwest Fiber Network, LLC
 IP-ASN,397018 // Cloud Propeller
-IP-ASN,396969 // Strada Communications L.L.C.
 IP-ASN,396939 // Fond du Lac Band of Lake Superior Chippewa
 IP-ASN,396842 // RuralNET
 IP-ASN,396437 // COMMUNICATIONS LABORATORIES
@@ -2277,13 +2278,12 @@ IP-ASN,394772 // American Lebanese Syrian Associated Charities, Inc.
 IP-ASN,394708 // Horizon Telcom Inc.
 IP-ASN,394620 // VCSVCS Inc
 IP-ASN,394545 // Wrike, Inc.
+IP-ASN,394414 // E2W Solutions LLC
 IP-ASN,394325 // SpectrumVoIP Inc
 IP-ASN,394218 // VXI Global Solutions, LLC
 IP-ASN,394122 // Debevoise and Plimpton LLP
 IP-ASN,394105 // AmTrust North America, Inc.
-IP-ASN,393960 // Host4Geeks LLC
 IP-ASN,393856 // City of Westfield (Gas & Electric Light Department)
-IP-ASN,393506 // MY.COM US, INC.
 IP-ASN,393436 // San Luis Valley Rural Electric Cooperative, Inc.
 IP-ASN,393415 // LITTLER MENDELSON, P.C.
 IP-ASN,393350 // Teltrust Corp.
@@ -2305,7 +2305,6 @@ IP-ASN,36026 // CommonSpirit Health
 IP-ASN,3598 // Microsoft Corporation
 IP-ASN,35967 // Citigroup Inc.
 IP-ASN,35873 // Move Networks, inc.
-IP-ASN,33734 // Muscatine Power and Water
 IP-ASN,33647 // Yadkin Valley Telephone
 IP-ASN,33561 // Lunavi, Inc.
 IP-ASN,33512 // Gateway Processing Services
@@ -2447,6 +2446,7 @@ IP-ASN,19504 // WTC Communications, Inc.
 IP-ASN,19437 // SECURED SERVERS LLC
 IP-ASN,19416 // RBC CAPITAL MARKETS CORPORATION
 IP-ASN,19406 // Towerstream I, Inc.
+IP-ASN,19404 // Quest
 IP-ASN,19216 // Revlon Consumer Products Corp.
 IP-ASN,19174 // China Unicom (Americas) Operations Ltd
 IP-ASN,19065 // Levi, Ray & Shoup, Inc.
@@ -2575,7 +2575,6 @@ IP-ASN,721 // DoD Network Information Center
 IP-ASN,7203 // Leaseweb USA, Inc.
 IP-ASN,7065 // Sonic.net, LLC
 IP-ASN,7014 // Verizon Business
-IP-ASN,70 // National Library of Medicine
 IP-ASN,6994 // Fastmetrics
 IP-ASN,6951 // CreditCall Corporation
 IP-ASN,6569 // Nationwide Mutual Insurance Company
@@ -2593,6 +2592,7 @@ IP-ASN,63442 // ServerFarm Realty
 IP-ASN,63428 // LMAX USA Inc
 IP-ASN,63427 // Computer Design & Integration LLC
 IP-ASN,63407 // Terracon Consultants, Inc.
+IP-ASN,63394 // Eastern Iowa IP, LLC
 IP-ASN,63375 // Full Span Solutions LLC
 IP-ASN,63252 // H5 Data Centers
 IP-ASN,63157 // DSW Information Technology LLC.
@@ -2643,6 +2643,7 @@ IP-ASN,55171 // MTS Healthcare
 IP-ASN,55145 // ECFiber
 IP-ASN,55106 // Datacate Inc.
 IP-ASN,55091 // Layer 3 Communications
+IP-ASN,55034 // IGG.COM
 IP-ASN,55013 // MTS Systems Corporation
 IP-ASN,54978 // ZYWAVE INC
 IP-ASN,54963 // Lume Technologies Inc.
@@ -2650,7 +2651,6 @@ IP-ASN,54947 // ZeniMax
 IP-ASN,54945 // RACK59 Partners, LLC
 IP-ASN,54932 // M3 Wireless Inc.
 IP-ASN,54876 // ROKABEAR LLC
-IP-ASN,54743 // Taguchi Networks LLC
 IP-ASN,54706 // ZRAY TECHNOLOGIES CORPORATION
 IP-ASN,54695 // Progent, Corp.
 IP-ASN,54690 // California Lutheran University
@@ -2667,9 +2667,7 @@ IP-ASN,54529 // Louisiana Cancer Research Center
 IP-ASN,54506 // Pineapple Hospitality Company
 IP-ASN,54489 // CoreSpace, Inc.
 IP-ASN,54466 // ISSQUARED, Inc.
-IP-ASN,54455 // MadeIT inc.
 IP-ASN,54391 // Crutchfield New Media LLC
-IP-ASN,54374 // WMTel
 IP-ASN,54373 // Message Express Internet
 IP-ASN,54337 // BWX Technologies, Inc.
 IP-ASN,54328 // The Hinton CATV Company, Inc.
@@ -2739,6 +2737,7 @@ IP-ASN,46090 // LATAM Telecommunications, L.L.C.
 IP-ASN,46082 // Voltage Park, Inc.
 IP-ASN,4574 // Internet Doorway, Inc.
 IP-ASN,4539 // Schweitzer Engineering Laboratories, Inc.
+IP-ASN,4436 // GTT Americas, LLC
 IP-ASN,4314 // Vexus Fiber
 IP-ASN,43076 // Global Broadband Solution Inc
 IP-ASN,42874 // Gilead Sciences, Inc.
@@ -2792,7 +2791,6 @@ IP-ASN,400405 // Fort Dodge Fiber
 IP-ASN,400400 // Clair Global
 IP-ASN,400316 // Minnesota Adult & Teen Challenge
 IP-ASN,40026 // DICK'S SPORTING GOODS INC
-IP-ASN,400251 // Oneida Telephone Exchange
 IP-ASN,40020 // Farmers Telecommunications Cooperative, Inc.
 IP-ASN,400190 // Freeport-McMoRan Inc.
 IP-ASN,400136 // Volt Broadband
@@ -2813,6 +2811,8 @@ IP-ASN,39961 // San Francisco Department of Telecommunications and Information S
 IP-ASN,399589 // 11 11 Systems, Inc
 IP-ASN,39957 // Perella Weinberg Partners GP LLC
 IP-ASN,399541 // Western Reserve Communications, LLC
+IP-ASN,399491 // Viola Communications Inc
+IP-ASN,399457 // NEW WINDSOR TELEPHONE CO
 IP-ASN,399450 // ADVANCIAL FEDERAL CREDIT UNION
 IP-ASN,399381 // Resideo Technologies, Inc
 IP-ASN,399331 // Connect 2 First Internet, LLC
@@ -2820,6 +2820,7 @@ IP-ASN,399257 // InComm
 IP-ASN,399206 // Associated Computer Systems, Ltd
 IP-ASN,399143 // 4-County Electric Power Association
 IP-ASN,399065 // Dixie EPA
+IP-ASN,398947 // CABLE COLOR LLC
 IP-ASN,398914 // State University of New York College at Old Westbury
 IP-ASN,398878 // Merchant-Link, LLC
 IP-ASN,398866 // InterBank
@@ -2875,6 +2876,7 @@ IP-ASN,396311 // FastWave.biz
 IP-ASN,396307 // Southern Imperial Inc.
 IP-ASN,396299 // The IMAGINE Group, LLC
 IP-ASN,396296 // Horizon Credit Union
+IP-ASN,396264 // Night Owl Wireless, LLC
 IP-ASN,396167 // Blackhawk Network, Inc.
 IP-ASN,396163 // My Digital Shield, Inc.
 IP-ASN,396085 // Superior Livestock Auction, LLC
@@ -2923,7 +2925,6 @@ IP-ASN,394563 // XTIUM, INC.
 IP-ASN,394473 // Brantley Telephone Company, Inc.
 IP-ASN,394471 // Gusto, Inc.
 IP-ASN,394424 // LIQUIDNET HOLDINGS INC.
-IP-ASN,394414 // E2W Solutions LLC
 IP-ASN,394381 // L7 Connect
 IP-ASN,394380 // Leaseweb USA, Inc.
 IP-ASN,394334 // Netlink Voice
@@ -2938,6 +2939,7 @@ IP-ASN,394088 // Agriculture Research Service
 IP-ASN,394073 // Bungie Inc.
 IP-ASN,394070 // Internet Systems Consortium, Inc.
 IP-ASN,394001 // Round Rock Independent School District
+IP-ASN,393960 // Host4Geeks LLC
 IP-ASN,393958 // Cushman & Wakefield
 IP-ASN,393925 // Samuel A. Ramirez & Company, Inc
 IP-ASN,393906 // TSI
@@ -2960,6 +2962,7 @@ IP-ASN,393618 // Vision Concept Technology, LLC
 IP-ASN,393518 // ClaimRemedi, Inc.
 IP-ASN,393516 // EDM Americas
 IP-ASN,393513 // Synaptics Incorporated
+IP-ASN,393506 // MY.COM US, INC.
 IP-ASN,393474 // St. Clair County Regional Educational Service Agency
 IP-ASN,393268 // Summit Digital, INC.
 IP-ASN,393262 // Todyl, Inc.
@@ -2991,7 +2994,6 @@ IP-ASN,35962 // Management Science Associates, Inc.
 IP-ASN,35894 // Northern Arkansas Telephone Company
 IP-ASN,35891 // Norwood Light Broadband
 IP-ASN,35865 // Core & Main
-IP-ASN,3527 // National Institutes of Health
 IP-ASN,3378 // Verizon Business
 IP-ASN,33749 // Focus Broadband
 IP-ASN,33745 // Atos IT Solutions and Services Inc
@@ -3078,6 +3080,7 @@ IP-ASN,30418 // SumTotal Systems, Inc.
 IP-ASN,30377 // MacStadium, Inc.
 IP-ASN,30362 // Hawaii Pacific Teleport LP
 IP-ASN,30346 // Sumitomo Mitsui Banking Corporation
+IP-ASN,30325 // South Slope Cooperative Telephone Company
 IP-ASN,30278 // Equity Residential
 IP-ASN,30219 // Major League Baseball Advanced Media, LP
 IP-ASN,30215 // Cisco Systems Ironport Division
@@ -3121,7 +3124,6 @@ IP-ASN,26984 // Universal TelCom LLC
 IP-ASN,26962 // IPROT, Inc.
 IP-ASN,26959 // Cognizant Trizetto Software Group, INC.
 IP-ASN,26955 // ITA GROUP
-IP-ASN,26954 // NETZR LLC
 IP-ASN,26950 // Lippert Components Manufacturing, Inc.
 IP-ASN,26891 // Otava, LLC
 IP-ASN,26879 // Aurelia Telecom Systems LLC
@@ -3297,6 +3299,7 @@ IP-ASN,18816 // CommScope
 IP-ASN,18777 // Texas State University
 IP-ASN,18749 // Premier, Inc.
 IP-ASN,18733 // ZeniMax Media Incorporated
+IP-ASN,18725 // PVH Corp.
 IP-ASN,18690 // Medidata Solutions, Inc
 IP-ASN,18674 // Frost Bank
 IP-ASN,18670 // Arrowstreet Capital, L.P.
@@ -3427,7 +3430,6 @@ IP-ASN,11894 // Service Credit Union
 IP-ASN,11872 // Syracuse University
 IP-ASN,11866 // Ellucian Company LP
 IP-ASN,11854 // Unitas Global
-IP-ASN,11847 // GoNetSpeed
 IP-ASN,11829 // Cadence Design Systems, Inc.
 IP-ASN,11809 // Embry-Riddle University
 IP-ASN,11763 // MitoTec
@@ -3526,6 +3528,7 @@ IP-ASN,7153 // ISO New England Inc.
 IP-ASN,7151 // Cologix, Inc
 IP-ASN,7116 // Toyota Motor Sales, U.S.A., Inc.
 IP-ASN,7030 // Exwire, Inc.
+IP-ASN,70 // National Library of Medicine
 IP-ASN,6989 // Government Technology Services Inc.
 IP-ASN,6983 // Windstream Communications LLC
 IP-ASN,6924 // Star Tribune
@@ -3551,7 +3554,6 @@ IP-ASN,63431 // EMF Broadcasting
 IP-ASN,63417 // Arc Games Inc.
 IP-ASN,63415 // Great Healthworks, Inc
 IP-ASN,63405 // CANON BUSINESS PROCESS SERVICES, Inc.
-IP-ASN,63394 // Eastern Iowa IP, LLC
 IP-ASN,63371 // Lubrizol Additives
 IP-ASN,63370 // Georgia System Operations, Corporation
 IP-ASN,63365 // Time Warner Cable Sports Inc
@@ -3581,6 +3583,7 @@ IP-ASN,63116 // Baker, Donelson, Bearman, Caldwell & Berkowitz, PC
 IP-ASN,63109 // Four County Electric Membership Corporation
 IP-ASN,63107 // Bijou Telephone Co-op Association, Inc.
 IP-ASN,63103 // Ochsner Clinic Foundation
+IP-ASN,63087 // Empyrean Benefit Solutions Inc.
 IP-ASN,63083 // Chapin Long Distance, Inc.
 IP-ASN,63073 // The University of Tampa
 IP-ASN,63066 // 7Hoop Network Telecom, LLC
@@ -3705,13 +3708,13 @@ IP-ASN,54512 // Chickamauga Telephone Corporation
 IP-ASN,54481 // County of Chester
 IP-ASN,54469 // City of Vacaville
 IP-ASN,54459 // TGS Management Company, LLC
+IP-ASN,54455 // MadeIT inc.
 IP-ASN,54434 // WNM Communications
 IP-ASN,54431 // Lunavi, Inc.
 IP-ASN,54420 // COCC
 IP-ASN,54407 // ARENT FOX LLP
 IP-ASN,54380 // ThoughtWave Technologies, Inc.
 IP-ASN,54339 // NB NETWORKS GROUP LLC
-IP-ASN,54334 // Swiftnode LLC
 IP-ASN,54303 // FILMON.COM, INC.
 IP-ASN,54300 // Lightspeed Voice
 IP-ASN,543 // HP Inc.
@@ -3975,6 +3978,7 @@ IP-ASN,401025 // Excel Orthopaedic Specialists
 IP-ASN,40102 // Montgomery College
 IP-ASN,4010 // Headquarters, USAISC
 IP-ASN,400980 // D and B Broadband, LLC
+IP-ASN,400950 // nulled LLC
 IP-ASN,400932 // TECPRESSO INC.
 IP-ASN,40088 // Westlake Chemical Corporation
 IP-ASN,400836 // SL Green Realty Corp
@@ -4004,6 +4008,7 @@ IP-ASN,400391 // Pacific Wyyerd LLC
 IP-ASN,40038 // Moraine Valley Community College
 IP-ASN,400373 // SKYDIO, INC.
 IP-ASN,40036 // Wisk Aero LLC
+IP-ASN,400342 // EDGENAT CLOUD
 IP-ASN,400314 // Gulf Winds Credit Union
 IP-ASN,400302 // PiKNiK & Company Inc.
 IP-ASN,400289 // MFWireless
@@ -4061,9 +4066,7 @@ IP-ASN,399559 // Alpine Communications L.C.
 IP-ASN,399549 // Access Management Services, LLC
 IP-ASN,399529 // Kirkland & Ellis LLP
 IP-ASN,399524 // SoundLine Communications
-IP-ASN,399491 // Viola Communications Inc
 IP-ASN,399458 // Comarch Inc
-IP-ASN,399457 // NEW WINDSOR TELEPHONE CO
 IP-ASN,399449 // Kyndryl
 IP-ASN,399424 // Releasepoint
 IP-ASN,399404 // Vermont Electric Power Company, Inc.
@@ -4096,12 +4099,12 @@ IP-ASN,399006 // KUDZU NETWORKS, INC
 IP-ASN,398965 // EnerBank USA
 IP-ASN,398964 // AVEVA Inc
 IP-ASN,398963 // Long Beach Unified School District
-IP-ASN,398947 // CABLE COLOR LLC
 IP-ASN,398940 // University of South Alabama
 IP-ASN,398919 // Hillsborough County Board of Commissioners
 IP-ASN,398913 // NT Spark, LLC
 IP-ASN,398900 // University of North Carolina at Chapel Hill
 IP-ASN,398875 // The City of New York
+IP-ASN,398862 // AMBULATORY CLAM NETWORK
 IP-ASN,398850 // Cheyney University Of Pennsylvania
 IP-ASN,398837 // Hope Enterprise Corporation
 IP-ASN,398826 // OLink Cloud LLC
@@ -4154,7 +4157,6 @@ IP-ASN,398109 // GoDaddy.com, LLC
 IP-ASN,398106 // GoDaddy.com, LLC
 IP-ASN,398105 // GoDaddy.com, LLC
 IP-ASN,398104 // GoDaddy.com, LLC
-IP-ASN,398071 // Automobile Club of Southern California
 IP-ASN,398068 // Automobile Club of Southern California
 IP-ASN,398063 // Advisor360 LLC
 IP-ASN,398022 // Otter Tail Power Company
@@ -4206,7 +4208,6 @@ IP-ASN,397305 // FMCTC
 IP-ASN,397304 // MediaNet, Inc
 IP-ASN,397276 // Ninth Judicial Circuit Court of Florida
 IP-ASN,397263 // Techloq Limited
-IP-ASN,397244 // Tackitt, Inc.
 IP-ASN,397151 // Trans Union, LLC
 IP-ASN,397146 // Farm Credit Mid-America
 IP-ASN,397140 // Amarillo National Bank
@@ -4247,7 +4248,6 @@ IP-ASN,396305 // Clarksville Connected Utilities
 IP-ASN,396295 // Caliber South, LLC
 IP-ASN,396285 // Cincinnati Bell Technology Solutions
 IP-ASN,396278 // ConnectedAF Limited
-IP-ASN,396264 // Night Owl Wireless, LLC
 IP-ASN,396242 // Tiffany and Company
 IP-ASN,396226 // In the Stix Broadband LLC
 IP-ASN,396188 // Umojo, Inc.
@@ -4419,6 +4419,7 @@ IP-ASN,393833 // Outback Internet
 IP-ASN,393813 // Quantum Health Inc
 IP-ASN,393792 // 2600hz, Inc
 IP-ASN,393769 // Leander Independent School District
+IP-ASN,393759 // City of Austin, Texas
 IP-ASN,393725 // Valence Health, Inc.
 IP-ASN,393710 // Webair Internet Development Company Inc.
 IP-ASN,393687 // Delaware River and Bay Authority
@@ -4442,7 +4443,6 @@ IP-ASN,393385 // National Vision, Inc.
 IP-ASN,393371 // Microbilt Corporation
 IP-ASN,393359 // Security Service Federal Credit Union
 IP-ASN,393355 // SAMSUNG RESEARCH AMERICA, INC.
-IP-ASN,393320 // Forty Niners Holdings LP
 IP-ASN,393312 // TELEFLEX INCORPORATED
 IP-ASN,393301 // ST. JOHN CO-OPERATIVE TELEPHONE AND TELEGRAPH COMPANY
 IP-ASN,393278 // Electric Plant Board of the city of Franklin Kentucky
@@ -4530,6 +4530,7 @@ IP-ASN,35934 // Republic Services Inc.
 IP-ASN,35929 // Bend-La Pine Schools
 IP-ASN,35906 // Traiana, Inc
 IP-ASN,3565 // Prisma Health
+IP-ASN,3527 // National Institutes of Health
 IP-ASN,3482 // State of Montana
 IP-ASN,345 // DoD Network Information Center
 IP-ASN,3401 // City of Seattle, Dept. of Admin. Services
@@ -4710,7 +4711,6 @@ IP-ASN,30390 // Imerys Pigments
 IP-ASN,30382 // IPtelX
 IP-ASN,30359 // Avid Communications, LLC
 IP-ASN,30327 // Alfa Mutual Insurance Company
-IP-ASN,30325 // South Slope Cooperative Telephone Company
 IP-ASN,30321 // Burning Man
 IP-ASN,30305 // Black Knight IP Holding Company, LLC
 IP-ASN,30283 // Morrison & Foerster
@@ -4890,6 +4890,7 @@ IP-ASN,26152 // Cisco Webex LLC
 IP-ASN,26142 // MANNINGTON MILLS
 IP-ASN,26111 // Erwin Utilities
 IP-ASN,26074 // Fresh Direct, LLC
+IP-ASN,26072 // FirstEnergy Corp.
 IP-ASN,26052 // Fortis Clearing Chicago LLC
 IP-ASN,26036 // Kootenai Medical Center
 IP-ASN,26029 // Sparrow Technology Solutions, LLC
@@ -4971,6 +4972,7 @@ IP-ASN,23294 // The University of Louisiana at Monroe
 IP-ASN,23291 // Flagstar Bank
 IP-ASN,23286 // Hulu, LLC
 IP-ASN,23233 // Fenwick & West, LLP.
+IP-ASN,23228 // The County of El Paso
 IP-ASN,23223 // Total Quality Logistics LLC
 IP-ASN,23207 // Northwestern State University
 IP-ASN,23191 // Le Moyne College
@@ -5206,6 +5208,7 @@ IP-ASN,19251 // NEP Group, Inc.
 IP-ASN,19231 // NBCUniversal
 IP-ASN,19195 // MEGLOBAL AMERICAS INC.
 IP-ASN,19194 // Sentris Network LLC
+IP-ASN,19193 // SPIDERROCK HOLDINGS, LLC
 IP-ASN,19157 // Charter Communications LLC
 IP-ASN,19155 // Vystar Credit Union
 IP-ASN,19148 // Leaseweb USA, Inc.
@@ -5242,7 +5245,6 @@ IP-ASN,18760 // City of Rancho Cucamonga
 IP-ASN,18759 // Georgia Southern University
 IP-ASN,18757 // ADT Security Services, Inc.
 IP-ASN,18742 // ON24, Inc.
-IP-ASN,18725 // PVH Corp.
 IP-ASN,18718 // Marvell Semiconductor Inc.
 IP-ASN,18708 // HDR, Inc.
 IP-ASN,18693 // University of Colorado Hospital
@@ -5263,6 +5265,7 @@ IP-ASN,18550 // Farallon Capital Management LLC
 IP-ASN,18535 // Hoffmann LaRoche, Inc.
 IP-ASN,18523 // CHEP International, Inc.
 IP-ASN,18522 // Yum! Brands, Inc.
+IP-ASN,18519 // MTC Technologies
 IP-ASN,18486 // NTT Global Networks Incorporated
 IP-ASN,18482 // City of Raleigh
 IP-ASN,18478 // Mednax Services, Inc.
@@ -5452,7 +5455,6 @@ IP-ASN,14228 // New Dulcina Agridata LLC
 IP-ASN,14211 // Gotham Web Services, Inc.
 IP-ASN,14175 // HAWORTH
 IP-ASN,14161 // Land O'Lakes, Inc.
-IP-ASN,14157 // GENWORTH FINANCIAL, Inc.
 IP-ASN,1415 // Christus Health
 IP-ASN,14147 // Bank-Fund Staff Federal Credit Union
 IP-ASN,14140 // Auburn Essential Services
@@ -5551,6 +5553,7 @@ IP-ASN,11942 // IP Global, LLC.
 IP-ASN,11892 // NCS Pearson Inc.
 IP-ASN,11881 // CNA National Warranty Corporation
 IP-ASN,11862 // Radial, Inc.
+IP-ASN,11847 // GoNetSpeed
 IP-ASN,11842 // Regal Entertainment Group
 IP-ASN,11827 // Washington State University
 IP-ASN,11798 // Ace Data Centers, Inc.
@@ -5761,6 +5764,7 @@ IP-ASN,6553 // HTCNET.ORG
 IP-ASN,6531 // Burlington USD #244
 IP-ASN,6528 // SOUTH ARKANSAS TELEPHONE COMPANY
 IP-ASN,6527 // Commonwealth of Massachusetts
+IP-ASN,6524 // GXS
 IP-ASN,6510 // Brigham Young University
 IP-ASN,6508 // Vantiva USA Shared Services Inc.
 IP-ASN,65 // Air Force Systems Networking
@@ -5866,6 +5870,7 @@ IP-ASN,63204 // The New Mexico Military Institute
 IP-ASN,63193 // Atlanticare Health System Inc.
 IP-ASN,63191 // Wealthfront Corporation
 IP-ASN,6319 // Marriot Corporation
+IP-ASN,63184 // Valley National Bank
 IP-ASN,6318 // Fiserv Solutions, LLC
 IP-ASN,63171 // Pasadena Independent School District
 IP-ASN,63169 // BMA MANAGEMENT SUPPORT CORPORATION
@@ -5887,7 +5892,6 @@ IP-ASN,63104 // Mohawk Networks LLC
 IP-ASN,63102 // Michigan Education Special Services Association
 IP-ASN,63100 // Carnegie Telephone Company, Inc.
 IP-ASN,63097 // City of Poway
-IP-ASN,63087 // Empyrean Benefit Solutions Inc.
 IP-ASN,63077 // ConnectMe, LLC.
 IP-ASN,63071 // Stafford County Public Schools
 IP-ASN,63057 // Axinn, Veltrop & Harkrider LLP
@@ -6190,6 +6194,7 @@ IP-ASN,54772 // Klein Independent School District
 IP-ASN,54762 // Ashland University
 IP-ASN,54761 // Sambreel Services, LLC
 IP-ASN,54744 // EPLUS, Inc.
+IP-ASN,54743 // Taguchi Networks LLC
 IP-ASN,54724 // City of Gaithersburg
 IP-ASN,54714 // Secure Global Solutions LLC
 IP-ASN,54711 // Healthcare Management Systems, Inc.
@@ -6275,6 +6280,7 @@ IP-ASN,54355 // NETWORK SERVICES
 IP-ASN,54354 // Chess.com, LLC
 IP-ASN,54345 // FARM BUREAU MUTUAL INSURANCE COMPANY OF IDAHO
 IP-ASN,54340 // Vexus Fiber
+IP-ASN,54334 // Swiftnode LLC
 IP-ASN,54332 // City of Boise
 IP-ASN,54331 // NORTHEASTERN VERMONT REGIONAL HOSPITAL, INC.
 IP-ASN,54330 // Disney Worldwide Services, Inc.
@@ -6651,6 +6657,7 @@ IP-ASN,46635 // Contact Consumers
 IP-ASN,46631 // City of Wheaton
 IP-ASN,46624 // Beebe Medical Center Inc.
 IP-ASN,46623 // Fishback Financial Corporation
+IP-ASN,46622 // Armstrong Enterprise Communications, Inc.
 IP-ASN,46619 // Foundation Radiology Group
 IP-ASN,46615 // EPIC Consolidated Operations, LLC
 IP-ASN,46598 // Southern Ohio Communication Services
@@ -6873,7 +6880,6 @@ IP-ASN,40729 // AECOM
 IP-ASN,40725 // Universal Connectivity, Inc.
 IP-ASN,40721 // Pennsylvania House of Representatives BMC
 IP-ASN,40719 // One William Street Capital Management, L.P.
-IP-ASN,40713 // Orbiting Code, Inc.
 IP-ASN,40710 // College of Lake County
 IP-ASN,40693 // Central Vermont Medical Center
 IP-ASN,40692 // Cochise Internet Services
@@ -6978,6 +6984,7 @@ IP-ASN,40236 // Matco Tools
 IP-ASN,40233 // SLOMIN'S INC.
 IP-ASN,40232 // Mid-States Services, LLC.
 IP-ASN,40227 // IP Networked Services Inc.
+IP-ASN,40226 // Global Credit Union
 IP-ASN,40222 // Credit One Bank
 IP-ASN,40214 // Groq, Inc.
 IP-ASN,40213 // Tooele County
@@ -6988,6 +6995,7 @@ IP-ASN,40200 // Munson Healthcare
 IP-ASN,40198 // MATI
 IP-ASN,401838 // Uni Broadband LLC
 IP-ASN,401835 // Brass City Residences Inc.
+IP-ASN,401833 // AXNET LLC
 IP-ASN,40183 // Bell Techlogix
 IP-ASN,401828 // Arlington T-V Cooperative, Inc
 IP-ASN,401814 // The Ogilvy Group, LLC
@@ -7109,7 +7117,6 @@ IP-ASN,401006 // DeepIntent, Inc.
 IP-ASN,40100 // Alurium Hosting
 IP-ASN,400999 // NodeShift
 IP-ASN,400998 // AWN Server Hosting, LLC
-IP-ASN,400994 // Oneida Special School District
 IP-ASN,400988 // Salt Lake County
 IP-ASN,400986 // Adsystech, Inc.
 IP-ASN,40098 // Community Antenna Service, Inc.
@@ -7123,7 +7130,6 @@ IP-ASN,400962 // Fourteen Foods, LLC
 IP-ASN,400961 // LogistiVIEW, Inc.
 IP-ASN,40096 // High Point Solutions, Inc.
 IP-ASN,400952 // KISS NAIL PRODUCTS, INC
-IP-ASN,400950 // nulled LLC
 IP-ASN,400949 // Angel of the Winds Casino
 IP-ASN,400948 // Midland County Hospital District
 IP-ASN,400947 // Shannon Medical Center
@@ -7260,7 +7266,6 @@ IP-ASN,400376 // Bay County Clerk of Court & Comptroller
 IP-ASN,400375 // City of Santa Clara, Ca
 IP-ASN,400357 // Southcoast Health System, Inc.
 IP-ASN,400355 // American Structurepoint, INC
-IP-ASN,400342 // EDGENAT CLOUD
 IP-ASN,400339 // Trinity Cyber
 IP-ASN,400338 // Gigabeam Internet
 IP-ASN,400335 // Central Council of the Tlingit and Haida Indian Tribes of Alaska
@@ -7601,7 +7606,6 @@ IP-ASN,398886 // Progressive Expert Consulting, Inc.
 IP-ASN,398880 // InvestCloud, Inc.
 IP-ASN,398879 // Susquehanna Broadband, LLC
 IP-ASN,398863 // White Cap Construction Supply
-IP-ASN,398862 // AMBULATORY CLAM NETWORK
 IP-ASN,398856 // Group M Worldwide, LLC
 IP-ASN,398852 // Nextor Telecom LLC
 IP-ASN,398847 // GTE Financial
@@ -7652,7 +7656,6 @@ IP-ASN,398555 // Concordia University Nebraska
 IP-ASN,398554 // Skyworks Solutions, Inc
 IP-ASN,398551 // City of Sarasota, FL
 IP-ASN,398542 // OneChronos
-IP-ASN,398539 // Identidad Telecom
 IP-ASN,398538 // HERITAGE BROADBAND, LLC
 IP-ASN,398499 // SL Green Realty Corp
 IP-ASN,398498 // Bank OZK
@@ -7757,6 +7760,7 @@ IP-ASN,398101 // GoDaddy.com, LLC
 IP-ASN,398099 // Bay View Funding
 IP-ASN,398089 // Raven Rock Networks, Inc.
 IP-ASN,398086 // SUNY Morrisville
+IP-ASN,398071 // Automobile Club of Southern California
 IP-ASN,398066 // AASHTO
 IP-ASN,398060 // Augusta University
 IP-ASN,398056 // Veritiv Operating Company
@@ -7954,6 +7958,7 @@ IP-ASN,397256 // Paul Consulting Group LLC
 IP-ASN,397253 // Washington County Cooperative Library Services
 IP-ASN,397248 // FractalVision
 IP-ASN,397246 // Ponca City Utility Authority
+IP-ASN,397244 // Tackitt, Inc.
 IP-ASN,397190 // WSP
 IP-ASN,397187 // NHN Global, Inc.
 IP-ASN,397185 // Corda Credit Union
@@ -7984,7 +7989,6 @@ IP-ASN,397076 // ECi Software Solutions, Inc.
 IP-ASN,397068 // CarolinaConnect Cooperative
 IP-ASN,397066 // New York University
 IP-ASN,397065 // Hillside (Technology US) LLC
-IP-ASN,397061 // HRL Laboratories, LLC
 IP-ASN,397060 // Veterinary Information Network, Inc.
 IP-ASN,397056 // AgWorks, LLC
 IP-ASN,397051 // Medical Associates Clinic, P.C.
@@ -8007,7 +8011,6 @@ IP-ASN,396989 // LookingGlass Cyber Solutions Inc.
 IP-ASN,396980 // Absolute Performance, Inc.
 IP-ASN,396977 // USAble Mutual Insurance Company
 IP-ASN,396967 // Township of Woodbridge
-IP-ASN,396965 // Wildcard Corp.
 IP-ASN,396952 // Net253, LLC
 IP-ASN,396947 // Saint Mary of the Woods College
 IP-ASN,396944 // UNFI
@@ -8047,7 +8050,6 @@ IP-ASN,3967 // Nationstar Mortgage, LLC
 IP-ASN,396538 // Northsite Data, LLC
 IP-ASN,396537 // University of Kentucky Federal Credit Union
 IP-ASN,396536 // SentraCam
-IP-ASN,396534 // Deep Systems LLC
 IP-ASN,396533 // The New York Times Company
 IP-ASN,396531 // Allegheny Technologies Incorporated
 IP-ASN,396530 // DCX Goodyear 1, LLC
@@ -8553,7 +8555,6 @@ IP-ASN,394765 // Verint Americas Inc
 IP-ASN,394761 // Princeton Theological Seminary
 IP-ASN,394757 // Parsons Corporation
 IP-ASN,394756 // Convo
-IP-ASN,394755 // City of Rock Hill SC
 IP-ASN,394751 // NetDocuments
 IP-ASN,394747 // National Collegiate Athletic Association (NCAA)
 IP-ASN,394742 // DP Solutions, Inc.
@@ -8803,7 +8804,6 @@ IP-ASN,393774 // Nicolet National Bank
 IP-ASN,393767 // Proto Labs
 IP-ASN,393765 // Faxton St Luke's Healthcare
 IP-ASN,393762 // Restaurant Supply Chain Solutions, LLC
-IP-ASN,393759 // City of Austin, Texas
 IP-ASN,393756 // texanscu
 IP-ASN,393749 // Greenwood CPW
 IP-ASN,393748 // LBMC
@@ -8933,6 +8933,7 @@ IP-ASN,393332 // McAllen Independent School District
 IP-ASN,393323 // Waterfurnace International, Inc
 IP-ASN,393322 // Calero MDSL
 IP-ASN,393321 // AmeriGas Propane
+IP-ASN,393320 // Forty Niners Holdings LP
 IP-ASN,393308 // City of Iowa City
 IP-ASN,393307 // Cooper University Hospital
 IP-ASN,393302 // St. John's College
@@ -9127,7 +9128,6 @@ IP-ASN,36326 // Techwebhosting Internet Solutions LLC
 IP-ASN,36319 // NorthShore University HealthSystem
 IP-ASN,36316 // GoNetSpeed
 IP-ASN,36309 // LOUIS GLICK INTERNATIONAL LTD.
-IP-ASN,36303 // Vickery IT
 IP-ASN,36301 // Pagosa Springs Medical Center
 IP-ASN,36299 // Capstone Investment Advisors LLC
 IP-ASN,36288 // NNSA Information Assurance Response Center (IARC)
@@ -9574,6 +9574,7 @@ IP-ASN,32284 // Bashas' Inc.
 IP-ASN,32280 // The E.W. Scripps Company
 IP-ASN,32273 // Long Island Rail Road
 IP-ASN,32269 // City of Idaho Falls
+IP-ASN,32267 // Willoweb, LLC
 IP-ASN,32262 // Industry I-Net, Inc.
 IP-ASN,32258 // Velocity Fusion
 IP-ASN,32255 // PPL Corporation
@@ -9637,7 +9638,6 @@ IP-ASN,32039 // Myers Internet, Inc.
 IP-ASN,32032 // Orgill, Inc.
 IP-ASN,32028 // Wave Broadband
 IP-ASN,32025 // Hasbro, Inc.
-IP-ASN,32023 // Occidental Petroleum Corporation
 IP-ASN,32022 // Children's Hospital Colorado
 IP-ASN,32009 // PERFECTSERVE, INC.
 IP-ASN,32005 // CHURCH PENSION GROUP SERVICES CORPORATION
@@ -10223,7 +10223,6 @@ IP-ASN,26084 // PCI
 IP-ASN,26081 // Santee Cooper
 IP-ASN,26079 // Momentum Telecom, Inc.
 IP-ASN,26075 // Municipal Credit Union of NY
-IP-ASN,26072 // FirstEnergy Corp.
 IP-ASN,26069 // Alvernia University
 IP-ASN,26065 // Anchin, Block & Anchin LLP
 IP-ASN,26064 // City of Kings Mountain
@@ -10285,7 +10284,6 @@ IP-ASN,2579 // Nokia of America Corporation
 IP-ASN,25789 // Loyola Marymount University
 IP-ASN,25788 // Centerview Partners, LLC
 IP-ASN,25785 // Real Estate Digital LLC
-IP-ASN,25778 // The Urban Institute
 IP-ASN,25771 // PSI/Maximus
 IP-ASN,25770 // Society for Human Resource Management
 IP-ASN,25769 // Garden Valley Telephone Company
@@ -10325,6 +10323,7 @@ IP-ASN,25612 // DSL EXPRESS
 IP-ASN,25609 // Detroit Medical Center
 IP-ASN,25603 // Nationwide Mutual Insurance Company
 IP-ASN,25602 // Travelers Property Casualty Corp.
+IP-ASN,2539 // GlaxoSmithKline
 IP-ASN,2384 // Architect of the Capitol
 IP-ASN,23766 // Electronic Arts, Singapore
 IP-ASN,23765 // Electronic Arts, Australia
@@ -10385,7 +10384,6 @@ IP-ASN,23268 // NeuLion, Inc.
 IP-ASN,23263 // E.L. Internet Northwest
 IP-ASN,23255 // Pacificorp
 IP-ASN,23249 // Avectra
-IP-ASN,23228 // The County of El Paso
 IP-ASN,23227 // Nikon, Inc.
 IP-ASN,23219 // MicroCerv
 IP-ASN,23213 // Thrive Operations, LLC
@@ -11065,7 +11063,6 @@ IP-ASN,19212 // Piedmont Rural Telephone Cooperative, Incorporated
 IP-ASN,19210 // SYNCHRONOSS TECHNOLOGIES
 IP-ASN,19209 // Grantham, Mayo, VanOtterloo & Co. LLC
 IP-ASN,19203 // Imprivata Inc
-IP-ASN,19193 // SPIDERROCK HOLDINGS, LLC
 IP-ASN,19188 // Armanino LLP
 IP-ASN,19185 // City of Mesa
 IP-ASN,19179 // City of El Paso
@@ -11185,7 +11182,6 @@ IP-ASN,18539 // DAYTON SUPERIOR CORPORATION
 IP-ASN,18537 // PPDI
 IP-ASN,18533 // AAA Washington
 IP-ASN,18524 // SOUTHEASTERN ASSET MANAGEMENT, INC.
-IP-ASN,18519 // MTC Technologies
 IP-ASN,18518 // Ares Management LLC
 IP-ASN,18515 // University of Texas at Arlington
 IP-ASN,18512 // Yankee Book Peddler
@@ -11213,6 +11209,7 @@ IP-ASN,18435 // The Junction Internet, LLC
 IP-ASN,1832 // Southern Methodist University
 IP-ASN,1830 // Gulf Coast State College
 IP-ASN,1827 // Manatee County Government
+IP-ASN,18254 // KLAYER LLC
 IP-ASN,1823 // Hannah Motor Company
 IP-ASN,1819 // DCM Cable Inc.
 IP-ASN,17929 // JPMorgan Chase APTI
@@ -11594,7 +11591,6 @@ IP-ASN,14600 // SKYHIGH SECURITY LLC
 IP-ASN,14598 // York College of Pennsylvania
 IP-ASN,14597 // Trans-System inc.
 IP-ASN,14591 // Standard Process Inc.
-IP-ASN,14590 // Desert Schools Federal Credit Union
 IP-ASN,14583 // Virginia Information Technologies Agency (VITA)
 IP-ASN,14574 // RTC Communications
 IP-ASN,14570 // Ansible Networks, LLC
@@ -11655,6 +11651,7 @@ IP-ASN,1432 // Albion College
 IP-ASN,14319 // Furman University
 IP-ASN,14313 // zColo
 IP-ASN,14312 // 1-800 Contacts, Inc.
+IP-ASN,14306 // GlaxoSmithKline
 IP-ASN,14304 // Global Payments Inc.
 IP-ASN,14301 // Everest Global Services
 IP-ASN,14300 // New American Funding
@@ -11691,6 +11688,7 @@ IP-ASN,14170 // Digital River, Inc.
 IP-ASN,14162 // FEDERAL HOME LOAN BANK of PITTSBURGH
 IP-ASN,14160 // Premium Hosting, Inc.
 IP-ASN,1416 // Chicago Public Schools
+IP-ASN,14157 // GENWORTH FINANCIAL, Inc.
 IP-ASN,14149 // Icon Health & Fitness Inc
 IP-ASN,14144 // Admin on Demand, LLC
 IP-ASN,14139 // Maxor National Pharmacy Services, LLC
@@ -12288,7 +12286,6 @@ IP-ASN,6559 // State of NC - State Telecommunications Services
 IP-ASN,6551 // America ISP
 IP-ASN,6547 // DCT Technologies, Inc.
 IP-ASN,6534 // Charter Communications Inc
-IP-ASN,6524 // GXS
 IP-ASN,6501 // The Southern Company
 IP-ASN,6492 // Palomar Community College District
 IP-ASN,6491 // TeleKachina
@@ -12378,7 +12375,6 @@ IP-ASN,63196 // APEX INDUSTRIAL TECHNOLOGIES LLC
 IP-ASN,63194 // Crashlytics, Inc
 IP-ASN,63189 // Andesa Services, Inc
 IP-ASN,63185 // IQVIA Holdings Inc
-IP-ASN,63184 // Valley National Bank
 IP-ASN,63183 // Ything LLC
 IP-ASN,63178 // Mid-Plains Rural Telephone Cooperative, Inc.
 IP-ASN,63168 // T. Rowe Price Associates, INC.
@@ -13145,7 +13141,6 @@ IP-ASN,46642 // TekTera
 IP-ASN,46640 // NWN Corporation
 IP-ASN,46637 // City of Rock Falls
 IP-ASN,46634 // Net10 Internet Services, LLC
-IP-ASN,46622 // Armstrong Enterprise Communications, Inc.
 IP-ASN,46620 // William Beaumont Hospital
 IP-ASN,46614 // Sencinet LatAm (Nevada) Corp.
 IP-ASN,46613 // COLLETTE VACATIONS
@@ -13348,6 +13343,7 @@ IP-ASN,40718 // Bee Line Cable
 IP-ASN,40717 // VeriSign Global Registry Services
 IP-ASN,40715 // Cologix, Inc
 IP-ASN,40714 // Space Exploration Technologies Corporation
+IP-ASN,40713 // Orbiting Code, Inc.
 IP-ASN,40711 // Interactive Brokers LLC
 IP-ASN,40709 // City of Bend
 IP-ASN,40704 // Delphi Capital Management, Inc.
@@ -13448,7 +13444,6 @@ IP-ASN,40245 // Wake Forest University
 IP-ASN,40240 // Fayette County Board of Education
 IP-ASN,40234 // Rapidparts, Inc.
 IP-ASN,40228 // Levin & Levy, LLP
-IP-ASN,40226 // Global Credit Union
 IP-ASN,40218 // Tekcetera Inc
 IP-ASN,40216 // DSTIP Networks LLC
 IP-ASN,40215 // Contran Corporation
@@ -13472,9 +13467,9 @@ IP-ASN,401870 // Automate The Things, LLC
 IP-ASN,401859 // D3VUR LLC
 IP-ASN,401858 // Attitude Online
 IP-ASN,401851 // County of San Diego
+IP-ASN,401847 // 321 Communications, Inc.
 IP-ASN,401846 // SUZKO LLC
 IP-ASN,40184 // MeridianLink, Inc.
-IP-ASN,401833 // AXNET LLC
 IP-ASN,401824 // Coritan LLC
 IP-ASN,401820 // HashTable, Inc.
 IP-ASN,401815 // Silis LLC
@@ -13679,6 +13674,7 @@ IP-ASN,401004 // Dabble Ventures
 IP-ASN,401002 // Bridgers & Paxton Consulting Engineers, Inc.
 IP-ASN,401000 // ByteNAP Networks LLC
 IP-ASN,400996 // AeroSurf
+IP-ASN,400994 // Oneida Special School District
 IP-ASN,400989 // Ydio LLC
 IP-ASN,400982 // Family Care Network PLLC
 IP-ASN,40097 // Printingforless.com, Inc.
@@ -14188,7 +14184,6 @@ IP-ASN,399158 // Vercara, LLC
 IP-ASN,399157 // Vercara, LLC
 IP-ASN,399156 // Vercara, LLC
 IP-ASN,399155 // Vercara, LLC
-IP-ASN,399154 // Vercara, LLC
 IP-ASN,399153 // Vercara, LLC
 IP-ASN,399150 // ispexchangecorp
 IP-ASN,399149 // Good Shepherd Medical Center
@@ -14308,6 +14303,7 @@ IP-ASN,398545 // County of Volusia
 IP-ASN,398544 // Simplicity Tech
 IP-ASN,398543 // Carson-Newman University
 IP-ASN,398540 // Compass Minerals America Inc.
+IP-ASN,398539 // Identidad Telecom
 IP-ASN,398536 // Farmers Rural Connect, Inc.
 IP-ASN,398535 // EAST SIDE UNION HIGH SCHOOL DIST
 IP-ASN,398497 // Point Broadband Fiber Holding, LLC
@@ -14699,6 +14695,7 @@ IP-ASN,397081 // AU Wireless
 IP-ASN,397078 // rNetworks, LLC
 IP-ASN,397075 // Spanish Peaks Regional Health Center
 IP-ASN,397071 // AWEB LLC
+IP-ASN,397061 // HRL Laboratories, LLC
 IP-ASN,397059 // Polar Bears International
 IP-ASN,397057 // Forked Deer Electric Cooperative, Inc.
 IP-ASN,397055 // 12-182-8156
@@ -14717,6 +14714,7 @@ IP-ASN,396979 // OXNARD SCHOOL DISTRICT
 IP-ASN,396973 // Department of Homeland Security
 IP-ASN,396972 // Department of Homeland Security
 IP-ASN,396971 // Bridge Point Communication
+IP-ASN,396965 // Wildcard Corp.
 IP-ASN,396960 // TransCanada Pipelines Limited
 IP-ASN,396959 // Apple Bank for Savings
 IP-ASN,396958 // Sterling Bank & Trust, FSB
@@ -14837,7 +14835,6 @@ IP-ASN,396574 // VeriSign Global Registry Services
 IP-ASN,396567 // VeriSign Global Registry Services
 IP-ASN,396566 // VeriSign Global Registry Services
 IP-ASN,396563 // VeriSign Global Registry Services
-IP-ASN,396561 // VeriSign Global Registry Services
 IP-ASN,396560 // VeriSign Global Registry Services
 IP-ASN,396550 // VeriSign Global Registry Services
 IP-ASN,396549 // VeriSign Global Registry Services
@@ -14849,6 +14846,7 @@ IP-ASN,396543 // VeriSign Global Registry Services
 IP-ASN,396542 // VeriSign Global Registry Services
 IP-ASN,396541 // VeriSign Global Registry Services
 IP-ASN,396540 // VeriSign Global Registry Services
+IP-ASN,396534 // Deep Systems LLC
 IP-ASN,396527 // Massachusetts Institute of Technology
 IP-ASN,396511 // Tytech Technology Limited
 IP-ASN,396508 // Michels Corporation
@@ -15193,6 +15191,7 @@ IP-ASN,394764 // Confluence Health
 IP-ASN,394762 // Desert Sands Unified School District
 IP-ASN,394760 // Sauce Servers LLC
 IP-ASN,394759 // TWIN EAGLE RESOURCE MANAGEMENT, LLC
+IP-ASN,394755 // City of Rock Hill SC
 IP-ASN,394750 // Universal Furniture International Inc.
 IP-ASN,394748 // City of Fort Collins
 IP-ASN,394741 // Idaho Central Credit Union
@@ -15664,6 +15663,7 @@ IP-ASN,36323 // Ezri Inc
 IP-ASN,36317 // TOLL BROTHERS INC
 IP-ASN,36311 // Capital Credit Union
 IP-ASN,36305 // The Albany Mutual Telephone Association
+IP-ASN,36303 // Vickery IT
 IP-ASN,36300 // Pinellas County Schools
 IP-ASN,36298 // InfoCision Management Corporation
 IP-ASN,36293 // North Hunterdon-Voorhees Regional High School District
@@ -16051,7 +16051,6 @@ IP-ASN,323 // DoD Network Information Center
 IP-ASN,32295 // Design Collective, Inc.
 IP-ASN,32293 // The TCW Group, Inc.
 IP-ASN,32274 // Lenawee-Monroe Technology Consortium
-IP-ASN,32267 // Willoweb, LLC
 IP-ASN,32253 // Buffalo & Erie County Public Library
 IP-ASN,32251 // BNP PARIBAS US WHOLESALE HOLDINGS, CORP.
 IP-ASN,32248 // AetherPaw LLC
@@ -16091,6 +16090,7 @@ IP-ASN,32056 // SHAMROCK FOODS COMPANY
 IP-ASN,32041 // Underwriters Laboratories
 IP-ASN,32031 // BLUE VALLEY USD NO 229
 IP-ASN,32024 // Blueficity
+IP-ASN,32023 // Occidental Petroleum Corporation
 IP-ASN,32010 // Top Speed Internet Service
 IP-ASN,32002 // RackGenius
 IP-ASN,320 // DoD Network Information Center
@@ -16673,6 +16673,7 @@ IP-ASN,25802 // Home Box Office
 IP-ASN,258 // Headquarters, USAISC
 IP-ASN,25798 // Vexus Fiber
 IP-ASN,25780 // HugeServer Networks, LLC
+IP-ASN,25778 // The Urban Institute
 IP-ASN,25776 // University of Oklahoma
 IP-ASN,25775 // Gladson, LLC
 IP-ASN,25774 // Better eSolution
@@ -16704,7 +16705,6 @@ IP-ASN,25606 // Cooperative Communications Inc.
 IP-ASN,25604 // GULF SOUTH PIPELINE CO LP
 IP-ASN,2553 // Florida State University
 IP-ASN,25485 // VeriSign Inc.
-IP-ASN,2539 // GlaxoSmithKline
 IP-ASN,252 // Headquarters, USAISC
 IP-ASN,25 // University of California at Berkeley
 IP-ASN,2496 // University of Kansas
@@ -17542,7 +17542,6 @@ IP-ASN,18460 // Fort Hays State University
 IP-ASN,18453 // Wellborn Cabinet Inc.
 IP-ASN,1843 // National Aeronautics and Space Administration
 IP-ASN,1826 // University of Arkansas-Fort Smith
-IP-ASN,18254 // KLAYER LLC
 IP-ASN,1813 // DXC US Latin America Corporation
 IP-ASN,1812 // DXC US Latin America Corporation
 IP-ASN,1809 // Performance Team
@@ -17910,6 +17909,7 @@ IP-ASN,14625 // PGA Tour
 IP-ASN,14622 // GoFIBER
 IP-ASN,14599 // Besser Company
 IP-ASN,14594 // Payment Alliance International, Inc
+IP-ASN,14590 // Desert Schools Federal Credit Union
 IP-ASN,14588 // Activision Publishing, Inc.
 IP-ASN,14584 // Baker & Taylor, Inc.
 IP-ASN,14582 // Dickinson Financial Corporation
@@ -17956,7 +17956,6 @@ IP-ASN,14345 // AMERIPRISE FINANCIAL SERVICES, LLC
 IP-ASN,14332 // Connexity, Inc.
 IP-ASN,14314 // University of Texas Rio Grande Valley
 IP-ASN,14308 // City of Longmont
-IP-ASN,14306 // GlaxoSmithKline
 IP-ASN,14305 // Accuray Incorporated
 IP-ASN,1430 // Board of Bar Overseers
 IP-ASN,14298 // Environmental Protection Agency
@@ -18581,7 +18580,6 @@ IP-ASN,397877 // Eastern Carolina Broadband LLC
 IP-ASN,397800 // ANVIL Systems Group, INC
 IP-ASN,397658 // Hop179 LLC
 IP-ASN,397601 // Catchpoint Systems Inc
-IP-ASN,397217 // Vercara, LLC
 IP-ASN,397170 // COMPASS FOUNDATION LLC
 IP-ASN,397042 // Snip Internet LLC
 IP-ASN,396968 // Ilumno Technologies LTD. Corp.
@@ -18589,6 +18587,7 @@ IP-ASN,396931 // HostRoyale LLC
 IP-ASN,396874 // JAMF
 IP-ASN,396641 // VeriSign Global Registry Services
 IP-ASN,396575 // VeriSign Global Registry Services
+IP-ASN,396561 // VeriSign Global Registry Services
 IP-ASN,396518 // BUILDJET, INC.
 IP-ASN,396303 // Black Mesa Corporation
 IP-ASN,396186 // Wild Turkey Acres WV LLC
