@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-06-25 16:49:38
+// Last Updated: UTC 2026-06-26 16:44:13
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24429 // Zhejiang Taobao Network Co.,Ltd
@@ -28,11 +28,11 @@ IP-ASN,56040 // China Mobile communications corporation
 IP-ASN,7497 // Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)
 IP-ASN,146788 // China Broadcasting Network Co., Ltd
 IP-ASN,137753 // Beijing Jingdong Shangke Information Technology Co. Ltd.
-IP-ASN,202782 // Yaoheng Digital (Shanghai) Technology Co., Ltd.
-IP-ASN,9929 // China Netcom Backbone
 IP-ASN,135426 // ZTE Corporation
-IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
+IP-ASN,9929 // China Netcom Backbone
+IP-ASN,202782 // Yaoheng Digital (Shanghai) Technology Co., Ltd.
 IP-ASN,58879 // Shanghai ruisu network technology co.,LTD
+IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 IP-ASN,44421 // Yifu Yu
 IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,146834 // SiChuan XunYou Network Technologe Limit, co
@@ -299,7 +299,6 @@ IP-ASN,18245 // CNNIC
 IP-ASN,17799 // asn for Liaoning Provincial Net of CT
 IP-ASN,17739 // Shanghai Telecom Haplink Network Co., Ltd
 IP-ASN,154402 // Fredyun Network
-IP-ASN,153034 // Wang Lin
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,152186 // Mintel Holding Limited
 IP-ASN,152092 // Henan Angran Cloud Computing Technology Co. Ltd
@@ -372,7 +371,6 @@ IP-ASN,134769 // ChinaNet Jiangsu Changzhou Liyang IDC network
 IP-ASN,134766 // CHINANET Yunnan province IDC2 network
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
 IP-ASN,134764 // CHINANET Guangdong province network
-IP-ASN,134762 // CHINANET Liaoning province Dalian MAN network
 IP-ASN,134760 // Shijiazhuang IDC network, CHINANET Hebei province
 IP-ASN,134542 // China Unicom IP network
 IP-ASN,134477 // Shaoxing Junruiyunjisuan Co Ltd
@@ -522,6 +520,7 @@ IP-ASN,17430 // 5F Greatwall Bldg., A38 Xueyuan Road Haidian District,Beijing
 IP-ASN,154315 // Guangzhou Leidianyun Technology Co Ltd
 IP-ASN,154010 // Xi'an WeiShiJi Network Technology LTD
 IP-ASN,153057 // Li Ruizhi
+IP-ASN,153034 // Wang Lin
 IP-ASN,153033 // Shang Xu
 IP-ASN,152930 // Lin Xiangliang
 IP-ASN,152922 // Zhang Fuyu
@@ -650,6 +649,7 @@ IP-ASN,137264 // Wingmark Matrix (Wuhan) Computer Systems Co Ltd
 IP-ASN,136959 // China Unicom Guangdong IP network
 IP-ASN,136769 // Guangzhou Fengyun Information Technology Co., Ltd.
 IP-ASN,136766 // ROBLOX (SHENZHEN) DIGITAL SCIENCE AND TECHNOLOGY CO., LTD
+IP-ASN,136725 // Chen Jitong
 IP-ASN,136199 // CHINANET Guangdong province Yuedong MAN network
 IP-ASN,136197 // Xiong'an, Hebei Province, P.R.China.
 IP-ASN,136192 // Xiangyang, Hubei Province, P.R.China.
@@ -662,6 +662,7 @@ IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
 IP-ASN,134768 // CHINANET SHAANXI province Cloud Base network
 IP-ASN,134767 // CHINANET Sichuan province Chengdu MAN network
 IP-ASN,134763 // CHINANET Guangdong province network
+IP-ASN,134762 // CHINANET Liaoning province Dalian MAN network
 IP-ASN,134543 // China Unicom Guangdong IP network
 IP-ASN,134488 // CTJ's Global Network
 IP-ASN,134421 // Yunnan Telecom
@@ -5219,7 +5220,6 @@ IP-ASN,137721 // APNIC ASN block
 IP-ASN,137402 // CHINATELECOM Hubei province Shiyan 5G network
 IP-ASN,137401 // CHINATELECOM Hubei province Huangshi 5G network
 IP-ASN,137256 // CatIO Network
-IP-ASN,136725 // Chen Jitong
 IP-ASN,136535 // Yang Mengqi
 IP-ASN,135674 // Kano Network
 IP-ASN,135646 // Luginbash AS
