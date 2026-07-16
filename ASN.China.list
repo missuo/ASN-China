@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-07-15 17:18:01
+// Last Updated: UTC 2026-07-16 17:16:23
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24429 // Zhejiang Taobao Network Co.,Ltd
@@ -22,7 +22,6 @@ IP-ASN,4538 // China Education and Research Network Center
 IP-ASN,4812 // China Telecom (Group)
 IP-ASN,24400 // Shanghai Mobile Communications Co.,Ltd.
 IP-ASN,17621 // China Unicom Shanghai network
-IP-ASN,208754 // XingRui Li
 IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
 IP-ASN,56040 // China Mobile communications corporation
 IP-ASN,7497 // Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)
@@ -36,6 +35,7 @@ IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 IP-ASN,146834 // SiChuan XunYou Network Technologe Limit, co
 IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,213605 // Liu HaoRan
+IP-ASN,208754 // XingRui Li
 IP-ASN,140633 // BILIBILI HK LIMITED
 IP-ASN,37963 // Hangzhou Alibaba Advertising Co.,Ltd.
 IP-ASN,55990 // Huawei Cloud Service data center
@@ -50,8 +50,8 @@ IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
 IP-ASN,56046 // China Mobile communications corporation
 IP-ASN,38365 // Beijing Baidu Netcom Science and Technology Co., Ltd.
 IP-ASN,58466 // CHINANET Guangdong province network
-IP-ASN,59045 // Guangzhou navigation information technology co., LTD
 IP-ASN,24151 // China Internet Network Infomation Center
+IP-ASN,59045 // Guangzhou navigation information technology co., LTD
 IP-ASN,24138 // China TieTong Telecommunications Corporation
 IP-ASN,59019 // Beijing Kingsoft Cloud Internet Technology Co., Ltd
 IP-ASN,38283 // CHINANET SiChuan Telecom Internet Data Center
@@ -106,6 +106,7 @@ IP-ASN,37965 // Pacnet Business Solutions LTD
 IP-ASN,24424 // Beijing Gu Xiang Information Technology Co.,Ltd.
 IP-ASN,23911 // China Next Generation Internet Beijing IX
 IP-ASN,201674 // Wen ZhangYu
+IP-ASN,17962 // ShenZhen Topway Video Communication Co. Ltd
 IP-ASN,154648 // TermRat Network Limited
 IP-ASN,152672 // Aiyun (HK) Network
 IP-ASN,151397 // China Telecom
@@ -136,11 +137,9 @@ IP-ASN,23844 // Beijing Guanghuan Xinwang Digital
 IP-ASN,212532 // XIAO YANG WEN RUI
 IP-ASN,204211 // Hangzhou Yingyun Network Technology Co., Ltd.
 IP-ASN,18241 // State Power Information Net
-IP-ASN,17962 // ShenZhen Topway Video Communication Co. Ltd
 IP-ASN,17775 // shanghai science and technology network communication limited company
 IP-ASN,17429 // BEIJING GEHUA CATV NETWORK CO.LTD
 IP-ASN,153376 // Jilin Province Brick Business Service Limited
-IP-ASN,146814 // Hong Kong University of Science and Technology, Dongchung Town,
 IP-ASN,141425 // China Mobile Group Guangdong communications corporation
 IP-ASN,139721 // HeFei
 IP-ASN,139080 // The Internet Data Center of Sichuan Mobile Communication Company Limited
@@ -212,6 +211,7 @@ IP-ASN,151313 // Pacific Insurance Technology Co., Ltd
 IP-ASN,151302 // Hebei Sea Whale Technology Co. Ltd.
 IP-ASN,148981 // China Telecom
 IP-ASN,146842 // ChinaDataCom Corporation Limited
+IP-ASN,146814 // Hong Kong University of Science and Technology, Dongchung Town,
 IP-ASN,141429 // Agatha Network
 IP-ASN,140895 // China Mobile Group AnHui communications corporation
 IP-ASN,140330 // CHINATELECOM Fujian province Xiamen 5G network
@@ -443,6 +443,7 @@ IP-ASN,59034 // BeiJing Wish Network Technology CO.,LTD.
 IP-ASN,59025 // Beijing Sankuai Technology Co.,Ltd.
 IP-ASN,59016 // China Broadcast Henan Network Co., Ltd
 IP-ASN,59011 // Beijing Yunlin Network Technology Co.,Ltd.
+IP-ASN,58858 // China Internet Network Infomation Center
 IP-ASN,58851 // Priority of Fashion(Beijing)Information Technology Co.,Ltd
 IP-ASN,58772 // CHINANET Fujian province Fuzhou IDC network
 IP-ASN,58571 // CHINANET Guizhou province network
@@ -473,7 +474,6 @@ IP-ASN,45058 // Golden-Bridge Netcom communication Co.,LTD.
 IP-ASN,45057 // CHINA TIETONG SHANGHAI
 IP-ASN,38379 // No.9 Building, No.619 Longchang Road,Shanghai,China
 IP-ASN,38372 // Foshan Tongyuan Intelligent Technology Co., Ltd
-IP-ASN,38371 // APNIC ASN block
 IP-ASN,38364 // RM 1706,Block A,Ocean Express,No.66
 IP-ASN,38341 // HEXIE Information technology Co., Ltd.
 IP-ASN,38340 // 263 Shanghai Communications Ltd.
